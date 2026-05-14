@@ -14,7 +14,7 @@ The system includes dual-mode Enola backend servers:
 Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration.
 
 ## Contents
-- /guides → installation documentation, installation considerations and saubon synogen™ multi-user projects catalogue eeb application user guides (PDF)
+- /guides → installation documentation, installation considerations and saubon synogen™ multi-user projects catalogue web application user guides (PDF)
 - /images/project-catalogue → Saubon Synogen™ projects catalogue screenshots
 - /images/enola → Enola client server screenshots
 - /logs → Enola servers execution logs:
