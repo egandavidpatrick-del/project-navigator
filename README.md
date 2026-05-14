@@ -3,7 +3,7 @@
 This repository contains supporting material for the Saubon Synogen Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
 
 ## Demo Videos
-- Search All Projects (Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
+- Search all Projects (Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
 - Enola Backend Server Demo: https://youtu.be/H2ukH4vqn70
 
 ## Architecture
