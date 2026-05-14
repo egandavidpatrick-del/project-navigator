@@ -1,4 +1,4 @@
-# Saubon Synogen™ Multi-User Projects Catalogue
+# Saubon Synogen™ Multi-User Projects Catalogue Web Application
 
 This repository contains supporting material for the Saubon Synogen™ Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
 
