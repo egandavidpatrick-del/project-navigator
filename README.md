@@ -8,8 +8,8 @@ This repository contains supporting material for the Saubon Synogen Multi-User P
 
 ## Architecture
 The system includes dual-mode Enola backend servers:
-- Enola Client (visible) — user-facing instance for monitoring, automated record unlocking, and system logging
-- Enola Service (hidden) — background server responsible for automated record unlocking and system logging
+- Enola Client (visible) — asynchronous user-facing instance for monitoring, automated record unlocking, and system logging
+- Enola Service (hidden) — asynchronous background server responsible for automated record unlocking and system logging
 
 Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration.
 
