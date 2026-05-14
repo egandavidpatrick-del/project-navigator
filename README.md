@@ -11,7 +11,7 @@ The system includes dual-mode Enola backend servers:
 - Enola Client (visible) — asynchronous user-facing instance for monitoring, automated record unlocking, and system logging
 - Enola Service (hidden) — asynchronous background server responsible for automated record unlocking and system logging
 
-Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration.
+Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
 
 ## Contents
 - /guides → installation documentation, installation considerations and saubon synogen™ multi-user projects catalogue web application user guides (PDF)
