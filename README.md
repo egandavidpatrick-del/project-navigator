@@ -1,10 +1,10 @@
 # Saubon Synogen™ Multi-User Projects Catalogue
 
-This repository contains supporting material for the Saubon Synogen Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
+This repository contains supporting material for the Saubon Synogen™ Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
 
 ## Demo Videos
-- Search all Projects (Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
-- Enola Backend Server Demo: https://youtu.be/H2ukH4vqn70
+- Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
+- Enola Client Server Demo: https://youtu.be/H2ukH4vqn70
 
 ## Architecture
 The system includes dual-mode Enola backend servers:
