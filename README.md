@@ -6,7 +6,7 @@ This repository contains supporting material for the Saubon Synogen™ Multi-Use
 Engineering teams working with large volumes of historical projects often struggle to efficiently locate relevant past work. Project directories are typically stored either on local file servers or in the cloud, forcing users to manually navigate through thousands of folders. This results in slow retrieval times and workflow disruption.
 
 ## Solution
-Cuts project lookup time from minutes to seconds. Engineers search across thousands of past projects, find the right one, and open the folder locally or on the cloud without manual browsing with one click.
+Cuts project lookup time from minutes to seconds. Engineers search across thousands of past projects, find the right one, and open the project directory locally or on the cloud without manual browsing with just one click.
 
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
