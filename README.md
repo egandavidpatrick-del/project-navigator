@@ -2,6 +2,12 @@
 
 This repository contains supporting material for the Saubon Synogen™ Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
 
+## Problem Statement
+Engineering teams working with large volumes of historical projects often struggle to efficiently locate relevant past work. Projects are typically stored across local drives and cloud directories, requiring manual navigation through thousands of folders. This leads to slow retrieval times, workflow disruption, and difficulty reusing existing solutions.
+
+## Solution
+Cuts project lookup time from minutes to seconds. Engineers search across thousands of past projects, find the right one, and open the folder locally or on the cloud without manual browsing with one click.
+
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
 - Enola Client Server Demo: https://youtu.be/H2ukH4vqn70
