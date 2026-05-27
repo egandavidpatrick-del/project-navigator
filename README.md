@@ -8,6 +8,9 @@ Engineering teams working with large volumes of historical projects often strugg
 ## Solution
 No longer is finding a project directory an arduous or time-consuming task — and no longer is it a hit-and-miss exercise. With the Saubon Synogen™ Multi-User Projects Catalogue, any project in the system can be found in seconds. No guesswork, no wasted time, no hit or miss to it. If a project isn’t in the system, it can’t be found.
 
+## Who is it for?
+Designed for AEC companies managing multi-user project workflows involving project managers, architects, engineers, consultants, contractors, and document controllers.
+
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
 - Enola Client Server Demo: https://youtu.be/H2ukH4vqn70
