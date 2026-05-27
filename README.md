@@ -3,7 +3,11 @@
 This repository contains supporting material for the Saubon Synogen™ Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
 
 ## Problem Statement
-Engineering teams working with large volumes of historical projects often struggle to efficiently locate relevant past work. Project directories are typically stored either on local file servers or in the cloud, forcing users to manually navigate through thousands of directories. This results in slow retrieval times and workflow disruption.
+Engineering teams managing large volumes of historical project data often struggle to efficiently locate relevant past work. Project information is commonly distributed across local file servers, shared drives, cloud platforms, and deeply nested directory structures, requiring users to manually navigate thousands of directories and files to locate project information.
+
+This fragmented directory-based workflow leads to slow retrieval times, duplicated effort, reduced visibility across teams, and disruption to day-to-day project operations.
+
+The platform was developed to centralise project visibility and improve access to historical engineering information through a structured multi-user system that reduces dependency on manual directory navigation while ensuring all stakeholders operate from the same up-to-date project data.
 
 ## Solution
 No longer is finding a project directory an arduous or time-consuming task — and no longer is it a hit-and-miss exercise. With the Saubon Synogen™ Multi-User Projects Catalogue, any project in the system can be found in seconds. No guesswork, no wasted time, no hit or miss to it. If a project isn’t in the system, it can’t be found.
