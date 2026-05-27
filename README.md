@@ -22,6 +22,9 @@ Instead of relying on disconnected directories, emails, spreadsheets, and shared
 
 This reduces time spent searching for project data, improves coordination across teams, and ensures historical engineering information remains accessible, traceable, and consistently available throughout the organisation.
 
+## Operational Infrastructure
+The platform includes integrated Enola client and Enola service server components responsible for automated unlocking, operational traceability logging, and autonomous health monitoring within the production environment.
+
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
 - Enola Client Server Demo: https://youtu.be/H2ukH4vqn70
