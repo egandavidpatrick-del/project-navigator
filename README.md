@@ -10,7 +10,7 @@ This fragmented directory-based workflow leads to slow retrieval times, duplicat
 The platform was developed to centralise project visibility and improve access to historical engineering information through a structured multi-user system that reduces dependency on manual directory navigation while ensuring all stakeholders operate from the same up-to-date project data.
 
 ## Solution
-No longer is finding a project directory an arduous or time-consuming task — and no longer is it a hit-and-miss exercise. With the Saubon Synogen™ Multi-User Projects Catalogue, any project in the system can be found in seconds. No guesswork, no wasted time, no hit or miss to it. If a project isn’t in the system, it can’t be found.
+The Saubon Synogen™ Multi-User Projects Catalogue centralises historical engineering project information into a structured searchable environment where projects can be located in seconds — eliminating manual directory navigation, wasted time, and hit-and-miss retrieval workflows.
 
 ## Who is it for?
 Designed for AEC companies managing multi-user project workflows involving project managers, architects, engineers, consultants, contractors, and document controllers.
