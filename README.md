@@ -16,7 +16,9 @@ The Saubon Synogen™ Multi-User Projects Catalogue centralises historical engin
 Designed for AEC companies managing multi-user project workflows involving project managers, architects, engineers, consultants, contractors, and document controllers.
 
 ## Why is it better than current workflow?
-Instead of relying on disconnected directories, emails, and spreadsheets, the platform provides a centralised live project environment where all users work from the same current information.
+Instead of relying on disconnected directories, emails, spreadsheets, and shared drives, the platform provides a centralised live project environment where all users work from the same current information.
+
+This reduces time spent searching for project data, improves coordination across teams, and ensures historical engineering information remains accessible, traceable, and consistently available throughout the organisation.
 
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
