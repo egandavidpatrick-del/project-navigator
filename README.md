@@ -12,7 +12,7 @@ No longer is finding a project directory an arduous or time-consuming task — a
 Designed for AEC companies managing multi-user project workflows involving project managers, architects, engineers, consultants, contractors, and document controllers.
 
 ## Why is it better than current workflow?
-Instead of relying on disconnected folders, emails, and spreadsheets, the platform provides a centralised live project environment where all users work from the same current information.
+Instead of relying on disconnected directories, emails, and spreadsheets, the platform provides a centralised live project environment where all users work from the same current information.
 
 ## Demo Videos
 - Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
