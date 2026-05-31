@@ -136,15 +136,19 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 
 ## Solution
 
-The Saubon Synogen™ Multi-User Projects Catalogue centralises historical engineering project data into a structured searchable environment where projects can be located in seconds — eliminating manual directory navigation, wasted time, and unreliable retrieval workflows.
+The Saubon Synogen™ Multi-User Projects Catalogue centralises both historical and active engineering project data into a structured, searchable environment where information can be located in seconds — eliminating manual directory navigation, wasted time, and unreliable retrieval workflows.
 
-The system provides a single operational source of truth for project visibility, enabling engineering teams to:
+The platform provides a single operational source of truth for project visibility across the organisation, enabling engineering teams to:
 
-* Quickly retrieve historical project information
-* Maintain workflow continuity
-* Improve coordination across teams
-* Increase organisational knowledge accessibility
-* Improve operational visibility throughout the business
+* Quickly retrieve historical and current project information
+* Maintain workflow continuity across departments and project lifecycles
+* Improve coordination and collaboration between teams
+* Increase accessibility to organisational knowledge and technical records
+* Enhance operational visibility throughout the business
+* Reduce time spent searching for engineering documentation and project assets
+
+By consolidating all project information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster engineering decision-making across the organisation.
+
 
 ---
 
