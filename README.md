@@ -35,7 +35,8 @@ The system provides:
 * Reduced time spent searching legacy directories
 * Enhanced collaboration across engineering teams
 
-While originally developed for AEC operational workflows, the platform architecture is adaptable to any organisation managing structured project, case, asset, or document directory systems using project-number-based environments, shared operational directories, or large-scale historical data repositories.
+While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based folder systems, shared operational directories, or large-scale historical data repositories comparable to the example illustrated above.
+
 
 
 ---
