@@ -48,6 +48,12 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/projects-catalogue/image2.png" width="1000">
 </p>
 
+### Search Projects to Modify
+
+<p align="center">
+  <img src="./images/projects-catalogue/image3.png" width="1000">
+</p>
+
 
 ### Enola Client Monitoring
 
