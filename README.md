@@ -3,7 +3,7 @@
 Centralised engineering project retrieval and historical data management platform designed for AEC teams managing large volumes of archived project information.
 
 <p align="center">
-  <img src="saubon-synogen/images/project-catalogue/image1.png" width="1000">
+  <img src="./images/project-catalogue/image1.png" width="1000">
 </p>
 
 ---
