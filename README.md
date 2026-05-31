@@ -126,6 +126,11 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/enola-server/image5.png" width="1000">
 </p>
 
+### Enola :- Only one instance allowed to run
+
+<p align="center">
+  <img src="./images/enola-server/image6.png" width="1000">
+</p>
 
 ---
 
