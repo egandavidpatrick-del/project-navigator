@@ -45,91 +45,91 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 ### Log in
 
 <p align="center">
-  <img src="./images/projects-catalogue/image10.png" width="1000">
+  <img src="./images/projects-catalogue/image10.png" width="100%">
 </p>
 
 ### New User Registration
 
 <p align="center">
-  <img src="./images/projects-catalogue/image7.png" width="1000">
+  <img src="./images/projects-catalogue/image7.png" width="100%">
 </p>
 
 ### Search all Projects
 
 <p align="center">
-  <img src="./images/projects-catalogue/image2.png" width="1000">
+  <img src="./images/projects-catalogue/image2.png" width="100%">
 </p>
 
 ### Search Projects to Modify
 
 <p align="center">
-  <img src="./images/projects-catalogue/image3.png" width="1000">
+  <img src="./images/projects-catalogue/image3.png" width="100%">
 </p>
 
 ### Edit MyProfile
 
 <p align="center">
-  <img src="./images/projects-catalogue/image4.png" width="1000">
+  <img src="./images/projects-catalogue/image4.png" width="100%">
 </p>
 
 ### Create New Project Entry or Register Exiting Project Directory
 
 <p align="center">
-  <img src="./images/projects-catalogue/image5.png" width="1000">
+  <img src="./images/projects-catalogue/image5.png" width="100%">
 </p>
 
 ### Search Users to Modify Access Privileges
 
 <p align="center">
-  <img src="./images/projects-catalogue/image6.png" width="1000">
+  <img src="./images/projects-catalogue/image6.png" width="100%">
 </p>
 
 ### Project in use Notification
 
 <p align="center">
-  <img src="./images/projects-catalogue/image8.png" width="1000">
+  <img src="./images/projects-catalogue/image8.png" width="100%">
 </p>
 
 ### User account in use Notification
 
 <p align="center">
-  <img src="./images/projects-catalogue/image9.png" width="1000">
+  <img src="./images/projects-catalogue/image9.png" width="100%">
 </p>
 
 ### Enola :- Server is running
 
 <p align="center">
-  <img src="./images/enola-server/image1.png" width="1000">
+  <img src="./images/enola-server/image1.png" width="100%">
 </p>
 
 ### Enola :- Server is stopped
 
 <p align="center">
-  <img src="./images/enola-server/image2.png" width="1000">
+  <img src="./images/enola-server/image2.png" width="100%">
 </p>
 
 ### About :- Enola
 
 <p align="center">
-  <img src="./images/enola-server/image3.png" width="1000">
+  <img src="./images/enola-server/image3.png" width="100%">
 </p>
 
 ### Enola :- Server is running
 
 <p align="center">
-  <img src="./images/enola-server/image4.png" width="1000">
+  <img src="./images/enola-server/image4.png" width="100%">
 </p>
 
 ### Enola :- Server is stopped
 
 <p align="center">
-  <img src="./images/enola-server/image5.png" width="1000">
+  <img src="./images/enola-server/image5.png" width="100%">
 </p>
 
 ### Enola :- Only one instance allowed to run
 
 <p align="center">
-  <img src="./images/enola-server/image6.png" width="1000">
+  <img src="./images/enola-server/image6.png" width="100%">
 </p>
 
 ---
