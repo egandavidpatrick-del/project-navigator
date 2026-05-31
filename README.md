@@ -32,12 +32,15 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 
 ## Typical Engineering Project Directory Structure
 
+```text
 2026 Projects
 ├── 26G001 — The First Project
 ├── 26G002 — The Second Project
 ├── 26G003 — The Third Project
 ├── 26G010 — The Tenth Project
 └── 26G100 — The Hundredth Project
+```
+
 
 As engineering organisations grow, these directory structures often expand into thousands of project folders distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
