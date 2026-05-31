@@ -72,25 +72,25 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/projects-catalogue/image6.png" width="1000">
 </p>
 
-### 7
+### New User Registration
 
 <p align="center">
   <img src="./images/projects-catalogue/image7.png" width="1000">
 </p>
 
-### 8
+### Project in use Notification
 
 <p align="center">
   <img src="./images/projects-catalogue/image8.png" width="1000">
 </p>
 
-### 9
+### User account in use Notification
 
 <p align="center">
   <img src="./images/projects-catalogue/image9.png" width="1000">
 </p>
 
-### 10
+### Login
 
 <p align="center">
   <img src="./images/projects-catalogue/image10.png" width="1000">
