@@ -107,7 +107,6 @@ While designed specifically around AEC operational workflows, the platform is ad
 <p align="center">
   <img src="./images/projects-catalogue/image9.png" width="100%">
 </p>
-
 > Click any screenshot to view the full-resolution image within the repository.
 
 ---
