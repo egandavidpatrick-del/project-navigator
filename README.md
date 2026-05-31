@@ -114,6 +114,12 @@ While originally developed for AEC operational workflows, the platform architect
 
 ---
 
+### Enola :- Architectural Diagram - Primary Unlocker Model
+
+<p align="center">
+  <img src="./images/enola-server/image7.png" width="100%">
+</p>
+
 ### Enola :- Server is running
 
 <p align="center">
