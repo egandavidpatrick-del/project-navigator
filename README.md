@@ -1,49 +1,196 @@
 # Saubon Synogen™ Multi-User Projects Catalogue Web Application
 
-This repository contains supporting material for the Saubon Synogen™ Multi-User Projects Catalogue Web Application, including user guides, installation documentation and considerations, system logs, and application screenshots.
+Centralised engineering project retrieval and historical data management platform designed for AEC teams managing large volumes of archived project information.
 
-## Problem Statement
-Engineering teams managing large volumes of historical project data often struggle to efficiently locate relevant past work. Project information is commonly distributed across local file servers, shared drives, cloud platforms, and deeply nested directory structures, requiring users to manually navigate thousands of directories and files to locate project information.
+<p align="center">
+  <img src="images/project-catalogue/image1.png" width="1000">
+</p>
 
-This fragmented directory-based workflow leads to slow retrieval times, duplicated effort, reduced visibility across teams, and disruption to day-to-day project operations.
+---
 
-The platform was developed to centralise project visibility and improve access to historical engineering information through a structured multi-user system that reduces dependency on manual directory navigation while ensuring all stakeholders operate from the same up-to-date project data.
+## Overview
+
+Engineering teams managing large volumes of historical project data often struggle to efficiently locate relevant past work. Project information is commonly distributed across:
+
+* Local file servers
+* Shared drives
+* Cloud platforms
+* Deeply nested directory structures
+
+This fragmented workflow forces users to manually navigate thousands of directories and files to locate project information, resulting in:
+
+* Slow retrieval times
+* Duplicated effort
+* Reduced visibility across teams
+* Disruption to day-to-day project operations
+
+Saubon Synogen™ was developed to centralise project visibility and improve access to historical engineering information through a structured multi-user environment that reduces dependency on manual directory navigation while ensuring all stakeholders operate from the same up-to-date project data.
+
+---
+
+## Key Features
+
+* Centralised engineering project catalogue
+* Fast historical project retrieval
+* Structured searchable project environment
+* Multi-user collaboration workflow
+* Operational traceability logging
+* Autonomous health monitoring
+* Shared live project visibility
+* Reduced dependency on fragmented directory structures
+
+---
+
+## Screenshots
+
+### Project Catalogue Dashboard
+
+![Dashboard](images/project-catalogue/dashboard.png)
+
+### Historical Project Search
+
+![Search](images/project-catalogue/search.png)
+
+### Enola Client Monitoring
+
+![Enola Client](images/enola/enola-client.png)
+
+---
 
 ## Solution
-The Saubon Synogen™ Multi-User Projects Catalogue centralises historical engineering project data into a structured searchable environment where projects can be located in seconds — eliminating manual directory navigation, wasted time, and hit-and-miss retrieval workflows.
 
-The system provides a single operational source of truth for project visibility, enabling engineering teams to quickly retrieve historical information, maintain workflow continuity, and improve organisational knowledge access across the business.
+The Saubon Synogen™ Multi-User Projects Catalogue centralises historical engineering project data into a structured searchable environment where projects can be located in seconds — eliminating manual directory navigation, wasted time, and unreliable retrieval workflows.
 
-## Who is it for?
-Designed for AEC companies managing multi-user project workflows involving project managers, architects, engineers, CAD technicians, consultants, contractors, and document controllers.
+The system provides a single operational source of truth for project visibility, enabling engineering teams to:
 
-## Why is it better than current workflow?
+* Quickly retrieve historical project information
+* Maintain workflow continuity
+* Improve coordination across teams
+* Increase organisational knowledge accessibility
+* Improve operational visibility throughout the business
+
+---
+
+## Who Is It For?
+
+Designed for AEC organisations managing multi-user engineering workflows involving:
+
+* Project Managers
+* Architects
+* Engineers
+* CAD Technicians
+* Consultants
+* Contractors
+* Document Controllers
+
+---
+
+## Why Is It Better Than Traditional Workflows?
+
 Instead of relying on disconnected directories, emails, spreadsheets, and shared drives, the platform provides a centralised live project environment where all users work from the same current information.
 
-This reduces time spent searching for project data, improves coordination across teams, and ensures historical engineering information remains accessible, traceable, and consistently available throughout the organisation.
+This reduces time spent searching for project data, improves coordination across teams, and ensures historical engineering information remains:
+
+* Accessible
+* Traceable
+* Structured
+* Consistently available
+
+---
 
 ## Operational Infrastructure
-The platform includes integrated Enola client and Enola service server components responsible for automated unlocking, operational traceability logging, and autonomous health monitoring within the production environment.
 
-## Demo Videos
-- Search all Projects (Saubon Synogen™ Project Catalogue Demo): https://youtu.be/6LXpte1vlTI
-- Enola Client Server Demo: https://youtu.be/H2ukH4vqn70
+The platform includes integrated Enola Client and Enola Service server components responsible for:
+
+* Automated unlocking
+* Operational traceability logging
+* Autonomous health monitoring
+* Production environment monitoring
+* Background operational services
+
+---
 
 ## Architecture
+
 The system includes dual-mode Enola backend servers:
 
-- Enola Client (visible) — asynchronous user-facing instance for monitoring, full record unlocking traceability & server health logs generated automatically. 
-- Enola Service (hidden) — asynchronous background server for monitoring, full record unlocking traceability & server health logs generated automatically. 
+### Enola Client (Visible)
 
-Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically. Both applications are x64bit.
+Asynchronous user-facing server instance responsible for:
 
-## Contents
-- /guides → installation documentation, installation considerations and saubon synogen™ multi-user projects catalogue web application user guides (PDF)
-- /images/project-catalogue → saubon synogen™ multi-user projects catalogue screenshots
-- /images/enola → enola client server screenshots
-- /logs → enola servers execution logs:
-  - visible log → generated by enola client
-  - hidden log → generated by enola service (background server)
+* Monitoring
+* Full record unlocking traceability
+* Operational logging
+* Automated health monitoring
+
+### Enola Service (Hidden)
+
+Asynchronous background server responsible for:
+
+* Background monitoring
+* Operational traceability logging
+* Automated health monitoring
+* Hidden background service execution
+
+Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
+
+Both applications are x64-bit.
+
+---
+
+## Demo Videos
+
+### Search All Projects — Saubon Synogen™ Project Catalogue Demo
+
+https://youtu.be/6LXpte1vlTI
+
+### Enola Client Server Demo
+
+https://youtu.be/H2ukH4vqn70
+
+---
+
+## Repository Contents
+
+```text
+/guides
+  Installation documentation
+  Installation considerations
+  User guides (PDF)
+
+/images/project-catalogue
+  Saubon Synogen™ screenshots
+
+/images/enola
+  Enola client/server screenshots
+
+/logs
+  Visible logs generated by Enola Client
+  Hidden logs generated by Enola Service
+```
+
+---
+
+## Documentation
+
+This repository includes:
+
+* User Guides
+* Installation Documentation
+* Operational Considerations
+* Application Screenshots
+* Execution Logs
+* Infrastructure Documentation
+
+---
+
+## Status
+
+Active Development
+
+---
 
 ## Author
+
 David Egan
+
