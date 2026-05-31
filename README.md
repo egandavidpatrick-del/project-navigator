@@ -144,6 +144,7 @@ While designed specifically around AEC operational workflows, the platform is ad
   <img src="./images/enola-server/image6.png" width="100%">
 </p>
 > Click any screenshot to view the full-resolution image within the repository.
+
 ---
 
 
