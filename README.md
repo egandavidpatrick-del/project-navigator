@@ -230,10 +230,11 @@ https://youtu.be/H2ukH4vqn70
 ## Repository Contents
 
 ```text
-/guides
-  Installation documentation
-  Installation considerations
-  User guides (PDF)
+/guides/install-guides-considerations
+  Installation documentation (PDF)
+  Installation considerations (PDF)
+/guides/user-guides
+  Saubon Synogen™ User guides (PDF)
 
 /images/projects-catalogue
   Saubon Synogen™ screenshots
