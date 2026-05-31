@@ -170,7 +170,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 
 Instead of relying on disconnected directories, emails, spreadsheets, and shared drives, the platform provides a centralised live project environment where all users work from the same current information.
 
-This reduces time spent searching for project directories, improves coordination across teams, and ensures historical engineering information remains:
+This reduces time spent searching for project directories, improves coordination across teams, and ensures historical and current engineering information remains:
 
 * Accessible
 * Traceable
