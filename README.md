@@ -232,7 +232,7 @@ https://youtu.be/H2ukH4vqn70
 ```text
 /guides/install-guides-considerations
   Does Your Company's Projects Directory Structure Align with the Saubon Synogen™ Web Application Workflow (PDF)
-  Installation_&_Deployment (PDF)
+  Installation & Deployment (PDF)
   Remote Working (PDF)
   
 /guides/user-guides
