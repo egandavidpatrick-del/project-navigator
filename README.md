@@ -290,7 +290,10 @@ Completed Project
 David Egan
 Software Engineer & Solutions Architect
 
-Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across engineering environments.
+Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across AEC engineering environments.
 
-Sole architect and software engineer responsible for system design, platform development, database architecture, workflow integration, and deployment strategy.
+Architect of the Enola Server, Client, and Service infrastructure forming the operational foundation of the Saubon Synogen™ platform.
+
+Lead systems architect and sole software engineer responsible for platform architecture, system design, application development, database architecture, workflow integration, multi-user environment design, and deployment strategy.
+
 
