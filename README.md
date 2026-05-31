@@ -205,9 +205,9 @@ Asynchronous user-facing server instance responsible for:
 Asynchronous background server responsible for:
 
 * Background monitoring
-* Operational traceability logging
+* Full record unlocking traceability
+* Operational logging
 * Automated health monitoring
-* Hidden background service execution
 
 Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
 
