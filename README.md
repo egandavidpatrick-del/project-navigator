@@ -7,26 +7,6 @@ Centralised engineering project retrieval and historical data management platfor
 
 ---
 
-## Overview
-
-Engineering teams managing large volumes of historical project data often struggle to efficiently locate relevant past work. Project information is commonly distributed across:
-
-* Local file servers
-* Shared drives
-* Cloud platforms
-* Deeply nested directory structures
-
-This fragmented workflow forces users to manually navigate thousands of directories and files to locate project information, resulting in:
-
-* Slow retrieval times
-* Duplicated effort
-* Reduced visibility across teams
-* Disruption to day-to-day project operations
-
-Saubon Synogen™ was developed to centralise project visibility and improve access to historical engineering information through a structured multi-user environment that reduces dependency on manual directory navigation while ensuring all stakeholders operate from the same up-to-date project data.
-
----
-
 ## Platform Overview
 The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the example below.
 
