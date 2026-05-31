@@ -42,6 +42,18 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 
 ## Screenshots
 
+### Log in
+
+<p align="center">
+  <img src="./images/projects-catalogue/image10.png" width="1000">
+</p>
+
+### New User Registration
+
+<p align="center">
+  <img src="./images/projects-catalogue/image7.png" width="1000">
+</p>
+
 ### Search all Projects
 
 <p align="center">
@@ -72,12 +84,6 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/projects-catalogue/image6.png" width="1000">
 </p>
 
-### New User Registration
-
-<p align="center">
-  <img src="./images/projects-catalogue/image7.png" width="1000">
-</p>
-
 ### Project in use Notification
 
 <p align="center">
@@ -89,13 +95,6 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 <p align="center">
   <img src="./images/projects-catalogue/image9.png" width="1000">
 </p>
-
-### Log in
-
-<p align="center">
-  <img src="./images/projects-catalogue/image10.png" width="1000">
-</p>
-
 
 ### Enola :- Server is running
 
