@@ -90,7 +90,7 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/projects-catalogue/image9.png" width="1000">
 </p>
 
-### Login
+### Log in
 
 <p align="center">
   <img src="./images/projects-catalogue/image10.png" width="1000">
