@@ -272,7 +272,6 @@ Completed Project
 ## Author
 
 David Egan  
-Independent Software Developer  
-Focused on engineering workflow systems, operational infrastructure, and historical project retrieval platforms.
-Creator of the Saubon Synogen™ Multi-User Projects Catalogue Platform.
+Software Developer & Systems Designer  
+Creator of the Saubon Synogen™ Multi-User Projects Catalogue Platform
 
