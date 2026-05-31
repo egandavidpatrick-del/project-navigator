@@ -275,7 +275,10 @@ Completed Project
 
 ## Author
 
-David Egan  
-Software Developer & Systems Designer  
-Creator of the Saubon Synogen™ Multi-User Projects Catalogue Platform
+David Egan
+Software Engineer & Solutions Architect
+
+Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across engineering environments.
+
+Sole architect and software engineer responsible for system design, platform development, database architecture, workflow integration, and deployment strategy.
 
