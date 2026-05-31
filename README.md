@@ -252,7 +252,6 @@ This repository includes:
 * Operational Considerations
 * Application Screenshots
 * Execution Logs
-* Infrastructure Documentation
 
 ---
 
