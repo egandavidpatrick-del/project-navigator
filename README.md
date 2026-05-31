@@ -54,19 +54,19 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/projects-catalogue/image3.png" width="1000">
 </p>
 
-### Search Projects to Modify 4
+### Edit MyProfile
 
 <p align="center">
   <img src="./images/projects-catalogue/image4.png" width="1000">
 </p>
 
-### Search Projects to Modify 5
+### Create New Project Entry or Register Exiting Project Directory
 
 <p align="center">
   <img src="./images/projects-catalogue/image5.png" width="1000">
 </p>
 
-### Search Projects to Modify 6
+### Search Users to Modify Access Privileges
 
 <p align="center">
   <img src="./images/projects-catalogue/image6.png" width="1000">
