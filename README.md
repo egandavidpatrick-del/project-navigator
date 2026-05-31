@@ -110,6 +110,8 @@ While designed specifically around AEC operational workflows, the platform is ad
 
 > Click any screenshot to view the full-resolution image within the repository.
 
+---
+
 ### Enola :- Server is running
 
 <p align="center">
