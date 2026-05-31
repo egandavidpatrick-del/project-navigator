@@ -97,31 +97,31 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 </p>
 
 
-### Enola Client Monitoring
+### Enola :- Server is running
 
 <p align="center">
   <img src="./images/enola-server/image1.png" width="1000">
 </p>
 
-### 2
+### Enola :- Server is stopped
 
 <p align="center">
   <img src="./images/enola-server/image2.png" width="1000">
 </p>
 
-### 3
+### Enola :- About
 
 <p align="center">
   <img src="./images/enola-server/image3.png" width="1000">
 </p>
 
-### 4
+### Enola :- Server is running
 
 <p align="center">
   <img src="./images/enola-server/image4.png" width="1000">
 </p>
 
-### 5
+### Enola :- Server is stopped
 
 <p align="center">
   <img src="./images/enola-server/image5.png" width="1000">
