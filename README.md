@@ -4,7 +4,7 @@ Centralised engineering project retrieval and historical data management platfor
 <p align="center">
   <img src="./images/projects-catalogue/image1.png" width="100%">
 </p>
-> Click any screenshot to view the full-resolution image within the repository.
+
 ---
 
 ## Platform Overview
@@ -145,6 +145,8 @@ While designed specifically around AEC operational workflows, the platform is ad
 </p>
 
 ---
+
+> Click any screenshot to view the full-resolution image within the repository.
 
 ## Solution
 
