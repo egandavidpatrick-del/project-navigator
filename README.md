@@ -231,8 +231,10 @@ https://youtu.be/H2ukH4vqn70
 
 ```text
 /guides/install-guides-considerations
-  Saubon_Synogen_Multi-User_Projects_Catalogue_Installation_&_Deployment (PDF)
-  Installation considerations (PDF)
+  Does Your Company's Projects Directory Structure Align with the Saubon Synogen™ Web Application Workflow (PDF)
+  Installation_&_Deployment (PDF)
+  Remote Working (PDF)
+  
 /guides/user-guides
   Saubon Synogen™ User guides (PDF)
 
