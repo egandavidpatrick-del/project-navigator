@@ -109,7 +109,7 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
   <img src="./images/enola-server/image2.png" width="1000">
 </p>
 
-### Enola :- About
+### About Enola
 
 <p align="center">
   <img src="./images/enola-server/image3.png" width="1000">
