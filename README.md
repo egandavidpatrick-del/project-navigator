@@ -2,7 +2,7 @@
 
 Centralised engineering project retrieval and historical data management platform designed for AEC teams managing large volumes of archived project information.
 <p align="center">
-  <img src="./images/projects-catalogue/image1.png" width="850">
+  <img src="./images/projects-catalogue/image1.png" width="950">
 </p>
 
 ---
