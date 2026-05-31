@@ -30,7 +30,7 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 ## Key Features
 
 * Centralised engineering project catalogue
-* Fast historical project retrieval
+* Fast historical and current project retrieval
 * Structured searchable project environment
 * Multi-user collaboration workflow
 * Operational traceability logging
