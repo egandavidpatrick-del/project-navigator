@@ -186,7 +186,7 @@ This repository includes:
 
 ## Status
 
-Active Development
+Completed Project
 
 ---
 
