@@ -4,6 +4,7 @@ Centralised engineering project retrieval and historical data management platfor
 <p align="center">
   <img src="./images/projects-catalogue/image1.png" width="1000">
 </p>
+
 ---
 
 ## Overview
