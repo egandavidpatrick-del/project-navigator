@@ -231,7 +231,7 @@ https://youtu.be/H2ukH4vqn70
 
 ```text
 /guides/install-guides-considerations
-  Installation documentation (PDF)
+  Saubon_Synogen_Multi-User_Projects_Catalogue_Installation_&_Deployment (PDF)
   Installation considerations (PDF)
 /guides/user-guides
   Saubon Synogen™ User guides (PDF)
