@@ -15,11 +15,11 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 
 ```text
 2026 Projects
-├── 26G001 — The First Project
-├── 26G002 — The Second Project
-├── 26G003 — The Third Project
-├── 26G010 — The Tenth Project
-└── 26G100 — The Hundredth Project
+├── 26G001 The First Project
+├── 26G002 The Second Project
+├── 26G003 The Third Project
+├── 26G010 The Tenth Project
+└── 26G100 The Hundredth Project
 ```
 
 
