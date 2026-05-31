@@ -27,6 +27,35 @@ Saubon Synogen™ was developed to centralise project visibility and improve acc
 
 ---
 
+## Platform Overview
+The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the example below.
+
+## Typical Engineering Project Directory Structure
+
+2026 Projects
+├── 26G001 — The First Project
+├── 26G002 — The Second Project
+├── 26G003 — The Third Project
+├── 26G010 — The Tenth Project
+└── 26G100 — The Hundredth Project
+
+As engineering organisations grow, these directory structures often expand into thousands of project folders distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
+
+The Saubon Synogen™ platform centralises both historical and current project information into a structured, searchable catalogue, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
+
+The system provides:
+
+* Rapid project retrieval
+* Centralised project visibility
+* Improved operational continuity
+* Increased accessibility to organisational knowledge
+* Reduced time spent searching legacy directories
+* Enhanced collaboration across engineering teams
+
+While designed specifically around AEC operational workflows, the platform is adaptable to any organisation that manages structured project, case, asset, or document directory systems using project-number-based environments.
+
+---
+
 ## Key Features
 
 * Centralised engineering project catalogue
