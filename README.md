@@ -57,17 +57,16 @@ While originally developed for AEC operational workflows, the platform architect
 
 ## Screenshots
 
-### Log in
 
-<p align="center">
+
+<h3>Log in & New User Registration</h3>
+
+<p align="left">
   <img src="./images/projects-catalogue/image10.png" width="45%">
-</p>
-
-### New User Registration
-
-<p align="center">
   <img src="./images/projects-catalogue/image7.png" width="45%">
 </p>
+
+
 
 ### Search all Projects
 
