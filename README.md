@@ -1,9 +1,9 @@
 # Saubon Synogen™ Multi-User Projects Catalogue Web Application
 
 Centralised engineering project retrieval and data intelligence platform for AEC organisations managing both live and historical project data at scale.
-<p align="center">
-  <img src="./images/projects-catalogue/image1.png" width="60%">
-</p>
+
+  <img src="./images/projects-catalogue/image1.png" width="90%">
+
 > Click the screenshot to view the full-resolution image within the repository.
 
 ---
