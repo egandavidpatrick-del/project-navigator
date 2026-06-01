@@ -73,7 +73,7 @@ While originally developed for AEC operational workflows, the platform architect
   <img src="./images/projects-catalogue/image3.png" width="45%">
 </p>
 
-<h3>Edit MyProfile & Create New Project Entry or Register Exiting Project Directory</h3>
+<h3>Edit MyProfile & Create New Project Entry</h3>
 <p align="left">
 <img src="./images/projects-catalogue/image4.png" width="45%">
 <img src="./images/projects-catalogue/image5.png" width="45%">
