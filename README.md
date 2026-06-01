@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Platform Overview
-The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the example below.
+The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
 
 ## Typical Engineering Project Directory Structure
 
