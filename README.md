@@ -207,7 +207,7 @@ This reduces time spent searching for project directories, improves coordination
 
 ---
 
-## Operational Infrastructure
+## 🏗 Operational Infrastructure
 
 The platform includes integrated Enola Client and Enola Service server components responsible for:
 
@@ -231,7 +231,7 @@ https://youtu.be/H2ukH4vqn70
 
 ---
 
-## Repository Contents
+## 📂 Repository Contents
 
 ```text
 /guides/install-guides-considerations
