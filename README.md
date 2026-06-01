@@ -86,7 +86,7 @@ Asynchronous user-facing server instance responsible for:
 Asynchronous background server responsible for:
 
 - Background monitoring: Continuous system checks when client is closed
-- Failover record unlocking: Assumes Primary Unlocker status on client exit
+- Takeover record unlocking: Assumes Primary Unlocker status on client exit
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
   
