@@ -69,7 +69,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 <h3>Search all Projects & Search Projects to Modify</h3>
 
-<p align="center">
+<p align="left">
   <img src="./images/projects-catalogue/image2.png" width="45%">
   <img src="./images/projects-catalogue/image3.png" width="45%">
 </p>
