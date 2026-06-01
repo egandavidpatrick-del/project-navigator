@@ -60,7 +60,7 @@ Frontend:
 - AJAX
   
 Backend:
-- ClosedXML
+- Excel integration ClosedXML
 - PHP
   
 Servers Client & Sevice Background:
