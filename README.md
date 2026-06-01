@@ -67,48 +67,33 @@ While originally developed for AEC operational workflows, the platform architect
 </p>
 
 
-
-### Search all Projects
+<h3>Search all Projects & Search Projects to Modify</h3>
 
 <p align="center">
   <img src="./images/projects-catalogue/image2.png" width="45%">
-</p>
-
-### Search Projects to Modify
-
-<p align="center">
   <img src="./images/projects-catalogue/image3.png" width="45%">
 </p>
 
-### Edit MyProfile
+<h3>Edit MyProfile</h3>
 
-<p align="center">
-  <img src="./images/projects-catalogue/image4.png" width="45%">
-</p>
+<img src="./images/projects-catalogue/image4.png" width="70%">
 
-### Create New Project Entry or Register Exiting Project Directory
+<h3Create New Project Entry or Register Exiting Project Directory</h3>
 
-<p align="center">
-  <img src="./images/projects-catalogue/image5.png" width="45%">
-</p>
+<img src="./images/projects-catalogue/image5.png" width="70%">
 
-### Search Users to Modify Access Privileges
+<h3Search Users to Modify Access Privileges</h3>
 
-<p align="center">
-  <img src="./images/projects-catalogue/image6.png" width="45%">
-</p>
+<img src="./images/projects-catalogue/image6.png" width="70%">
 
-### Project in use Notification
 
-<p align="center">
+<h3>Project in use Notification & User account in use Notification</h3>
+
+<p align="left">
   <img src="./images/projects-catalogue/image8.png" width="45%">
-</p>
-
-### User account in use Notification
-
-<p align="center">
   <img src="./images/projects-catalogue/image9.png" width="45%">
 </p>
+
 > Click any screenshot to view the full-resolution image within the repository.
 
 ---
