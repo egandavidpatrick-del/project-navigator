@@ -93,7 +93,6 @@ While originally developed for AEC operational workflows, the platform architect
   <img src="./images/projects-catalogue/image8.png" width="45%">
   <img src="./images/projects-catalogue/image9.png" width="45%">
 </p>
-
 > Click any screenshot to view the full-resolution image within the repository.
 
 ---
