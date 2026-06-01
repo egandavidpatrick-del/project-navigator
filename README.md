@@ -54,7 +54,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 
 
