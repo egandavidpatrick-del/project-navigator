@@ -68,9 +68,9 @@ Servers Client & Sevice Background:
 - Service Background Server C#
 
 IDE
-Microsoft Visual Studio 2022
+- Microsoft Visual Studio 2022
 Packager-Deployment
-Microsoft Visual Studio 2022 Installer Projects
+- Microsoft Visual Studio 2022 Installer Projects
 --- 
 
 ## 🧩 Architecture
