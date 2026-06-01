@@ -276,12 +276,6 @@ This repository includes:
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome.
-
----
-
 ## 🧑‍💻 Author
 
 David Egan
