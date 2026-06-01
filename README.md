@@ -18,6 +18,14 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 ├── 26G010 The Tenth Project
 └── 26G100 The Hundredth Project
 ```
+```text
+2022 Projects
+├── 22ME001 The First Project
+├── 22ME002 The Second Project
+├── 22ME003 The Third Project
+├── 22ME010 The Tenth Project
+└── 22ME100 The Hundredth Project
+```
 
 
 As engineering organisations grow, these directory structures often expand into thousands of project folders distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
@@ -33,7 +41,7 @@ The system provides:
 * Reduced time spent searching legacy directories
 * Enhanced collaboration across engineering teams
 
-While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based folder systems, shared operational directories, or large-scale historical data repositories comparable to the example illustrated above.
+While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based directory systems, shared operational directories, or large-scale historical data repositories comparable to the example directory structures illustrated above.
 
 
 
