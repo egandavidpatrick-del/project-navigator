@@ -280,7 +280,7 @@ Pull requests are welcome.
 
 ---
 
-## Author
+## 🧑‍💻 Author
 
 David Egan
 Software Engineer & Solutions Architect
