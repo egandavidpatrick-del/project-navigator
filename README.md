@@ -69,7 +69,9 @@ Servers Client & Sevice Background:
 
 IDE
 - Microsoft Visual Studio 2022
+  
 Packager-Deployment
+
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
 
