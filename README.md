@@ -60,43 +60,43 @@ While originally developed for AEC operational workflows, the platform architect
 ### Log in
 
 <p align="center">
-  <img src="./images/projects-catalogue/image10.png" width="100%">
+  <img src="./images/projects-catalogue/image10.png" width="45%">
 </p>
 
 ### New User Registration
 
 <p align="center">
-  <img src="./images/projects-catalogue/image7.png" width="100%">
+  <img src="./images/projects-catalogue/image7.png" width="45%">
 </p>
 
 ### Search all Projects
 
 <p align="center">
-  <img src="./images/projects-catalogue/image2.png" width="100%">
+  <img src="./images/projects-catalogue/image2.png" width="45%">
 </p>
 
 ### Search Projects to Modify
 
 <p align="center">
-  <img src="./images/projects-catalogue/image3.png" width="100%">
+  <img src="./images/projects-catalogue/image3.png" width="45%">
 </p>
 
 ### Edit MyProfile
 
 <p align="center">
-  <img src="./images/projects-catalogue/image4.png" width="100%">
+  <img src="./images/projects-catalogue/image4.png" width="45%">
 </p>
 
 ### Create New Project Entry or Register Exiting Project Directory
 
 <p align="center">
-  <img src="./images/projects-catalogue/image5.png" width="100%">
+  <img src="./images/projects-catalogue/image5.png" width="45%">
 </p>
 
 ### Search Users to Modify Access Privileges
 
 <p align="center">
-  <img src="./images/projects-catalogue/image6.png" width="100%">
+  <img src="./images/projects-catalogue/image6.png" width="45%">
 </p>
 
 ### Project in use Notification
@@ -108,7 +108,7 @@ While originally developed for AEC operational workflows, the platform architect
 ### User account in use Notification
 
 <p align="center">
-  <img src="./images/projects-catalogue/image9.png" width="100%">
+  <img src="./images/projects-catalogue/image9.png" width="45%">
 </p>
 > Click any screenshot to view the full-resolution image within the repository.
 
