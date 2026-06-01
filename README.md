@@ -60,7 +60,9 @@ While originally developed for AEC operational workflows, the platform architect
 - JavaScript
 - AJAX
 - Bootstrap
-- C#
+- Enola Client Server C# Winforms
+- ClosedXML
+- Click Once
 --- 
 
 ## Architecture
@@ -212,7 +214,7 @@ This reduces time spent searching for project directories, improves coordination
 - XAMPP
 - Apache 
 - MariaDB Database
-
+  
 The platform includes integrated Enola Client and Enola Service server components responsible for:
 
 -  Automated unlocking
