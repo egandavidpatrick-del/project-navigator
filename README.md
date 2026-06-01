@@ -60,9 +60,11 @@ Frontend
 - jQuery
 - JavaScript
 - AJAX
+  
 Backend
 - ClosedXML
 - PHP
+  
 Servers Client & Sevice Background
 - Enola Client Server C# Winforms
 - Service Background Server C#
