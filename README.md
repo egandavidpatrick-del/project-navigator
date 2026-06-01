@@ -82,7 +82,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 <h3>Search Users to Modify Access Privileges</h3>
 
-<img src="./images/projects-catalogue/image6.png" width="70%">
+<img src="./images/projects-catalogue/image6.png" width="80%">
 
 
 <h3>Project in use Notification & User account in use Notification</h3>
