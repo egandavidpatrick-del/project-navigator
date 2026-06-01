@@ -89,7 +89,7 @@ Asynchronous background server responsible for:
 - Failover record unlocking: Assumes Primary Unlocker status on client exit
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
-- 
+  
 Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown, the Hidden Service automatically takes over.
 
 ---
