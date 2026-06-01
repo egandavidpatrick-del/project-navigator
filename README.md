@@ -62,6 +62,35 @@ While originally developed for AEC operational workflows, the platform architect
 - Bootstrap
 - C#
 --- 
+
+## Architecture
+
+The system includes dual-mode Enola backend servers:
+
+### Enola Client (Visible)
+
+Asynchronous user-facing server instance responsible for:
+
+* Monitoring
+* Full record unlocking traceability
+* Operational logging
+* Automated health monitoring
+
+### Enola Service (Hidden)
+
+Asynchronous background server responsible for:
+
+* Background monitoring
+* Full record unlocking traceability
+* Operational logging
+* Automated health monitoring
+
+Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
+
+Both applications are x64-bit.
+
+---
+
 ## 📸 Screenshots
 
 
@@ -187,34 +216,6 @@ The platform includes integrated Enola Client and Enola Service server component
 * Autonomous health monitoring
 * Production environment monitoring
 * Background operational services
-
----
-
-## Architecture
-
-The system includes dual-mode Enola backend servers:
-
-### Enola Client (Visible)
-
-Asynchronous user-facing server instance responsible for:
-
-* Monitoring
-* Full record unlocking traceability
-* Operational logging
-* Automated health monitoring
-
-### Enola Service (Hidden)
-
-Asynchronous background server responsible for:
-
-* Background monitoring
-* Full record unlocking traceability
-* Operational logging
-* Automated health monitoring
-
-Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
-
-Both applications are x64-bit.
 
 ---
 
