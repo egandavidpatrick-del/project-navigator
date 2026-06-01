@@ -53,7 +53,15 @@ While originally developed for AEC operational workflows, the platform architect
 * Reduced dependency on fragmented directory structures
 
 ---
+## 🛠 Tech Stack
 
+- PHP
+- jQuery
+- JavaScript
+- AJAX
+- Bootstrap
+- C#
+--- 
 ## 📸 Screenshots
 
 
