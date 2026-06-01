@@ -169,7 +169,7 @@ Both applications are x64-bit.
 
 
 
-## Solution
+## 💡 Solution
 
 The Saubon Synogen™ Multi-User Projects Catalogue centralises both historical and active engineering project data into a structured, searchable environment where information can be located in seconds — eliminating manual directory navigation, wasted time, and unreliable retrieval workflows.
 
@@ -187,7 +187,7 @@ By consolidating all project information into a unified catalogue system, the so
 
 ---
 
-## Who Is It For?
+## 👥 Who Is It For?
 
 Designed for AEC organisations managing multi-user engineering workflows involving:
 
