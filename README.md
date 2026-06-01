@@ -107,18 +107,13 @@ While originally developed for AEC operational workflows, the platform architect
 </p>
 
 
-
-### About :- Enola
-
-<p align="center">
-  <img src="./images/enola-server/image3.png" width="100%">
-</p>
-
-### Enola :- Server is running
+<h3>Enola :- About & Enola :- Server is running</h3>
 
 <p align="center">
-  <img src="./images/enola-server/image4.png" width="100%">
+  <img src="./images/enola-server/image3.png" width="45%">
+  <img src="./images/enola-server/image4.png" width="45%">
 </p>
+
 
 ### Enola :- Server is stopped
 
