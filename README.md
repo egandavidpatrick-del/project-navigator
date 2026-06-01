@@ -72,29 +72,23 @@ Servers Client & Sevice Background:
 
 ## 🧩 Architecture
 
-The system includes dual-mode Enola backend servers:
+The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
 
-### Enola Client (Visible)
-
+Enola Client (Visible)
 Asynchronous user-facing server instance responsible for:
 
-* Monitoring
-* Full record unlocking traceability
-* Operational logging
-* Automated health monitoring
-
-### Enola Service (Hidden)
-
+Monitoring: Real-time status and user activity
+Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
+Operational logging: User actions and system events
+Automated health monitoring: Client-side diagnostics
+Enola Service (Hidden)
 Asynchronous background server responsible for:
 
-* Background monitoring
-* Full record unlocking traceability
-* Operational logging
-* Automated health monitoring
-
-Both Enola Client and Enola Service are packaged and deployed within a single executable, with a dedicated installer handling setup and configuration automatically.
-
-Both applications are x64-bit.
+Background monitoring: Continuous system checks when client is closed
+Failover record unlocking: Assumes Primary Unlocker status on client exit
+Operational logging: Service-level events and errors
+Automated health monitoring: Backend diagnostics
+Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown, the Hidden Service automatically takes over.
 
 ---
 
