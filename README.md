@@ -97,7 +97,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 <h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
 
-<img src="./images/enola-server/image7.png" width="100%">
+<img src="./images/enola-server/image7.png" width="90%">
 
 <h3>Enola :- Server is running & Enola :- Server is stopped</h3>
 
