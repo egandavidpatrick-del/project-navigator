@@ -87,6 +87,7 @@ Asynchronous background server responsible for:
 
 - Background monitoring: Continuous system checks when client is closed or stopping the client server
 - Takeover record unlocking: Assumes Primary Unlocker status on client exit or stopping the client server
+- Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
   
