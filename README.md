@@ -58,7 +58,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 
 
-<h3>Log in & New User Registration</h3>
+<h3>Login & New User Registration</h3>
 
 <p align="left">
   <img src="./images/projects-catalogue/image10.png" width="45%">
