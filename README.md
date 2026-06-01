@@ -229,7 +229,7 @@ The platform includes integrated Enola Client and Enola Service server component
 
 ### Search All Projects — Saubon Synogen™ Project Catalogue Demo
 
-[Video: Project Catalogue Demo](https://youtu.be/8UXpNeYVT)
+[Video: Project Catalogue Demo](https://youtu.be/6LXpte1vlTI)
 
 https://youtu.be/6LXpte1vlTI
 
