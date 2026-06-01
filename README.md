@@ -274,6 +274,12 @@ Completed Project
 
 ---
 
+## 🤝 Contributing
+
+Pull requests are welcome.
+
+---
+
 ## Author
 
 David Egan
