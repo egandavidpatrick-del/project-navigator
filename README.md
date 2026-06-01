@@ -28,7 +28,7 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 ```
 
 
-As engineering organisations grow, these directory structures often expand into thousands of project folders distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
+As engineering organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
 The Saubon Synogen™ platform centralises both historical and current project information into a structured, searchable catalogue, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
 
