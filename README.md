@@ -74,17 +74,15 @@ While originally developed for AEC operational workflows, the platform architect
   <img src="./images/projects-catalogue/image3.png" width="45%">
 </p>
 
-<h3>Edit MyProfile</h3>
-
-<img src="./images/projects-catalogue/image4.png" width="70%">
-
-<h3Create New Project Entry or Register Exiting Project Directory</h3>
-
-<img src="./images/projects-catalogue/image5.png" width="70%">
+<h3>Edit MyProfile & Create New Project Entry or Register Exiting Project Directory</h3>
+<p align="left">
+<img src="./images/projects-catalogue/image4.png" width="45%">
+<img src="./images/projects-catalogue/image5.png" width="45%">
+</p>
 
 <h3Search Users to Modify Access Privileges</h3>
 
-<img src="./images/projects-catalogue/image6.png" width="70%">
+<img src="./images/projects-catalogue/image6.png" width="100%">
 
 
 <h3>Project in use Notification & User account in use Notification</h3>
