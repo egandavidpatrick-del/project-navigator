@@ -85,7 +85,7 @@ Asynchronous user-facing server instance responsible for:
 <h3>Enola Service (Hidden)</h3>
 Asynchronous background server responsible for:
 
-- Background monitoring: Continuous system checks when client is closed
+- Background monitoring: Continuous system checks when client is closed or stopping the client server
 - Takeover record unlocking: Assumes Primary Unlocker status on client exit or stopping the client server
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
