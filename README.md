@@ -41,7 +41,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 ---
 
-## Key Features
+## ✨Key Features
 
 * Centralised engineering project catalogue
 * Fast historical and current project retrieval
@@ -70,7 +70,7 @@ Servers Client & Sevice Background:
 - Service Background Server C#
 --- 
 
-## Architecture
+##🧩Architecture
 
 The system includes dual-mode Enola backend servers:
 
