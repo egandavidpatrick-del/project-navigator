@@ -70,7 +70,7 @@ Servers Client & Sevice Background:
 - Service Background Server C#
 --- 
 
-##🧩Architecture
+## 🧩 Architecture
 
 The system includes dual-mode Enola backend servers:
 
