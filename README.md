@@ -102,7 +102,7 @@ While originally developed for AEC operational workflows, the platform architect
 ### Project in use Notification
 
 <p align="center">
-  <img src="./images/projects-catalogue/image8.png" width="100%">
+  <img src="./images/projects-catalogue/image8.png" width="45%">
 </p>
 
 ### User account in use Notification
