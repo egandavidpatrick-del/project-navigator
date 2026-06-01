@@ -294,6 +294,7 @@ This repository includes:
 ## 🧑‍💻 Author
 
 David Egan
+
 Software Engineer & Solutions Architect
 
 Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across AEC engineering environments.
