@@ -270,7 +270,7 @@ https://youtu.be/H2ukH4vqn70
   Saubon Synogen™ User guides (PDF)
 
 /images/projects-catalogue
-  Saubon Synogen™ screenshots
+  Saubon Synogen™ Projects Catalogue screenshots
 
 /images/enola-server
   Enola client server screenshots
