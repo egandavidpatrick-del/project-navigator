@@ -55,13 +55,17 @@ While originally developed for AEC operational workflows, the platform architect
 ---
 ## 🛠 Tech Stack
 
-- PHP
+Frontend
+- Bootstrap
 - jQuery
 - JavaScript
 - AJAX
-- Bootstrap
-- Enola Client Server C# Winforms
+Backend
 - ClosedXML
+- PHP
+Servers Client & Sevice Background
+- Enola Client Server C# Winforms
+- Service Background Server C#
 --- 
 
 ## Architecture
