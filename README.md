@@ -62,7 +62,6 @@ While originally developed for AEC operational workflows, the platform architect
 - Bootstrap
 - Enola Client Server C# Winforms
 - ClosedXML
-- Click Once
 --- 
 
 ## Architecture
