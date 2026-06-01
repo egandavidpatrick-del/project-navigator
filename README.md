@@ -267,7 +267,8 @@ https://youtu.be/H2ukH4vqn70
   Remote Working (PDF)
   
 /guides/user-guides
-  Saubon Synogen™ User guides (PDF)
+  Saubon Synogen™ Projects Catalogue User guides (PDF)
+  Saubon Synogen™ Enola client server User guide (PDF)
 
 /images/projects-catalogue
   Saubon Synogen™ Projects Catalogue screenshots
