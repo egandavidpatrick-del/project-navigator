@@ -109,22 +109,16 @@ While originally developed for AEC operational workflows, the platform architect
 
 <h3>Enola :- About & Enola :- Server is running</h3>
 
-<p align="center">
+<p align="left">
   <img src="./images/enola-server/image3.png" width="45%">
   <img src="./images/enola-server/image4.png" width="45%">
 </p>
 
+<h3>Enola :- Server is stopped & Enola :- Only one enola client instance allowed to run</h3>
 
-### Enola :- Server is stopped
-
-<p align="center">
-  <img src="./images/enola-server/image5.png" width="100%">
-</p>
-
-### Enola :- Only one instance allowed to run
-
-<p align="center">
-  <img src="./images/enola-server/image6.png" width="100%">
+<p align="left">
+  <img src="./images/enola-server/image5.png" width="45%">
+  <img src="./images/enola-server/image6.png" width="45%">
 </p>
 > Click any screenshot to view the full-resolution image within the repository.
 
