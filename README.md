@@ -209,13 +209,17 @@ This reduces time spent searching for project directories, improves coordination
 
 ## 🏗 Operational Infrastructure
 
+- XAMPP
+- Apache 
+- MariaDB Database
+
 The platform includes integrated Enola Client and Enola Service server components responsible for:
 
-* Automated unlocking
-* Operational traceability logging
-* Autonomous health monitoring
-* Production environment monitoring
-* Background operational services
+-  Automated unlocking
+-  Operational traceability logging
+-  Autonomous health monitoring
+-  Production environment monitoring
+-  Background operational services
 
 ---
 
