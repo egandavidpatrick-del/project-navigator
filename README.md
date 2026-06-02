@@ -86,7 +86,7 @@ Servers Client & Sevice Background:
 - Enola Client Server C# Winforms
 - Service Background Server C#
 
-<h2>Integrated Development Envirnoment</h2>
+<h4>Integrated Development Enviroment</h4>
 - Microsoft Visual Studio 2022
   
 <h2>Packager-Deployment</h2>
