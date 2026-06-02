@@ -97,7 +97,7 @@ While originally developed for AEC operational workflows, the platform architect
 
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
-# Workflow Aligment
+# Your Workflow Alignment
 
 If your company’s directory structure aligns with the sample directory structure defined above, the Saubon Synogen web application can be used to manage and coordinate the project directory workflow throughout your organisation.
 
