@@ -69,7 +69,7 @@ While originally developed for AEC operational workflows, the platform architect
 ---
 ## 🛠 Tech Stack
 
-Frontend:
+<h4>Frontend/h4>
 - Bootstrap
 - jQuery
 - JavaScript
@@ -78,19 +78,18 @@ Frontend:
 - HTML 5
 - CSS 3
   
-Backend:
+<h4>Backend</h4>
 - Excel integration ClosedXML
 - PHP
-  
-Servers Client & Sevice Background:
+
+<h4>Servers Client & Sevice Background:</h4>
 - Enola Client Server C# Winforms
 - Service Background Server C#
 
-<h4>Integrated Development Enviroment</h4>
+<h4>Integrated Development Environment</h4>
 - Microsoft Visual Studio 2022
   
-<h2>Packager-Deployment</h2>
-
+<h4>Packager-Deployment</h4>
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
 
