@@ -70,6 +70,7 @@ While originally developed for AEC operational workflows, the platform architect
 ## 🛠 Tech Stack
 
 <h4>Frontend</h4>
+
 - Bootstrap
 - jQuery
 - JavaScript
