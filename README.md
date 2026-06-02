@@ -38,18 +38,18 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 
 As engineering organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
-The Saubon Synogen™ platform centralises both historical and current project information into a structured, searchable catalogue, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
+The Saubon Synogen™ platform centralises both historical and current project information into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
 
 The system provides:
 
-* Rapid project retrieval
-* Centralised project visibility
-* Improved operational continuity
-* Increased accessibility to organisational knowledge
-* Reduced time spent searching legacy directories
-* Enhanced collaboration across engineering teams
+Rapid project retrieval
+Centralised project visibility
+Improved operational continuity
+Increased accessibility to organisational knowledge
+Reduced time spent searching legacy directories and file systems
+Enhanced collaboration across engineering teams
 
-While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based directory systems, shared operational directories, or large-scale historical data repositories comparable to the example directory structures illustrated above.
+While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based directory systems, shared operational directories, or large-scale historical data repositories.
 
 
 
