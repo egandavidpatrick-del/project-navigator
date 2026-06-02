@@ -326,7 +326,7 @@ David Egan
 
 Software Engineer & Solutions Architect
 
-<a href="https://www.linkedin.com/in/davidpatrickegan" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
+<a href="https://www.linkedin.com/in/davidpatrickegan" target="_blank">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
 
 Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across AEC engineering environments.
 
