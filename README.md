@@ -324,12 +324,6 @@ This repository includes:
 
 David Egan
 
-Software Engineer & Solutions Architect
+Sole Software Developer & Solutions Architect of the Saubon Synogen™ Multi-User Projects Catalogue Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
-
-Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Platform — a centralised engineering project intelligence system developed to improve project visibility, information retrieval, and operational efficiency across AEC engineering environments.
-
-Architect of the Enola Server, Client, and Service infrastructure forming the operational foundation of the Saubon Synogen™ platform.
-
-Lead systems architect and sole software engineer responsible for platform architecture, system design, application development, database architecture, workflow integration, multi-user environment design, and deployment strategy.
