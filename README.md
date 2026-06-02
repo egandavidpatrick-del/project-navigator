@@ -128,6 +128,7 @@ This automatic unlocking process applies to both:
 * user account records within the `user_accounts` table
 
 The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining database accessibility and operational continuity for users of the Saubon Synogen application.
+
 --- 
 ## 🧩 Architecture
 
