@@ -84,7 +84,7 @@ While originally developed for AEC operational workflows, the platform architect
 - Excel integration ClosedXML
 - PHP
 
-<h4>Servers Client & Sevice Background:</h4>
+<h4>Servers Client & Sevice Background</h4>
 
 - Enola Client Server C# Winforms
 - Service Background Server C#
