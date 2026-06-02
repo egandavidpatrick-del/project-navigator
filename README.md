@@ -101,6 +101,8 @@ While originally developed for AEC operational workflows, the platform architect
 
 If your company’s directory structure aligns with the sample directory structure defined above, the Saubon Synogen web application can be used to manage and coordinate the project directory workflow throughout your organisation.
 
+--- 
+
 # Saubon Synogen and Enola Deployment Architecture
 
 The Saubon Synogen system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
