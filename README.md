@@ -138,7 +138,7 @@ The purpose of this mechanism is to prevent stale or abandoned record locks from
 Once deployed, the system operates autonomously.
 
 --- 
-## 🧩 Architecture
+## 🧩 Enola Architecture
 
 The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
 
