@@ -133,7 +133,7 @@ This automatic unlocking process applies to both:
 * project records within the `projects` table
 * user account records within the `user_accounts` table
 
-The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining database accessibility and operational continuity for users of the Saubon Synogen application.
+The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining record accessibility and operational continuity for users of the Saubon Synogen application.
 
 Once deployed, the system operates autonomously.
 
