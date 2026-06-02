@@ -80,17 +80,21 @@ While originally developed for AEC operational workflows, the platform architect
 - CSS 3
   
 <h4>Backend</h4>
+
 - Excel integration ClosedXML
 - PHP
 
 <h4>Servers Client & Sevice Background:</h4>
+
 - Enola Client Server C# Winforms
 - Service Background Server C#
 
 <h4>Integrated Development Environment</h4>
+
 - Microsoft Visual Studio 2022
   
 <h4>Packager-Deployment</h4>
+
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
 
