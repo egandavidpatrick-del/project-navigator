@@ -42,12 +42,12 @@ The Saubon Synogen™ platform centralises both historical and current project i
 
 The system provides:
 
-Rapid project retrieval
-Centralised project visibility
-Improved operational continuity
-Increased accessibility to organisational knowledge
-Reduced time spent searching legacy directories and file systems
-Enhanced collaboration across engineering teams
+- Rapid project retrieval
+- Centralised project visibility
+- Improved operational continuity
+- Increased accessibility to organisational knowledge
+- Reduced time spent searching legacy directories and file systems
+- Enhanced collaboration across engineering teams
 
 While originally developed for AEC operational workflows, the platform architecture is adaptable to other industries that manage projects using similarly structured directory environments, project-number-based directory systems, shared operational directories, or large-scale historical data repositories.
 
