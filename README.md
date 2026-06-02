@@ -76,8 +76,8 @@ While originally developed for AEC operational workflows, the platform architect
 - JavaScript
 - AJAX
 - Excel & Email integration Click Once
-- HTML 5
-- CSS 3
+- HTML5
+- CSS3
   
 <h4>Backend</h4>
 
