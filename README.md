@@ -74,6 +74,7 @@ Frontend:
 - jQuery
 - JavaScript
 - AJAX
+- Excel & Email integration Click Once
   
 Backend:
 - Excel integration ClosedXML
