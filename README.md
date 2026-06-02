@@ -129,7 +129,7 @@ This automatic unlocking process applies to both:
 
 The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining database accessibility and operational continuity for users of the Saubon Synogen application.
 
-The system above when roled out runs autonomously.
+Once deployed, the system operates autonomously.
 
 --- 
 ## 🧩 Architecture
