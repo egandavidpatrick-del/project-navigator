@@ -333,10 +333,3 @@ Designer and developer of the Saubon Synogen™ Multi-User Projects Catalogue Pl
 Architect of the Enola Server, Client, and Service infrastructure forming the operational foundation of the Saubon Synogen™ platform.
 
 Lead systems architect and sole software engineer responsible for platform architecture, system design, application development, database architecture, workflow integration, multi-user environment design, and deployment strategy.
-
-<script>
-document.querySelectorAll('a').forEach(link => {
-  link.setAttribute('target', '_blank');
-  link.setAttribute('rel', 'noopener noreferrer');
-});
-</script>
