@@ -176,7 +176,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 **Watch the system tray clock in the video**
 
 - The video pauses at 15:18 and resumes at 15:23.
-- The locks are gone. The service removed them with no human intervention.
+- The locks are gone. The Enola service removed them with no human intervention.
 
 ---
 
