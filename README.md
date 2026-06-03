@@ -117,7 +117,7 @@ The deployment stack is based on XAMPP, which provides the core runtime environm
 * PHP as the application runtime
 * MariaDB as the database server
 
-Typically, the Saubon Synogen web application is deployed under Apache within the XAMPP environment.
+Typically, the Saubon Synogen™ web application is deployed under Apache within the XAMPP environment.
 
 MariaDB hosts the application databases and tables, including:
 
@@ -133,7 +133,7 @@ This automatic unlocking process applies to both:
 * project records within the `projects` table
 * user account records within the `user_accounts` table
 
-The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining record accessibility and operational continuity for users of the Saubon Synogen application.
+The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining record accessibility and operational continuity for users of the Saubon Synogen™ application.
 
 Once deployed, the system operates autonomously.
 
