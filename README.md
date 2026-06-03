@@ -162,7 +162,7 @@ Asynchronous background server responsible for:
 Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over.
 
 ---
-## Enola: Self-Healing Locks — No Human Intervention Required
+## Enola: Self-Healing Stale Locks — No Human Intervention Required
 
 ### Test: Dual Browsers Crash Recovery
 **Scenario:** A user edits records in two browser sessions. Both browser processes are forcefully terminated via Task Manager.
@@ -171,11 +171,11 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Enola Result:** All locks were automatically released within 5 minutes. No support tickets or manual admin actions were required.
 
-**Demo:** [Enola Self-Healing Locks](https://youtu.be/5InjDMPG5qw)
+**Demo:** [Enola Self-Healing Stale Locks](https://youtu.be/S6xhCtdrEbg)
 
 **Watch the system tray clock in the video**
 
-- The video pauses at 15:18 and resumes at 15:23. The pause is to allow 5 minutes to elapse before unlocking.
+- The video pauses at 18:18 and resumes at 18:23. The pause is to allow 5 minutes to elapse before unlocking.
 - The locks are gone. The Enola service removed them with no human intervention.
 - Refer to the log file at the end of the video for the exact lock and unlock times.
 - Refer to the log file's Date Modified timestamp at the end of the video. This confirms that the lock and unlock operations were executed in real time.
