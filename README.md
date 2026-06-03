@@ -176,8 +176,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 **Watch the system tray clock in the video**
 
 - Video pauses at 15:18
-- Resumes at 15:23
-- Locks gone, Service did it, no human intervention.
+- The video pauses at 15:18 and resumes at 15:23.
+- The locks are gone. The service removed them with no human intervention.
 
 ---
 
