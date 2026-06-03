@@ -165,7 +165,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 ## Enola: Self-Healing Locks — No Human Intervention Required
 
 ### Test: Dual Browsers Crash Recovery
-**Scenario:** A user edits records in two browser sessions. Both browsers are forcefully terminated.
+**Scenario:** A user edits records in two browser sessions. Both browser processes are forcefully terminated via Task Manager.
 
 **Failure Condition Without Recovery:** Records remain locked indefinitely, requiring administrator intervention.
 
