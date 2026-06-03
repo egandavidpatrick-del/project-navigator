@@ -166,8 +166,11 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 ### Test: Dual Browsers Crash Recovery
 **Scenario:** User edits records in 2 browsers. Both browsers killed.
+
 **Expected:** Records locked forever. Admin needed.
+
 **Enola Result:** All locks auto-realeased in 5 minutes. Zero tickets.
+
 **Demo:** Demo video coming shortly.
 
 ---
