@@ -105,7 +105,7 @@ If your company’s directory structure aligns with the sample directory structu
 
 # Saubon Synogen™ and Enola Deployment Architecture
 
-The Saubon Synogen system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
+The Saubon Synogen™ system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
 
 Enola, by contrast, functions as the backend service layer of the overall system architecture.
 
