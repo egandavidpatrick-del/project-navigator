@@ -382,6 +382,6 @@ This repository includes:
 
 David Egan
 
-Sole Software Developer & Solutions Architect of the Saubon Synogen™ Multi-User Projects Catalogue Platform
+Sole Software Developer, Systems Designer, and Solutions Architect for the Saubon Synogen™ Multi-User Projects Catalogue Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
