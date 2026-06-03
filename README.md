@@ -173,7 +173,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Demo:** [Enola Self-Healing Stale Locks](https://youtu.be/S6xhCtdrEbg)
 
-**Watch the system tray clock in the video**
+**Watch the system tray clock on the taskbar in the video**
 
 - The video pauses at 18:18 and resumes at 18:23. The pause is to allow 5 minutes to elapse before unlocking.
 - The stale locks are gone. The Enola service removed them with no human intervention.
