@@ -177,7 +177,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 - The video pauses at 15:18 and resumes at 15:23. The pause is to allow 5 minutes to elapse before unlocking.
 - The locks are gone. The Enola service removed them with no human intervention.
-- View the log file at the end of the video for the exact lock and unlock times.
+- Refer to the log file at the end of the video for the exact lock and unlock times.
 ---
 
 ## 📸 Screenshots
