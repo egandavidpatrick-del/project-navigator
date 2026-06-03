@@ -178,7 +178,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 - Video pauses at 15:18
 - Resumes at 15:23
 - Locks gone, Service did it, no human intervention.
-- 
+
 ---
 
 ## 📸 Screenshots
