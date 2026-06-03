@@ -171,7 +171,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Enola Result:** All locks were automatically released within 5 minutes. No support tickets or manual admin actions were required.
 
-**Demo:** [Enola Self-Healing Locks](https://youtu.be/VPfOMsUfu8A)
+**Demo:** [Enola Self-Healing Locks](https://youtu.be/5InjDMPG5qw)
 
 ---
 
