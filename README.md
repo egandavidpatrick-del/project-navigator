@@ -163,7 +163,7 @@ Asynchronous background server responsible for:
 Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over. When the computer boots up the Hidden Service by default it the Primary Unlocker.
 
 ---
-## Enola: Self-Healing Stale Locks — No Human Intervention Required
+## Enola: Self-Healing Stale Locks Recovery — No Human Intervention Required
 
 ### Test: Dual Browsers Crash Recovery
 **Scenario:** A user edits records in two browser sessions. Both browser processes are forcefully terminated via Task Manager.
