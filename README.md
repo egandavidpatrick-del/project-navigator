@@ -169,7 +169,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Failure Condition Without Recovery:** Records remain locked indefinitely, requiring administrator intervention.
 
-**Enola Result:** All locks were automatically released within 5 minutes. No support tickets or manual admin actions were required.
+**Enola Result:** All stale locks were automatically released exactly within 5 minutes. No support tickets or manual admin actions were required.
 
 **Demo:** [Enola Self-Healing Stale Locks](https://youtu.be/EPn12Rm8V1I)
 
