@@ -57,14 +57,15 @@ While originally developed for AEC operational workflows, the platform architect
 
 ## ✨Key Features
 
-* Centralised engineering project catalogue
-* Fast historical and current project retrieval
-* Structured searchable project environment
-* Multi-user collaboration workflow
-* Operational traceability logging
-* Autonomous health monitoring
-* Shared live project visibility
-* Reduced dependency on fragmented directory structures
+- Centralised engineering project catalogue
+- Fast historical and current project retrieval
+- Structured searchable project environment
+- Multi-user access and administration
+- Shared project visibility
+- Project bookmarking and quick access
+- Controlled project lifecycle management (CRUD)
+- Reduced dependency on fragmented directory structures
+- Automated system health monitoring
 
 ---
 ## 🛠 Tech Stack
