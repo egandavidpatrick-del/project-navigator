@@ -269,18 +269,19 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 ## 💡 Solution
 
-The Saubon Synogen™ Multi-User Projects Catalogue centralises both historical and active engineering project data into a structured, searchable environment where information can be located in seconds — eliminating manual directory navigation, wasted time, and unreliable retrieval workflows.
+The Saubon Synogen™ Multi-User Projects Catalogue centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
 
-The platform provides a single operational source of truth for project visibility across the organisation, enabling engineering teams to:
+The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
 
-* Quickly retrieve historical and current project information
-* Maintain workflow continuity across departments and project lifecycles
-* Improve coordination and collaboration between teams
-* Increase accessibility to organisational knowledge and technical records
-* Enhance operational visibility throughout the business
-* Reduce time spent searching for engineering documentation and project assets
+- Quickly retrieve historical and current project records
+- Access project information through a structured search environment
+- Improve visibility of engineering projects across departments
+- Increase accessibility to organisational knowledge and technical records
+- Reduce time spent locating engineering documentation and project assets
+- Maintain consistent project information throughout the project lifecycle
+- Bookmark and quickly access frequently used projects
 
-By consolidating all project information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster engineering decision-making across the organisation.
+By consolidating project information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for engineering decision-making.
 
 
 ---
