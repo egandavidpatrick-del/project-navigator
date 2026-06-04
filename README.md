@@ -302,14 +302,14 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 
 ## ⚡ Why Is It Better Than Traditional Workflows?
 
-Instead of relying on disconnected directories, emails, spreadsheets, and shared drives, the platform provides a centralised live project environment where all users work from the same current information.
+Instead of relying on disconnected directories, emails, spreadsheets, and local copies, the platform provides a centralised network-accessible project catalogue where all users operate from the same shared directory structure and project data.
 
-This reduces time spent searching for project directories, improves coordination across teams, and ensures historical and current engineering information remains:
+This reduces time spent searching for project directories, improves coordination across teams, and ensures engineering information remains:
 
-* Accessible
-* Traceable
-* Structured
-* Consistently available
+- Accessible
+- Structured
+- Consistently available
+- Shared across all users
 
 ---
 
