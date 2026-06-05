@@ -331,7 +331,7 @@ The platform includes integrated Enola Client and Enola Service server component
 
 ## 🚀 Live Demo
 
-[Search All Projects — Saubon Synogen™ Project Catalogue Demo](https://youtu.be/6LXpte1vlTI)
+[Saubon Synogen™ Project Catalogue Search all Projects Demo](https://youtu.be/6LXpte1vlTI)
 
 [Enola-Asynchronous Record Unlocking Client Server Demo](https://youtu.be/H2ukH4vqn70)
 
