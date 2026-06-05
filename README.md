@@ -100,7 +100,7 @@ While originally developed for AEC operational workflows, the platform architect
 --- 
 # Does your workflow fit the Projects Catalogue way of working?
 
-If your company’s directory structure aligns with the sample directory structures defined above, the Saubon Synogenn™ Projects Catalogue web application can be used to manage and coordinate the project directory workflow throughout your organisation.
+If your company’s directory structure aligns with the sample directory structures defined above, the Saubon Synogen™ Projects Catalogue web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
 
 --- 
 
