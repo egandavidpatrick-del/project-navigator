@@ -186,7 +186,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <h3>Enola Record Unlock Viewer</h3>
 
-**The log file as created in the video above as seen in the Enola Record Unlock viewer**
+**The log file as created in the video above as seen in the Enola Record Unlock Viewer**
 
 <img src="./images/enola-server/image8.png" width="90%">
   
