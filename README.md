@@ -74,6 +74,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 - Bootstrap
 - jQuery
+- Vue
 - JavaScript
 - AJAX
 - Excel & Email integration Click Once
