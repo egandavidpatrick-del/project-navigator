@@ -182,6 +182,10 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 - Refer to the log file in the video for the exact lock and unlock times.
 
   For a full breakdown of Enola and associated logs, including the visible/hidden files and PID naming check the Enola User Guide in the /guides/user-guides folder in this repository.
+
+  <h3>Enola Record Unlock Viewer</h3>
+
+<img src="./images/enola-server/image8.png" width="90%">
   
 ---
 
