@@ -1,4 +1,4 @@
-
+[Stars](https://badgen.net/github/stars/egandavidpatrick-del/saubon-synogen)
 ![GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
