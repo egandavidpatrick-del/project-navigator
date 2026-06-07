@@ -1,6 +1,7 @@
 # Saubon Synogen™ Multi-User Projects Catalogue Web Application
-
-  <img src="./images/projects-catalogue/image1.png" width="90%">
+<p align="left">
+<img src="./images/projects-catalogue/image1.png" width="90%">
+</p>
 > Click the screenshot to view the full-resolution image within the repository.
 
 ---
