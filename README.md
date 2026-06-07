@@ -1,7 +1,7 @@
-[![GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen?style=social)](https://github.com/egandavidpatrick-del/saubon-synogen/stargazers)
-![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
-![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
-![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
+[GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen)
+[GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
+[Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen?cacheSeconds=3600)
+[License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 
 # Saubon Synogen™ Multi-User Projects Catalogue Web Application
 <p align="left">
