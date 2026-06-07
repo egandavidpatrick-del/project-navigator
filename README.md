@@ -1,3 +1,13 @@
+[GitHub Clones](https://img.shields.io/github/clones/egandavidpatrick-del/saubon-synogen/repo/total?label=clones&color=brightgreen)
+[GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen/repo?style=social)
+[GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen/repo)
+[License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen/repo)
+[Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen/repo)
+
+# Your Project Name
+
+Your project description starts here...
+
 # Saubon Synogen™ Multi-User Projects Catalogue Web Application
 <p align="left">
 <img src="./images/projects-catalogue/image1.png" width="90%">
