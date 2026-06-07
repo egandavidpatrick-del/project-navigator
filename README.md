@@ -81,7 +81,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 - Bootstrap
 - jQuery
-- Vue
+- Vue -> Enola Record Unlock Viewer
 - JavaScript
 - AJAX
 - Excel & Email integration Click Once
@@ -96,7 +96,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 <h4>Servers Client & Sevice Background</h4>
 
 - Enola Client Server C# Winforms
-- Service Background Server C#
+- Enola Service C#
 
 <h4>Integrated Development Environment</h4>
 
