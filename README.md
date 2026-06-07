@@ -1,11 +1,3 @@
-[GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen)
-[Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
-[License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
-[Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
-
-# Saubon Synogen™ Multi-User Projects Catalogue Web Application
-
-
 
 ![GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
