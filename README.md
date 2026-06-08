@@ -90,7 +90,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
   
 <h4>Backend</h4>
 
-- Excel integration ClosedXML
+- ClosedXML -> Update Excel Spreadsheet 
 - PHP
 
 <h4>Servers Client & Sevice Background</h4>
