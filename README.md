@@ -84,7 +84,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 - Vue -> Enola Record Unlock Viewer
 - JavaScript
 - AJAX
-- Excel & Email integration Click Once
+- Click Once -> Excel & Email integration 
 - HTML5
 - CSS3
   
