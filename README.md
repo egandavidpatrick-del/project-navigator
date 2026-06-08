@@ -335,17 +335,22 @@ This reduces time spent searching for project directories, improves coordination
 
 ## 🏗 Operational Infrastructure
 
+**Developemt Environment**
+- Operating System: Windows 11 Pro
+- Operating System Verson: 25H2
+- Processor	13th Gen Intel(R) Core(TM) i9-13900 (2.00 GHz)
+- Installed RAM	32.0 GB (31.6 GB usable)
+- Graphics card	Intel(R) UHD Graphics 770 (128 MB)
+- Storage	1TB SSD
+- System type	64-bit operating system, x64-based processor
+
+**Software Requirements**
 - XAMPP
 - Apache 
 - MariaDB Database
   
-The platform includes integrated Enola Client and Enola Service server components responsible for:
-
--  Automated unlocking
--  Operational traceability logging
--  Autonomous health monitoring
--  Production environment monitoring
--  Background operational services
+**Network Requirements**
+- Internet connection
 
 ---
 
