@@ -336,6 +336,7 @@ This reduces time spent searching for project directories, improves coordination
 ## 🏗 Operational Infrastructure
 
 **Development and Test Environment**
+
 The system was developed and tested on a machine running Windows 11. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. While the application may be compatible with other operating systems, formal testing was conducted exclusively on Windows 11.
 
 **Development Environment**
