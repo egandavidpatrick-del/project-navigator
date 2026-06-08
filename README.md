@@ -96,7 +96,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 <h4>Servers Client & Sevice Background</h4>
 
 - Enola Client Server C# Winforms
-- Enola Service C#
+- Enola Service Server C#
 
 <h4>Integrated Development Environment</h4>
 
