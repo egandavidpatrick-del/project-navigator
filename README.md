@@ -335,13 +335,17 @@ This reduces time spent searching for project directories, improves coordination
 
 ## 🏗 Operational Infrastructure
 
-**Developemt Environment**
+**Development and Test Environment**
+The system was developed and tested on a machine running Windows 11. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. While the application may be compatible with other operating systems, formal testing was conducted exclusively on Windows 11.
+
+**Development Environment**
 - Operating System: Windows 11 Pro
 - Operating System Verson: 25H2
 - Processor	13th Gen Intel(R) Core(TM) i9-13900 (2.00 GHz)
 - Installed RAM	32.0 GB (31.6 GB usable)
 - Graphics card	Intel(R) UHD Graphics 770 (128 MB)
 - Storage	1TB SSD
+- Display 2560 × 1440 resolution
 - System type	64-bit operating system, x64-based processor
 
 **Software Requirements**
