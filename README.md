@@ -112,6 +112,10 @@ If your company’s directory structure aligns with the sample directory structu
 
 --- 
 
+# Where does the name Enola come from?
+
+Enola, as I know it, has nothing to do with software, technology, or the computing industry. My connection to the name comes from the Navajo people of Arizona, where Enola is used as a girl's name and is understood to mean “Magnolia.”
+
 # Saubon Synogen™ and Enola Deployment Architecture
 
 The Saubon Synogen™ system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen™ web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
