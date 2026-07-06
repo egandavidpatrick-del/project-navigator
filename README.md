@@ -349,7 +349,7 @@ The hardware specification presented below reflects the development machine used
 
 **Development Environment**
 - Operating System: Windows 11 Pro
-- Operating System Verson: 25H2
+- Operating System Version: 25H2
 - Processor	13th Gen Intel(R) Core(TM) i9-13900 (2.00 GHz)
 - Installed RAM	32.0 GB (31.6 GB usable)
 - Graphics card	Intel(R) UHD Graphics 770 (128 MB)
