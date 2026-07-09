@@ -120,7 +120,7 @@ My association with the name Enola has no connection to the software industry or
 
 # Project Navigator and Enola Deployment Architecture
 
-The Navigator system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen™ web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
+The Navigator system consists of approximately 65 PHP scripts that collectively define the Navigator web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
 
 Enola, by contrast, functions as the backend service layer of the overall system architecture.
 
@@ -132,7 +132,7 @@ The deployment stack is based on XAMPP, which provides the core runtime environm
 * PHP as the application runtime
 * MariaDB as the database server
 
-Typically, the Saubon Synogen™ web application is deployed under Apache within the XAMPP environment.
+Typically, the Navigator web application is deployed under Apache within the XAMPP environment.
 
 MariaDB hosts the application databases and tables, including:
 
