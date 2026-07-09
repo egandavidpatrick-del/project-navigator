@@ -45,7 +45,7 @@ The Saubon Synogen™ Multi-User Projects Catalogue Platform was originally deve
 
 As engineering organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
-The Saubon Synogen™ platform centralises both historical and current project information into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
+The Navigator platform centralises both historical and current project information into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
 
 The system provides:
 
@@ -108,7 +108,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 --- 
 # Does your workflow fit the Projects Catalogue way of working?
 
-If your company’s directory structure aligns with the sample directory structures defined above, the Saubon Synogen™ Projects Catalogue web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
+If your company’s directory structure aligns with the sample directory structures defined above, the Project Navigator web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
 
 --- 
 
@@ -118,9 +118,9 @@ My association with the name Enola has no connection to the software industry or
 
 --- 
 
-# Saubon Synogen™ and Enola Deployment Architecture
+# Project Navigator and Enola Deployment Architecture
 
-The Saubon Synogen™ system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen™ web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
+The Navigator system consists of approximately 65 PHP scripts that collectively define the Saubon Synogen™ web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
 
 Enola, by contrast, functions as the backend service layer of the overall system architecture.
 
@@ -186,7 +186,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Enola Result:** All stale locks were automatically released exactly within 5 minutes. No support tickets or manual admin actions were required.
 
-**Demo:** [Saubon Synogen™ Enola Self-Healing Stale Locks Recovery Demo](https://youtu.be/yW0T1I1ygsM)
+**Demo:** [Enola Self-Healing Stale Locks Recovery Demo](https://youtu.be/yW0T1I1ygsM)
 
 **Watch the system tray clock on the taskbar in the video**
 
@@ -295,7 +295,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 ## 💡 Solution
 
-The Saubon Synogen™ Multi-User Projects Catalogue centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
+The Multi-User Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
 
@@ -343,7 +343,7 @@ This reduces time spent searching for project directories, improves coordination
 
 **Development and Test Environment**
 
-The platform was developed and tested on a workstation running Windows 11. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. Although the platform is expected to be compatible with other operating systems, formal development and testing were conducted exclusively on Windows 11.
+The Navigator platform was developed and tested on a workstation running Windows 11. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. Although the platform is expected to be compatible with other operating systems, formal development and testing were conducted exclusively on Windows 11.
 
 The hardware specification presented below reflects the development machine used throughout the project lifecycle. These specifications should not be interpreted as minimum system requirements; the platform is not resource-intensive and is expected to operate effectively on systems with lower hardware specifications than those listed.
 
@@ -369,9 +369,9 @@ The hardware specification presented below reflects the development machine used
 
 ## 🚀 Live Demo
 
-[Saubon Synogen™ Project Catalogue Search all Projects Demo](https://youtu.be/6LXpte1vlTI)
+[Project Navigator Search all Projects Demo](https://youtu.be/6LXpte1vlTI)
 
-[Saubon Synogen™ Enola-Asynchronous Record Unlocking Client (Visible) Demo](https://youtu.be/H2ukH4vqn70)
+[Enola-Asynchronous Record Unlocking Client (Visible) Demo](https://youtu.be/H2ukH4vqn70)
 
 ---
 
@@ -379,16 +379,16 @@ The hardware specification presented below reflects the development machine used
 
 ```text
 /guides/install-guides-considerations
-  Does Your Company's Projects Directory Structure Align with the Saubon Synogen™ Web Application Workflow (PDF)
+  Does Your Company's Projects Directory Structure Align with the Navigator Web Application Workflow (PDF)
   Installation & Deployment (PDF)
   Remote Working (PDF)
   
 /guides/user-guides
-  Saubon Synogen™ Projects Catalogue User guides (PDF)
-  Saubon Synogen™ Enola client server User guide (PDF)
+  Project Navigator User guides (PDF)
+  Enola client server User guide (PDF)
 
 /images/projects-catalogue
-  Saubon Synogen™ Projects Catalogue screenshots
+  Project Navigator screenshots
 
 /images/enola-server
   Enola client server screenshots
@@ -422,6 +422,6 @@ This repository includes:
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Saubon Synogen™ Multi-User Projects Catalogue Platform
+Sole Software Developer, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
