@@ -106,7 +106,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
-# Does your workflow fit the Projects Catalogue way of working?
+# Does your workflow fit the Project Navigator way of working?
 
 If your company’s directory structure aligns with the sample directory structures defined above, the Project Navigator web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
 
