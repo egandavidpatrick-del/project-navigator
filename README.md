@@ -124,7 +124,7 @@ The Navigator system consists of approximately 65 PHP scripts that collectively 
 
 Enola, by contrast, functions as the backend service layer of the overall system architecture.
 
-The intended deployment model for both Saubon Synogen™ and Enola is an on-premises company file server environment. All application data is stored locally within the company infrastructure rather than in external cloud services.
+The intended deployment model for both Navigator and Enola is an on-premises company file server environment. All application data is stored locally within the company infrastructure rather than in external cloud services.
 
 The deployment stack is based on XAMPP, which provides the core runtime environment, including:
 
