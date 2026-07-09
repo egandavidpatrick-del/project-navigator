@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-# Saubon Synogen™ Multi-User Projects Catalogue Web Application
+#  Multi-User Project Navigator Web Application
 <p align="left">
 <img src="./images/projects-catalogue/image1.png" width="90%">
 </p>
