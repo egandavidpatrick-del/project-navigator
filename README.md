@@ -357,6 +357,15 @@ The hardware specification presented below reflects the development machine used
 - Display 2560 × 1440 resolution
 - System type	64-bit operating system, x64-based processor
 
+  **Minimum Requirements**
+
+-	Operating System: Windows 11 Pro
+-	Installed RAM 8 GB
+-	Display 1366×768 resolution
+-	Storage 50 MB free space
+-	System type 64-bit operating system, x64-based processor
+
+
 **Software Requirements**
 - XAMPP
 - Apache 
