@@ -112,7 +112,7 @@ If your company’s directory structure aligns with the sample directory structu
 
 --- 
 
-# The origins of Enola?
+# The origins of Enola
 
 My association with the name Enola has no connection to the software industry or computing field. My familiarity with the name comes from the Navajo people of Arizona, where I understood Enola to be a name given to a baby girl, carrying the meaning “Magnolia.” Any reference I make to Enola relates to that cultural and personal context, not to any technology company, software product, or computing-related subject.
 
