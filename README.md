@@ -378,7 +378,7 @@ The hardware specification presented below reflects the development machine used
 
 ## 🚀 Live Demo
 
-[Project Navigator Search all Projects Demo](https://youtu.be/6LXpte1vlTI)
+[Project Navigator Search all Projects Demo](https://youtu.be/crx4kofT_w0)
 
 [Enola-Asynchronous Record Unlocking Client (Visible) Demo](https://youtu.be/H2ukH4vqn70)
 
