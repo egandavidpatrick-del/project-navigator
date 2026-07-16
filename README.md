@@ -433,4 +433,4 @@ David Egan
 
 Sole Software Developer, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
 
-<a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/saubon-synogen)
+<a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/project-navigator)
