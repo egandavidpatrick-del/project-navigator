@@ -8,7 +8,7 @@
 <p align="left">
 <img src="./images/projects-catalogue/image1.png" width="90%">
 </p>
-> Click the screenshot to view the full-resolution image within the repository.
+> Click the screenshot to view the full-resolution image within this repository.
 
 ---
 
@@ -204,7 +204,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <p align="left">
 <img src="./images/enola-server/image8.png" width="90%">
 </p>
-> Click the screenshot to view the full-resolution image within the repository.
+> Click the screenshot to view the full-resolution image within this repository.
 
 ---
 
@@ -258,7 +258,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
   <img src="./images/projects-catalogue/image8.png" width="45%">
   <img src="./images/projects-catalogue/image9.png" width="45%">
 </p>
-> Click any screenshot to view the full-resolution image within the repository.
+> Click any screenshot to view the full-resolution image within this repository.
 
 ---
 
