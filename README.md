@@ -431,6 +431,6 @@ This repository includes:
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
+Sole Software Developer, Systems Designer, and Systems Architect for the Multi-User Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/project-navigator)
