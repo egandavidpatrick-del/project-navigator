@@ -247,7 +247,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <img src="./images/projects-catalogue/image5.png" width="45%">
 </p>
 
-<h3>Search Users to Modify Access Privileges & Grant/Revoke User Privilege</h3>
+<h3>Search Users to Modify Access Privileges & Grant/Revoke User Privileges</h3>
 <p align="left">
 <img src="./images/projects-catalogue/image6.png" width="45%">
 <img src="./images/projects-catalogue/image15.png" width="45%">
