@@ -344,7 +344,7 @@ This reduces time spent searching for project directories, improves coordination
 
 **Development and Test Environment**
 
-The Navigator platform was developed and tested on a workstation running Windows 11 Pro. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. Although the platform is expected to be compatible with other operating systems, formal development and testing were conducted exclusively on Windows 11.
+The Navigator platform was developed and tested on a workstation running Windows 11 Pro. All application components, build processes, database operations, and local deployment activities were validated within this operating system environment. Although the platform is expected to be compatible with other operating systems, formal development and testing were conducted exclusively on Windows 11 Pro.
 
 The hardware specification presented below reflects the development machine used throughout the project lifecycle. These specifications should not be interpreted as minimum system requirements; the platform is not resource-intensive and is expected to operate effectively on systems with lower hardware specifications than those listed.
 
