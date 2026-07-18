@@ -223,7 +223,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Enola Result:** All stale locks were automatically released exactly within 5 minutes. No support tickets or manual admin actions were required.
 
-**Demo:** [Enola Self-Healing Stale Locks Recovery Demo](https://youtu.be/Jx8Nf2DOKZc)
+**Demo:** [Enola Self-Healing Stale Locks Recovery Demo](https://youtu.be/0zkPsoY0_ps)
 
 **Watch the system tray clock on the taskbar in the video**
 
