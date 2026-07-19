@@ -6,7 +6,7 @@
 
 #  Multi-User Project Navigator Web Application
 <p align="left">
-<img src="./images/projects-catalogue/image1.png" width="90%">
+<img src="./images/project-navigator/image1.png" width="90%">
 </p>
 > Click the screenshot to view the full-resolution image within this repository.
 
