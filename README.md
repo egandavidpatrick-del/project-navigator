@@ -35,11 +35,11 @@ The Multi-User Project Navigator Platform was originally developed for the AEC (
 ```
 ```text
 2020 Projects
-├── 20K001 The First Project
-├── 20K002 The Second Project
-├── 20K003 The Third Project
-├── 20K010 The Tenth Project
-└── 20K100 The Hundredth Project
+├── 20L001 The First Project
+├── 20L002 The Second Project
+├── 20L003 The Third Project
+├── 20L010 The Tenth Project
+└── 20L100 The Hundredth Project
 ```
 
 
