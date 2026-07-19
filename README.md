@@ -126,7 +126,6 @@ This repository includes:
   
 <h4>Backend</h4>
 
-- Microsoft.Office.Interop.Excel -> Update Excel Spreadsheet 
 - PHP
 
 <h4>Servers Client & Sevice Background</h4>
