@@ -355,8 +355,9 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 * Project Managers
 * Architects
 * Engineers
-* BIM Managers
+* BIM Information Managers
 * BIM Coordinators
+* BIM Technicians
 * CAD Technicians
 * Consultants
 * Contractors
