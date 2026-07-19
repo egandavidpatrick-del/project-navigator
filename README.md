@@ -74,7 +74,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
   Project Navigator User guides (PDF)
   Enola client server User guide (PDF)
 
-/images/projects-catalogue
+/images/project-navigator
   Project Navigator screenshots
 
 /images/enola-server
