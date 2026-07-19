@@ -121,7 +121,6 @@ This repository includes:
 - Vue -> Enola Record Unlock Viewer
 - JavaScript
 - AJAX
-- Click Once -> Excel & Email integration 
 - HTML5
 - CSS3
   
