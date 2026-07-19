@@ -250,49 +250,49 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Login & New User Registration</h3>
 
 <p align="left">
-  <img src="./images/projects-catalogue/image10.png" width="45%">
-  <img src="./images/projects-catalogue/image7.png" width="45%">
+  <img src="./images/project-navigator/image10.png" width="45%">
+  <img src="./images/project-navigator/image7.png" width="45%">
 </p>
 
 <h3>Account Recovery Email Retrieval & Username Retrieval</h3>
 
 <p align="left">
-  <img src="./images/projects-catalogue/image11.png" width="45%">
-  <img src="./images/projects-catalogue/image12.png" width="45%">
+  <img src="./images/project-navigator/image11.png" width="45%">
+  <img src="./images/project-navigator/image12.png" width="45%">
 </p>
 
 <h3>Account Recovery Reset Password & Change Password</h3>
 
 <p align="left">
-  <img src="./images/projects-catalogue/image13.png" width="45%">
-  <img src="./images/projects-catalogue/image14.png" width="45%">
+  <img src="./images/project-navigator/image13.png" width="45%">
+  <img src="./images/project-navigator/image14.png" width="45%">
 </p>
 
 
 <h3>Search all Projects & Search Projects to Modify</h3>
 
 <p align="left">
-  <img src="./images/projects-catalogue/image2.png" width="45%">
-  <img src="./images/projects-catalogue/image3.png" width="45%">
+  <img src="./images/project-navigator/image2.png" width="45%">
+  <img src="./images/project-navigator/image3.png" width="45%">
 </p>
 
 <h3>Edit MyProfile & Create New Project Entry</h3>
 <p align="left">
-<img src="./images/projects-catalogue/image4.png" width="45%">
-<img src="./images/projects-catalogue/image5.png" width="45%">
+<img src="./images/project-navigator/image4.png" width="45%">
+<img src="./images/project-navigator/image5.png" width="45%">
 </p>
 
 <h3>Search Users to Modify Access Privileges & Grant/Revoke User Privileges</h3>
 <p align="left">
-<img src="./images/projects-catalogue/image6.png" width="45%">
-<img src="./images/projects-catalogue/image15.png" width="45%">
+<img src="./images/project-navigator/image6.png" width="45%">
+<img src="./images/project-navigator/image15.png" width="45%">
 </p>
 
 <h3>Project in use Notification & User account in use Notification</h3>
 
 <p align="left">
-  <img src="./images/projects-catalogue/image8.png" width="45%">
-  <img src="./images/projects-catalogue/image9.png" width="45%">
+  <img src="./images/project-navigator/image8.png" width="45%">
+  <img src="./images/project-navigator/image9.png" width="45%">
 </p>
 > Click any screenshot to view the full-resolution image within this repository.
 
