@@ -269,6 +269,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Project Navigator & Enola
 
