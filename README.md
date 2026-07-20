@@ -4,6 +4,15 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
+#  Enterprise Project Navigator
+A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
+<p align="left">
+<img src="./images/project-navigator/image1.png" width="90%">
+</p>
+> Click the screenshot to view the full-resolution image within this repository.
+
+---
+
 ## 📑 Table of Contents
 
 - [Platform Overview](#platform-overview)
@@ -19,17 +28,8 @@
 - [Operational Infrastructure](#operational-infrastructure)
 - [Live Demo](#live-demo)
 - [Results](#results)
-- [Project Status](#status)
+- [Status](#status)
 - [Author](#author)
-
-#  Enterprise Project Navigator
-A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
-<p align="left">
-<img src="./images/project-navigator/image1.png" width="90%">
-</p>
-> Click the screenshot to view the full-resolution image within this repository.
-
----
 
 ## 🌐 Platform Overview
 The Multi-User Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
