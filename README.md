@@ -85,7 +85,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 ---
 <a id="repository-contents"></a>
-## 📂 Repository Contents
+## 📦 Repository Contents
 
 ```text
 /guides/install-guides-considerations
