@@ -29,7 +29,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - [Operational Infrastructure](#operational-infrastructure)
 - [Live Demo](#live-demo)
 - [Results](#results)
-- [Project Status](#status)
+- [Project Status](#project-status)
 - [Author](#author)
 
 <a id="platform-overview"></a>
