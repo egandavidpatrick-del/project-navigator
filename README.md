@@ -11,13 +11,16 @@
 - [Documentation](#documentation)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
-- [Security Features](#security-features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
+- [Enola Architecture](#enola-architecture)
+- [Screenshots Project Navigator / Enola](#screenshots)
+- [Solution](#solution)
+- [Who Is It For](#who-is-it-for)
+- [Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)
+- [Operational Infrastructure](#operational-infrastructure)
+- [Live Demo](#live-demo)
 - [Results](#results)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
+- [Status](#status)
+- [Author](#author)
 
 #  Enterprise Project Navigator
 A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
