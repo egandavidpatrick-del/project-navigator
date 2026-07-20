@@ -3,7 +3,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
-
+<a id="enterprise-project-navigator"></a>
 <details open>
 <summary><b>🧭 <h3></h3>Table of Contents</h3></b></summary>
 <br>
@@ -29,7 +29,7 @@
 
 
 
-<a id="enterprise-project-navigator"></a>
+
 #  Enterprise Project Navigator
 A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
 <p align="left">
@@ -38,25 +38,6 @@ A multi-user engineering project drectory management platform built with PHP, C#
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
-
-## 📑 Table of Contents
-
-- [Platform Overview](#platform-overview)
-- [Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)
-- [Repository Contents](#repository-contents)
-- [Documentation](#documentation)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Enola Architecture](#enola-architecture)
-- [Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)
-- [Solution](#solution)
-- [Who Is It For](#who-is-it-for)
-- [Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)
-- [Operational Infrastructure](#operational-infrastructure)
-- [Live Demo](#live-demo)
-- [Results](#results)
-- [Project Status](#project-status)
-- [Author](#author)
 
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
