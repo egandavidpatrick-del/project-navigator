@@ -445,7 +445,7 @@ The hardware specification presented below reflects the development machine used
 ---
 
 <a id="live-demo"></a>
-## 🚀 Live Demo
+## 🔴 Live Demo
 
 [Project Navigator Search all Projects Demo](https://youtu.be/crx4kofT_w0)
 
@@ -453,7 +453,7 @@ The hardware specification presented below reflects the development machine used
 
 ---
 <a id="results"></a>
-## 🏆 Results
+## 📊 Results
 
 * Supports concurrent users
 * Full administrator portal
@@ -465,13 +465,13 @@ The hardware specification presented below reflects the development machine used
 
 [Back to top](#enterprise-project-navigator)
 <a id="project-status"></a>
-## 📌 Project Status
+## 🚦 Project Status
 
 ✅ Completed Project  
 
 ---
 <a id="author"></a>
-## 🧑‍💻 Author
+## 👤 Author
 
 David Egan
 
