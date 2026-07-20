@@ -6,9 +6,9 @@
 
 ## 📑 Table of Contents
 
-- [Platform Overview](#Platform-Overview)
-- [Repository Contents](#Repository-Contents)
-- [Technologies](#technologies)
+- [Platform Overview](#platform-overview)
+- [Repository Contents](#repository-contents)
+- [Documentation](#documentation)
 - [Architecture](#architecture)
 - [Database Design](#database-design)
 - [Security Features](#security-features)
