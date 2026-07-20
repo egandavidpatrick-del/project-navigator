@@ -119,7 +119,7 @@ This repository includes:
 * Execution Logs
 
 ---
-
+<a id="key-features"></a>
 ## ✨Key Features
 
 - Centralised engineering project catalogue
@@ -133,6 +133,7 @@ This repository includes:
 - Automated system health monitoring
 
 ---
+<a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
 <h4>Frontend</h4>
@@ -209,6 +210,7 @@ The purpose of this mechanism is to prevent stale or abandoned record locks from
 Once deployed, the system operates autonomously.
 
 --- 
+<a id="enola-architecture"></a>
 ## 🧩 Enola Architecture
 
 The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
@@ -263,7 +265,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
-
+<a id="screenshots"></a>
 ## 📸 Screenshots
 
 
@@ -349,7 +351,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 ---
 
 
-
+<a id="solution"></a>
 ## 💡 Solution
 
 The Multi-User Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
@@ -368,7 +370,7 @@ By consolidating project information into a unified catalogue system, the soluti
 
 
 ---
-
+<a id="who-is-it-for"></a>
 ## 👥 Who Is It For?
 
 Designed for AEC organisations managing multi-user engineering workflows involving:
@@ -385,7 +387,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 * Document Controllers
 
 ---
-
+<a id="why-is-it-better-than-traditional-workflows"></a>
 ## ⚡ Why Is It Better Than Traditional Workflows?
 
 Instead of relying on disconnected directories, emails, spreadsheets, and local copies, the platform provides a centralised network-accessible project catalogue where all users operate from the same shared directory structure and project data.
@@ -399,6 +401,7 @@ This reduces time spent searching for project directories, improves coordination
 
 ---
 
+<a id="operational-infrastructure"></a>
 ## 🏗 Operational Infrastructure
 
 **Development and Test Environment**
@@ -436,6 +439,7 @@ The hardware specification presented below reflects the development machine used
 
 ---
 
+<a id="live-demo"></a>
 ## 🚀 Live Demo
 
 [Project Navigator Search all Projects Demo](https://youtu.be/crx4kofT_w0)
@@ -443,7 +447,7 @@ The hardware specification presented below reflects the development machine used
 [Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/zlRKcuggKOM)
 
 ---
-
+<a id="results"></a>
 ## 🏆 Results
 
 * Supports concurrent users
@@ -453,13 +457,14 @@ The hardware specification presented below reflects the development machine used
 * Background monitoring service
 * Automated stale record unlocking
 * Production-ready architecture
-  
+
+<a id="status"></a>
 ## 📌 Status
 
 ✅ Completed Project  
 
 ---
-
+<a id="author"></a>
 ## 🧑‍💻 Author
 
 David Egan
