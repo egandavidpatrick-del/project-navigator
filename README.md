@@ -215,7 +215,7 @@ Once deployed, the system operates autonomously.
 --- 
 [Back to top](#enterprise-project-navigator)
 <a id="enola-architecture"></a>
-## 🧩 Enola Architecture
+## 🏗️ Enola Architecture
 
 The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
 
