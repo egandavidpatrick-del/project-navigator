@@ -459,7 +459,7 @@ The hardware specification presented below reflects the development machine used
 * Production-ready architecture
 
 <a id="status"></a>
-## 📌 Status
+## 📌 Project Status
 
 ✅ Completed Project  
 
