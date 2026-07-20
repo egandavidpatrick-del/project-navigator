@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 <a id="enterprise-project-navigator"></a>
 <details open>
-<summary><b>🧭 <h3></h3>Table of Contents</h3></b></summary>
+<summary><b><h2>🧭 Table of Contents</h2></summary>
 <br>
 
 > - 📖 &nbsp; **[Platform Overview](#platform-overview)**
