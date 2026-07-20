@@ -22,7 +22,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Enola Architecture](#enola-architecture)
-- [Screenshots Project Navigator / Enola](#screenshots)
+- [Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)
 - [Solution](#solution)
 - [Who Is It For](#who-is-it-for)
 - [Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)
@@ -265,8 +265,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
-<a id="screenshots"></a>
-## 📸 Screenshots
+<a id="screenshots-project-navigator--enola"></a>
+## 📸 Screenshots Project Navigator & Enola
 
 
 
