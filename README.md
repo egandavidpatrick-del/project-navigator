@@ -211,6 +211,7 @@ The purpose of this mechanism is to prevent stale or abandoned record locks from
 Once deployed, the system operates autonomously.
 
 --- 
+[Back to top](#enterprise-project-navigator)
 <a id="enola-architecture"></a>
 ## 🧩 Enola Architecture
 
@@ -353,6 +354,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 
 <a id="solution"></a>
+[Back to top](#enterprise-project-navigator)
 ## 💡 Solution
 
 The Multi-User Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
@@ -459,6 +461,7 @@ The hardware specification presented below reflects the development machine used
 * Automated stale record unlocking
 * Production-ready architecture
 
+[Back to top](#enterprise-project-navigator)
 <a id="project-status"></a>
 ## 📌 Project Status
 
