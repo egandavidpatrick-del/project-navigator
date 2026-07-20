@@ -270,7 +270,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 ---
 <a id="screenshots-project-navigator--enola"></a>
-## 📸 Screenshots Project Navigator & Enola
+## 🖼️ Screenshots Project Navigator & Enola
 
 
 
