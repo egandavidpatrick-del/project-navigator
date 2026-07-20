@@ -5,6 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
 #  Enterprise Project Navigator
+A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
