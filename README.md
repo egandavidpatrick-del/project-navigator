@@ -15,13 +15,13 @@ A multi-user engineering project drectory management platform built with PHP, C#
 
 ## 📑 Table of Contents
 
--[![Platform Overview](https://img.shields.io/badge/Overview-blue)](#platform-overview)
+[![Platform Overview](https://img.shields.io/badge/Overview-blue)](#platform-overview)
 - [Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)
 - [Repository Contents](#repository-contents)
 - [Documentation](#documentation)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
-- [Enola Architecture](#enola-architecture)
+[![Enola Architecture](https://img.shields.io/badge/Architecture-green)](#enola-architecture)
 - [Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)
 - [Solution](#solution)
 - [Who Is It For](#who-is-it-for)
