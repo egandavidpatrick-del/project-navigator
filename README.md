@@ -5,28 +5,31 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 <a id="enterprise-project-navigator"></a>
 <details open>
-<summary><b><h2>🧭 Table of Contents</h2></summary>
+<summary><big><b>🧭 Table of Contents</b></big></summary>
 <br>
 
-> - 📖 &nbsp; **[Platform Overview](#platform-overview)**
-> - 📁 &nbsp; **[Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)**
-> - 📦 &nbsp; **[Repository Contents](#repository-contents)**
-> - 📚 &nbsp; **[Documentation](#documentation)**
-> - ✨ &nbsp; **[Key Features](#key-features)**
-> - 🛠️ &nbsp; **[Tech Stack](#tech-stack)**
-> - 🏗️ &nbsp; **[Enola Architecture](#enola-architecture)**
-> - 🖼️ &nbsp; **[Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)**
-> - 💡 &nbsp; **[Solution](#solution)**
-> - 👥 &nbsp; **[Who Is It For](#who-is-it-for)**
-> - 🚀 &nbsp; **[Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)**
-> - ⚙️ &nbsp; **[Operational Infrastructure](#operational-infrastructure)**
-> - 🔴 &nbsp; **[Live Demo](#live-demo)**
-> - 📊 &nbsp; **[Results](#results)**
-> - 🚦 &nbsp; **[Project Status](#project-status)**
-> - 👤 &nbsp; **[Author](#author)**
+<big>
+
+- 📖 &nbsp; **[Platform Overview](#platform-overview)**
+- 📁 &nbsp; **[Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)**
+- 📦 &nbsp; **[Repository Contents](#repository-contents)**
+- 📚 &nbsp; **[Documentation](#documentation)**
+- ✨ &nbsp; **[Key Features](#key-features)**
+- 🛠️ &nbsp; **[Tech Stack](#tech-stack)**
+- 🏗️ &nbsp; **[Enola Architecture](#enola-architecture)**
+- 🖼️ &nbsp; **[Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)**
+- 💡 &nbsp; **[Solution](#solution)**
+- 👥 &nbsp; **[Who Is It For](#who-is-it-for)**
+- 🚀 &nbsp; **[Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)**
+- ⚙️ &nbsp; **[Operational Infrastructure](#operational-infrastructure)**
+- 🔴 &nbsp; **[Live Demo](#live-demo)**
+- 📊 &nbsp; **[Results](#results)**
+- 🚦 &nbsp; **[Project Status](#project-status)**
+- 👤 &nbsp; **[Author](#author)**
+
+</big>
 
 </details>
-
 
 
 
