@@ -37,7 +37,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 <a id="platform-overview"></a>
 ## 📖 Platform Overview
 The Multi-User Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
-
+<a id="platform-overview"></a>
 ## 📁 Typical Engineering Project Directory Structure
 
 ```text
