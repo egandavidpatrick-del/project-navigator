@@ -458,7 +458,7 @@ The hardware specification presented below reflects the development machine used
 * Automated stale record unlocking
 * Production-ready architecture
 
-<a id="status"></a>
+<a id="project-status"></a>
 ## 📌 Project Status
 
 ✅ Completed Project  
