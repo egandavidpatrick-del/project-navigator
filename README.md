@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 <a id="enterprise-project-navigator"></a>
-# 🧭 Table of Contents
+## 🧭 Table of Contents
 
 - 📖 &nbsp; [Platform Overview](#platform-overview)
 - 📁 &nbsp; [Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)
@@ -25,7 +25,7 @@
 
 
 
-#  Enterprise Project Navigator
+##  Enterprise Project Navigator
 A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
