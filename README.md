@@ -119,6 +119,7 @@ This repository includes:
 * Execution Logs
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="key-features"></a>
 ## ✨Key Features
 
