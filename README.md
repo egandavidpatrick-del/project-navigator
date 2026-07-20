@@ -6,8 +6,8 @@
 
 ## 📑 Table of Contents
 
-- [Platform Overview](#Platform Overview)
-- [Repository Contents](#Repository Contents)
+- [Platform Overview](#Platform-Overview)
+- [Repository Contents](#Repository-Contents)
 - [Technologies](#technologies)
 - [Architecture](#architecture)
 - [Database Design](#database-design)
