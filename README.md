@@ -5,10 +5,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 <a id="enterprise-project-navigator"></a>
 <details open>
-<summary><big><b>🧭 Table of Contents</b></big></summary>
+<summary><big><big><b>🧭 Table of Contents</b></big></big></summary>
 <br>
-
-<big>
 
 - 📖 &nbsp; **[Platform Overview](#platform-overview)**
 - 📁 &nbsp; **[Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)**
@@ -26,8 +24,6 @@
 - 📊 &nbsp; **[Results](#results)**
 - 🚦 &nbsp; **[Project Status](#project-status)**
 - 👤 &nbsp; **[Author](#author)**
-
-</big>
 
 </details>
 
