@@ -407,7 +407,7 @@ This reduces time spent searching for project directories, improves coordination
 ---
 
 <a id="operational-infrastructure"></a>
-## 🏗 Operational Infrastructure
+## ⚙️ Operational Infrastructure
 
 **Development and Test Environment**
 
