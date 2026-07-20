@@ -8,7 +8,7 @@
 <summary><b><h2>🧭 Table of Contents</h2></summary>
 <br>
 
-> - 📖 &nbsp; [Platform Overview](#platform-overview)
+> - 📖 &nbsp; **[Platform Overview](#platform-overview)**
 > - 📁 &nbsp; **[Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)**
 > - 📦 &nbsp; **[Repository Contents](#repository-contents)**
 > - 📚 &nbsp; **[Documentation](#documentation)**
