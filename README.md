@@ -4,6 +4,21 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
+## 📑 Table of Contents
+
+- [Platform Overview](#Platform Overview)
+- [Repository Contents](#Repository Contents)
+- [Technologies](#technologies)
+- [Architecture](#architecture)
+- [Database Design](#database-design)
+- [Security Features](#security-features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Results](#results)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+
+
 #  Enterprise Project Navigator
 A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
 <p align="left">
