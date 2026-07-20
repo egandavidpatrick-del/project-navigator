@@ -22,7 +22,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 [![Enola Architecture](https://img.shields.io/badge/Architecture-green)](#enola-architecture)
-- [Screenshots Project Navigator & Enola](#screenshots-project-navigator--enola)
+[![Screenshots Project Navigator & Enola](https://img.shields.io/badge/Screenshots-orange)](#screenshots-project-navigator--enola)
 - [Solution](#solution)
 - [Who Is It For](#who-is-it-for)
 - [Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)
