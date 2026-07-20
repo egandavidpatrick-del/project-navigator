@@ -393,7 +393,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 
 ---
 <a id="why-is-it-better-than-traditional-workflows"></a>
-## ⚡ Why Is It Better Than Traditional Workflows?
+## 🚀 Why Is It Better Than Traditional Workflows?
 
 Instead of relying on disconnected directories, emails, spreadsheets, and local copies, the platform provides a centralised network-accessible project catalogue where all users operate from the same shared directory structure and project data.
 
