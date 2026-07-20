@@ -424,7 +424,7 @@ The hardware specification presented below reflects the development machine used
 
 ---
 
-## 📌 Results
+## 🏆 Results
 
 * Supports concurrent users
 * Full administrator portal
