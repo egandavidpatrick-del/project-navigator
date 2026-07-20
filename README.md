@@ -19,7 +19,7 @@
 - [Operational Infrastructure](#operational-infrastructure)
 - [Live Demo](#live-demo)
 - [Results](#results)
-- [Status](#status)
+- [Project Status](#status)
 - [Author](#author)
 
 #  Enterprise Project Navigator
