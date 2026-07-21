@@ -18,7 +18,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 
 ## 🧭 Explore the Project
 
-| 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 Project |
+| 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
 |:-----------:|:------------:|:------------:|:----------:|
 | 🌐 [Platform Overview](#platform-overview) | ✨ [Key Features](#key-features) | 📦 [Contents](#repository-contents) | 📊 [Results](#results) |
 | 📁 [Directory Structure](#typical-engineering-project-directory-structure) | 🛠️ [Tech Stack](#tech-stack) | 📚 [Documentation](#documentation) | 🚦 [Project Status](#project-status) |
