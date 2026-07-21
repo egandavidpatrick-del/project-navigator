@@ -12,7 +12,7 @@ Enterprise project directory management platform enabling engineering teams to l
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
->💡 **Tip:** Click the hero image to view the full-resolution screenshot.
+>💡 **Tip:** Click the hero image to view the full-size version.
 
 ---
 
