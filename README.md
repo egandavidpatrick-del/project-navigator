@@ -42,7 +42,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - 👤 [Author](#author)
 
 
-
+---
 
 <a id="platform-overview"></a>
 ## 📖 Platform Overview
