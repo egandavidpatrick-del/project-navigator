@@ -300,8 +300,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Search all Projects & Search Projects to Modify</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image2.png" width="45%">
-  <img src="./images/project-navigator/image3.png" width="45%">
+  <img src="./images/project-navigator/image2.gif" width="45%">
+  <img src="./images/project-navigator/image3.gif" width="45%">
 </p>
 
 <h3>Edit MyProfile & Create New Project Entry</h3>
