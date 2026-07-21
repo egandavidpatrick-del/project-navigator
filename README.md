@@ -15,7 +15,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
-## 🧭 Navigation
+## 🧭 Table of Contents
 
 ### 📖 Overview
 - 🌐 [Platform Overview](#platform-overview)
