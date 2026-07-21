@@ -12,7 +12,7 @@
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
->💡 **Tip:** Click the hero image to view the full-size version.
+💡 **Tip:** Click the hero image to view the full-size version.
 
 ---
 
