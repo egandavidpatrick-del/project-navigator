@@ -27,7 +27,7 @@
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
 ---
-
+[Back to top](#enterprise-project-navigator)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
 The Multi-User Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
