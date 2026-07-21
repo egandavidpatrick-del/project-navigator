@@ -285,14 +285,14 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Account Recovery Email Retrieval & Username Retrieval</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image11.png" width="45%">
-  <img src="./images/project-navigator/image12.png" width="45%">
+  <img src="./images/project-navigator/image11.gif" width="45%">
+  <img src="./images/project-navigator/image12.gif" width="45%">
 </p>
 
 <h3>Account Recovery Reset Password & Change Password</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image13.png" width="45%">
+  <img src="./images/project-navigator/image13.gif" width="45%">
   <img src="./images/project-navigator/image14.png" width="45%">
 </p>
 
