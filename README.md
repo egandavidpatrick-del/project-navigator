@@ -27,15 +27,6 @@ A multi-user engineering project drectory management platform built with PHP, C#
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
 
-|     📖 **Overview**    |    🛠️ **Technical**   | 📚 **Resources** |   📈 **Project**  |
-| :--------------------: | :--------------------: | :--------------: | :---------------: |
-|  🌐 Platform Overview  |     ✨ Key Features     |   📦 Repository  |     📊 Results    |
-| 📁 Directory Structure |     🛠️ Tech Stack     | 📚 Documentation | 🚦 Project Status |
-|       💡 Solution      | 🏗️ Enola Architecture |  🖼️ Screenshots |     👤 Author     |
-|    👥 Who Is It For    |    ⚙️ Infrastructure   |   🔴 Live Demo   |                   |
-|   🚀 Why It's Better   |                        |                  |                   |
-
-
 ---
 
 <a id="platform-overview"></a>
