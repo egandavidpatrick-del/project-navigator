@@ -312,7 +312,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <h3>Search Users to Modify Access Privileges & Grant/Revoke User Privileges</h3>
 <p align="left">
-<img src="./images/project-navigator/image6.png" width="45%">
+<img src="./images/project-navigator/image6.gif" width="45%">
 <img src="./images/project-navigator/image15.png" width="45%">
 </p>
 
