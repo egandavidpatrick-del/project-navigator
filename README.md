@@ -78,6 +78,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="repository-contents"></a>
 ## 📦 Repository Contents
 
@@ -103,6 +104,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 ```
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="documentation"></a>
 ## 📚 Documentation
 
@@ -130,6 +132,7 @@ This repository includes:
 - Automated system health monitoring
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
@@ -371,6 +374,7 @@ By consolidating project information into a unified catalogue system, the soluti
 
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="who-is-it-for"></a>
 ## 👥 Who Is It For?
 
@@ -388,6 +392,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 * Document Controllers
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="why-is-it-better-than-traditional-workflows"></a>
 ## 🚀 Why Is It Better Than Traditional Workflows?
 
@@ -401,7 +406,7 @@ This reduces time spent searching for project directories, improves coordination
 - Shared across all users
 
 ---
-
+[Back to top](#enterprise-project-navigator)
 <a id="operational-infrastructure"></a>
 ## ⚙️ Operational Infrastructure
 
@@ -439,7 +444,7 @@ The hardware specification presented below reflects the development machine used
 - Internet connection
 
 ---
-
+[Back to top](#enterprise-project-navigator)
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
@@ -448,6 +453,7 @@ The hardware specification presented below reflects the development machine used
 [Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/zlRKcuggKOM)
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="results"></a>
 ## 📊 Results
 
@@ -466,6 +472,7 @@ The hardware specification presented below reflects the development machine used
 ✅ Completed Project  
 
 ---
+[Back to top](#enterprise-project-navigator)
 <a id="author"></a>
 ## 👤 Author
 
