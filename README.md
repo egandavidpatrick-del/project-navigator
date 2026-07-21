@@ -16,7 +16,7 @@
 
 ---
 
-## 🧭 Explore the Project
+## 🧭 Table of Contents
 
 | 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
 |:-----------:|:------------:|:------------:|:----------:|
