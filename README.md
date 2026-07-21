@@ -360,7 +360,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 [Back to top](#enterprise-project-navigator)
 ## 💡 Solution
 
-The Multi-User Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
+The Enterprise Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
 
