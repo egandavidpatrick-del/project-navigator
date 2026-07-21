@@ -41,7 +41,18 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - 🚦 [Project Status](#project-status)
 - 👤 [Author](#author)
 
+## 🚀 At a Glance
 
+| | |
+|---|---|
+| 🏢 **Industry** | AEC / Engineering |
+| 👥 **Users** | Multi-user |
+| 🔒 **Security** | RBAC + Email Recovery |
+| ⚡ **Performance** | Instant Project Search |
+| 🗄️ **Database** | MariaDB |
+| 💻 **Backend** | PHP + C# Windows Service |
+| 🌐 **Frontend** | HTML5 • JavaScript • AJAX |
+| 📚 **Documentation** | Installation • User Guides • Screenshots |
 ---
 
 <a id="platform-overview"></a>
