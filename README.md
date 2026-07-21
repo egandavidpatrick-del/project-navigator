@@ -279,7 +279,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <p align="left">
   <img src="./images/project-navigator/image10.gif" width="45%">
-  <img src="./images/project-navigator/image7.png" width="45%">
+  <img src="./images/project-navigator/image7.gif" width="45%">
 </p>
 
 <h3>Account Recovery Email Retrieval & Username Retrieval</h3>
