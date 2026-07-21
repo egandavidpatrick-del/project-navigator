@@ -8,7 +8,7 @@
 
 
 ##  Enterprise Project Navigator
-A multi-user engineering project drectory management platform built with PHP, C#, MariaDB and JavaScript.
+Enterprise project management platform enabling engineering teams to locate thousands of historical and active projects in seconds.
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
