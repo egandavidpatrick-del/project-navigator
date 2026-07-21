@@ -275,11 +275,11 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 
 
-<h3>Login & New User Registration</h3>
+<h3>New User Registration & Login</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image10.gif" width="45%">
   <img src="./images/project-navigator/image7.gif" width="45%">
+  <img src="./images/project-navigator/image10.gif" width="45%">
 </p>
 
 <h3>Account Recovery Email Retrieval & Username Retrieval</h3>
