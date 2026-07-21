@@ -41,7 +41,11 @@ A multi-user engineering project drectory management platform built with PHP, C#
 - 🚦 [Project Status](#project-status)
 - 👤 [Author](#author)
 
+## 🚀 Explore
 
+| 🌐 **Learn** | 🏗️ **Architecture** | 📸 **See It** | 📈 **Outcome** |
+|:--:|:--:|:--:|:--:|
+| [Platform Overview](#platform-overview)<br>[Solution](#solution)<br>[Who Is It For](#who-is-it-for) | [Tech Stack](#tech-stack)<br>[Enola Architecture](#enola-architecture)<br>[Infrastructure](#operational-infrastructure) | [Screenshots](#screenshots-project-navigator--enola)<br>[Live Demo](#live-demo)<br>[Documentation](#documentation) | [Results](#results)<br>[Project Status](#project-status)<br>[Author](#author) |
 
 ---
 
