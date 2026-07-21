@@ -278,7 +278,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Login & New User Registration</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image10.png" width="45%">
+  <img src="./images/project-navigator/image10.gif" width="45%">
   <img src="./images/project-navigator/image7.png" width="45%">
 </p>
 
