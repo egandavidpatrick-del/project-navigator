@@ -8,7 +8,7 @@
 
 
 ##  Enterprise Project Navigator
-Enterprise project directory management platform enabling engineering teams to locate thousands of historical and active projects in seconds.
+<b>Enterprise project directory management platform enabling engineering teams to locate thousands of historical and active projects in seconds.</b>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
