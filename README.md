@@ -15,31 +15,6 @@ A multi-user engineering project drectory management platform built with PHP, C#
 > Click the screenshot to view the full-resolution image within this repository.
 
 ---
-## 🧭 Table of Contents
-
-### 📖 Overview
-- 🌐 [Platform Overview](#platform-overview)
-- 📁 [Typical Engineering Project Directory Structure](#typical-engineering-project-directory-structure)
-- 💡 [Solution](#solution)
-- 👥 [Who Is It For](#who-is-it-for)
-- 🚀 [Why Is It Better Than Traditional Workflows](#why-is-it-better-than-traditional-workflows)
-
-### 🛠️ Technical
-- ✨ [Key Features](#key-features)
-- 🛠️ [Tech Stack](#tech-stack)
-- 🏗️ [Enola Architecture](#enola-architecture)
-- ⚙️ [Operational Infrastructure](#operational-infrastructure)
-
-### 📚 Resources
-- 📦 [Repository Contents](#repository-contents)
-- 📚 [Documentation](#documentation)
-- 🖼️ [Screenshots](#screenshots-project-navigator--enola)
-- 🔴 [Live Demo](#live-demo)
-
-### 📈 Project
-- 📊 [Results](#results)
-- 🚦 [Project Status](#project-status)
-- 👤 [Author](#author)
 
 ## 🧭 Explore the Project
 
