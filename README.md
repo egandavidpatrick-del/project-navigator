@@ -12,7 +12,7 @@ A multi-user engineering project drectory management platform built with PHP, C#
 <p align="left">
 <img src="./images/project-navigator/image1.png" width="90%">
 </p>
-> Click the screenshot to view the full-resolution image within this repository.
+>💡 **Tip:** Click the hero image to view the full-resolution screenshot.
 
 ---
 
