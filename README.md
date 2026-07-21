@@ -26,7 +26,14 @@ A multi-user engineering project drectory management platform built with PHP, C#
 | 👥 [Who Is It For](#who-is-it-for) | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
+📖 Overview        🛠️ Technical        📚 Resources
 
+🌐 Platform        ✨ Features         📦 Repository
+📁 Directory       🛠️ Tech Stack       📚 Documentation
+💡 Solution        🏗️ Architecture     🖼️ Screenshots
+👥 Audience        ⚙️ Infrastructure   🔴 Live Demo
+🚀 Benefits        📊 Results          👤 Author
+                   🚦 Project Status
 ---
 
 <a id="platform-overview"></a>
