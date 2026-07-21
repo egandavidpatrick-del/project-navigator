@@ -317,7 +317,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
   <img src="./images/project-navigator/image8.png" width="45%">
   <img src="./images/project-navigator/image9.png" width="45%">
 </p>
-> Click any screenshot to view the full-resolution image within this repository.
+>💡 **Tip:** Click the screenshot image to view the full-resolution screenshot.
 
 ---
 
@@ -346,7 +346,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
   <img src="./images/enola-server/image5.png" width="45%">
   <img src="./images/enola-server/image6.png" width="45%">
 </p>
-> Click any screenshot to view the full-resolution image within this repository.
+>💡 **Tip:** Click the screenshot image to view the full-resolution screenshot.
 
 ---
 
