@@ -11,19 +11,18 @@ Enterprise Project Navigator is a full-stack enterprise web application designed
 
 The application demonstrates enterprise software development practices by combining secure authentication, role-based access control, and an intuitive user experience. It was built as a comprehensive portfolio project to showcase the design and implementation of a scalable business application using modern web technologies.
 
-Whether managing multiple projects, tracking organisational data, or administering users, Enterprise Project Navigator provides a structured and extensible platform that reflects many of the features found in real-world enterprise systems.
+Whether managing multiple project directories, or administering users, Enterprise Project Navigator provides a structured and extensible platform that reflects many of the features found in real-world enterprise systems.
 
 ## At a Glance
 
 ✔ Full-stack enterprise web application
 ✔ Secure authentication and authorisation
 ✔ Modern user interface
-✔ Project and team management
 ✔ Role-based access control
 ✔ Comprehensive documentation
 
 #  Enterprise Project Navigator
-<i>Enterprise project directory management platform enabling engineering teams to locate thousands of historical and active projects in seconds.</i>
+<i>Enterprise project directory management platform enabling engineering teams to locate thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
 </p>
@@ -82,7 +81,7 @@ The Enterprise Project Navigator Platform was originally developed for the AEC (
 
 As engineering organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
-The Navigator platform centralises both historical and current project information into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate projects and associated information in seconds rather than manually navigating complex directory trees.
+The Navigator platform centralises both historical and current project directories into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate project directories and associated information in seconds rather than manually navigating complex directory trees.
 
 The system provides:
 
@@ -141,7 +140,7 @@ This repository includes:
 <a id="key-features"></a>
 ## ✨Key Features
 
-- Centralised engineering project catalogue
+- Centralised engineering project directory catalogue
 - Fast historical and current project retrieval
 - Structured searchable project environment
 - Multi-user access and administration
@@ -161,6 +160,7 @@ This repository includes:
 - Bootstrap
 - jQuery
 - Vue -> Enola Record Unlock Viewer
+- Click Once -> Excel & Email Integration
 - JavaScript
 - AJAX
 - HTML5
@@ -168,6 +168,7 @@ This repository includes:
   
 <h4>Backend</h4>
 
+- Microsoft.Office.Interop.Excel -> Excel Integration
 - PHP
 
 <h4>Servers Client & Sevice Background</h4>
@@ -197,7 +198,7 @@ My association with the name Enola has no connection to the software industry or
 
 ## Project Navigator and Enola Deployment Architecture
 
-The Navigator system consists of approximately 65 PHP scripts that collectively define the Navigator web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
+The Navigator system consists of approximately 62 PHP scripts that collectively define the Navigator web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
 
 Enola, by contrast, functions as the backend service layer of the overall system architecture.
 
@@ -227,7 +228,7 @@ This automatic unlocking process applies to both:
 
 The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining record accessibility and operational continuity for users of the Project Navigator application.
 
-Once deployed, the system operates autonomously.
+Once deployed, the Project Navigator system operates autonomously.
 
 --- 
 [Back to top](#enterprise-project)
@@ -241,7 +242,7 @@ Asynchronous user-facing server instance responsible for:
 
 - Monitoring: Real-time status and user activity
 - Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
-- Operational logging: User actions and system events
+- Operational logging: User-level events and errors
 - Automated health monitoring: Client-side diagnostics
   
 <h3>Enola Service (Hidden)</h3>
@@ -253,7 +254,7 @@ Asynchronous background server responsible for:
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
   
-Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over. When the computer boots up the Hidden Service by default it the Primary Unlocker.
+Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over. When the computer boots up the Enola Hidden Service by default it the Primary Unlocker.
 
 ---
 ## Enola: Self-Healing Stale Locks Automatic Recovery — No Human Intervention Required
