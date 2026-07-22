@@ -277,7 +277,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <h3>New User Registration & Login</h3>
 
-<table style="width:90%">
+<table style="width:50%">
 <tr>
   <td style="text-align:center; vertical-align:middle;">
     <div style="position:relative; display:inline-block; line-height:0; width:100%; max-width:1280px;">
