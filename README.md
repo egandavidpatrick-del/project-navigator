@@ -379,7 +379,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Enterprise Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
+The Enterprise Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
 
@@ -388,10 +388,9 @@ The platform provides a shared catalogue of project information across the organ
 - Improve visibility of engineering projects across departments
 - Increase accessibility to organisational knowledge and technical records
 - Reduce time spent locating engineering documentation and project assets
-- Maintain consistent project information throughout the project lifecycle
 - Bookmark and quickly access frequently used projects
 
-By consolidating project information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for engineering decision-making.
+By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for engineering decision-making.
 
 
 ---
