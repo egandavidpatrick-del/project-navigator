@@ -31,7 +31,7 @@ Whether managing multiple projects, tracking organisational data, or administeri
 
 ---
 
-
+<a id="enterprise-project"></a>
 
 ## 🧭 Table of Contents
 
@@ -43,14 +43,14 @@ Whether managing multiple projects, tracking organisational data, or administeri
 | 👥 [Who Is It For](#who-is-it-for) | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
-<a id="enterprise-project-navigator"></a>
+
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-projectr)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
 The Enterprise Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
 
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-projectr)
 <a id="typical-engineering-project-directory-structure"></a>
 ## 📁 Typical Engineering Project Directory Structure
 
@@ -98,7 +98,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-projectr)
 <a id="repository-contents"></a>
 ## 📦 Repository Contents
 
