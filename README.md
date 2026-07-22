@@ -277,7 +277,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <h3>New User Registration & Login</h3>
 
-<table style="width:50%">
+<table style="width:100%">
 <tr>
   <td style="text-align:center; vertical-align:middle;">
     <div style="position:relative; display:inline-block; line-height:0; width:100%; max-width:1280px;">
@@ -285,7 +285,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
       
       <!-- fills the white area exactly -->
       <div style="position:absolute; top:15.8%; left:4.1%; width:91.8%; height:77.8%; overflow:hidden; border-radius:0 0 8px 8px;">
-        <img src="./images/project-navigator/image7.gif" style="display:block; width:100%; height:45%; object-fit:fill;">
+        <img src="./images/project-navigator/image7.gif" style="display:block; width:100%; height:100%; object-fit:fill;">
       </div>
       
     </div>
@@ -296,7 +296,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
       
       <!-- fills the white area exactly -->
       <div style="position:absolute; top:15.8%; left:4.1%; width:91.8%; height:77.8%; overflow:hidden; border-radius:0 0 8px 8px;">
-        <img src="./images/project-navigator/image10.giff" style="display:block; width:100%; height:45%; object-fit:fill;">
+        <img src="./images/project-navigator/image10.giff" style="display:block; width:100%; height:100%; object-fit:fill;">
       </div>
       
     </div>
