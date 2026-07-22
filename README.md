@@ -3,7 +3,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
-<a id="enterprise-project-navigator"></a>
+
 
 #  Overview
 
@@ -30,7 +30,7 @@ Whether managing multiple projects, tracking organisational data, or administeri
 💡 **Tip:** Click the hero image to view the full-size version.
 
 ---
-
+<a id="enterprise-project-navigator"></a>
 ## 🧭 Table of Contents
 
 | 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
