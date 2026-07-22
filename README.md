@@ -263,7 +263,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 **The log file as created in the video as seen in the Enola Record Unlock Viewer**
 
 <p align="left">
-<img src="./images/enola-server/image8.png" width="90%">
+<img src="./images/enola-server/image8.png" width="100%">
 </p>
 💡 **Tip:** Click the image for the full-size version.
 
@@ -278,15 +278,15 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>New User Registration & Login</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image7.gif" width="45%">
-  <img src="./images/project-navigator/image10.gif" width="45%">
+  <img src="./images/project-navigator/image7.gif" width="50%">
+  <img src="./images/project-navigator/image10.gif" width="50%">
 </p>
 
 <h3>Account Recovery Email Retrieval & Username Retrieval</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image11.gif" width="45%">
-  <img src="./images/project-navigator/image12.gif" width="45%">
+  <img src="./images/project-navigator/image11.gif" width="50%">
+  <img src="./images/project-navigator/image12.gif" width="50%">
 </p>
 
 <h3>Account Recovery Reset Password & Change Password</h3>
@@ -328,28 +328,28 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 <h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
 
-<img src="./images/enola-server/image7.png" width="90%">
+<img src="./images/enola-server/image7.png" width="100%">
 
 <h3>Enola :- Server is running & Enola :- Server is stopped</h3>
 
 <p align="left">
-  <img src="./images/enola-server/image1.png" width="45%">
-  <img src="./images/enola-server/image2.png" width="45%">
+  <img src="./images/enola-server/image1.png" width="50%">
+  <img src="./images/enola-server/image2.png" width="50%">
 </p>
 
 
 <h3>Enola :- About & Enola :- Server is running</h3>
 
 <p align="left">
-  <img src="./images/enola-server/image3.png" width="45%">
-  <img src="./images/enola-server/image4.png" width="45%">
+  <img src="./images/enola-server/image3.png" width="50%">
+  <img src="./images/enola-server/image4.png" width="50%">
 </p>
 
 <h3>Enola :- Server is stopped & Enola :- Only one enola client instance allowed to run</h3>
 
 <p align="left">
-  <img src="./images/enola-server/image5.png" width="45%">
-  <img src="./images/enola-server/image6.png" width="45%">
+  <img src="./images/enola-server/image5.png" width="50%">
+  <img src="./images/enola-server/image6.png" width="50%">
 </p>
 💡 **Tip:** Click the image for the full-size version.
 
