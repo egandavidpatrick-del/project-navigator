@@ -333,8 +333,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Enola :- Server is running & Enola :- Server is stopped</h3>
 
 <p align="left">
-  <img src="./images/enola-server/image1.png" width="50%">
-  <img src="./images/enola-server/image2.png" width="50%">
+  <img src="./images/enola-server/image1.png" width="49%">
+  <img src="./images/enola-server/image2.png" width="49%">
 </p>
 
 
