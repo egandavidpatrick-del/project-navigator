@@ -30,7 +30,9 @@ Whether managing multiple projects, tracking organisational data, or administeri
 💡 **Tip:** Click the hero image to view the full-size version.
 
 ---
+
 <a id="enterprise-project-navigator"></a>
+
 ## 🧭 Table of Contents
 
 | 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
