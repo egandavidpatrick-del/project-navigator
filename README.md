@@ -281,7 +281,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <tr>
   <td style="text-align:center; vertical-align:middle;">
     <div style="position:relative; display:inline-block; line-height:0; width:100%; max-width:1280px;">
-      <img src="frame_generic_dark.png" style="display:block; margin:0 auto; width:100%;">
+      <img src="./images/project-navigator/frame_generic_dark.png" style="display:block; margin:0 auto; width:100%;">
       
       <!-- fills the white area exactly -->
       <div style="position:absolute; top:15.8%; left:4.1%; width:91.8%; height:77.8%; overflow:hidden; border-radius:0 0 8px 8px;">
@@ -292,7 +292,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
   </td>
     <td style="text-align:center; vertical-align:middle;">
     <div style="position:relative; display:inline-block; line-height:0; width:100%; max-width:1280px;">
-      <img src="frame_generic_dark.png" style="display:block; margin:0 auto; width:100%;">
+      <img src="./images/project-navigator/frame_generic_dark.png" style="display:block; margin:0 auto; width:100%;">
       
       <!-- fills the white area exactly -->
       <div style="position:absolute; top:15.8%; left:4.1%; width:91.8%; height:77.8%; overflow:hidden; border-radius:0 0 8px 8px;">
