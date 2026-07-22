@@ -31,7 +31,7 @@ Whether managing multiple projects, tracking organisational data, or administeri
 
 ---
 
-<a id="enterprise-project-navigator"></a>
+
 
 ## 🧭 Table of Contents
 
@@ -43,6 +43,7 @@ Whether managing multiple projects, tracking organisational data, or administeri
 | 👥 [Who Is It For](#who-is-it-for) | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
+<a id="enterprise-project-navigator"></a>
 ---
 [Back to top](#enterprise-project-navigator)
 <a id="platform-overview"></a>
