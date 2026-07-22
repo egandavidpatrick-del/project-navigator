@@ -7,20 +7,18 @@
 
 #  Overview
 
-Enterprise Project Navigator is a full-stack enterprise web application designed to help organisations manage projects, teams, and project-related information through a modern, responsive interface.
+Enterprise Project Navigator is a full-stack enterprise web application designed to help organisations manage their project directories through a modern, interface.
 
-The application demonstrates enterprise software development practices by combining secure authentication, role-based access control, project management workflows, data visualisation, and an intuitive user experience. It was built as a comprehensive portfolio project to showcase the design and implementation of a scalable business application using modern web technologies.
+The application demonstrates enterprise software development practices by combining secure authentication, role-based access control, and an intuitive user experience. It was built as a comprehensive portfolio project to showcase the design and implementation of a scalable business application using modern web technologies.
 
 Whether managing multiple projects, tracking organisational data, or administering users, Enterprise Project Navigator provides a structured and extensible platform that reflects many of the features found in real-world enterprise systems.
 
 ## At a Glance
 
 ✔ Full-stack enterprise web application
-✔ Secure authentication and authorization
-✔ Responsive modern user interface
+✔ Secure authentication and authorisation
+✔ Modern user interface
 ✔ Project and team management
-✔ Dashboard and data visualisation
-✔ RESTful API architecture
 ✔ Role-based access control
 ✔ Comprehensive documentation
 
