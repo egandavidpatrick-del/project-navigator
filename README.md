@@ -45,12 +45,12 @@ Whether managing multiple projects, tracking organisational data, or administeri
 
 
 ---
-[Back to top](#enterprise-projectr)
+[Back to top](#enterprise-project)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
 The Enterprise Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
 
-[Back to top](#enterprise-projectr)
+[Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
 ## 📁 Typical Engineering Project Directory Structure
 
@@ -98,7 +98,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 
 
 ---
-[Back to top](#enterprise-projectr)
+[Back to top](#enterprise-project)
 <a id="repository-contents"></a>
 ## 📦 Repository Contents
 
@@ -124,7 +124,7 @@ While the platform was originally developed for the AEC (Architecture, Engineeri
 ```
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="documentation"></a>
 ## 📚 Documentation
 
@@ -137,7 +137,7 @@ This repository includes:
 * Execution Logs
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="key-features"></a>
 ## ✨Key Features
 
@@ -152,7 +152,7 @@ This repository includes:
 - Automated system health monitoring
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
@@ -230,7 +230,7 @@ The purpose of this mechanism is to prevent stale or abandoned record locks from
 Once deployed, the system operates autonomously.
 
 --- 
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
 ## 🏗️ Enola Architecture
 
@@ -287,7 +287,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Project Navigator & Enola
 
@@ -375,7 +375,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 
 <a id="solution"></a>
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 ## 💡 Solution
 
 The Enterprise Project Navigator centralises historical and active engineering project information into a structured, searchable environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
@@ -394,7 +394,7 @@ By consolidating project information into a unified catalogue system, the soluti
 
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="who-is-it-for"></a>
 ## 👥 Who Is It For?
 
@@ -412,7 +412,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 * Document Controllers
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="why-is-it-better-than-traditional-workflows"></a>
 ## 🚀 Why Is It Better Than Traditional Workflows?
 
@@ -426,7 +426,7 @@ This reduces time spent searching for project directories, improves coordination
 - Shared across all users
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="operational-infrastructure"></a>
 ## ⚙️ Operational Infrastructure
 
@@ -464,7 +464,7 @@ The hardware specification presented below reflects the development machine used
 - Internet connection
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
@@ -473,7 +473,7 @@ The hardware specification presented below reflects the development machine used
 [Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/zlRKcuggKOM)
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="results"></a>
 ## 📊 Results
 
@@ -485,14 +485,14 @@ The hardware specification presented below reflects the development machine used
 * Automated stale record unlocking
 * Production-ready architecture
 
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="project-status"></a>
 ## 🚦 Project Status
 
 ✅ Completed Project  
 
 ---
-[Back to top](#enterprise-project-navigator)
+[Back to top](#enterprise-project)
 <a id="author"></a>
 ## 👤 Author
 
