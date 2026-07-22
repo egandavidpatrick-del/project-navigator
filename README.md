@@ -319,8 +319,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Project in use Notification & User account in use Notification</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image8.gif" width="45%">
-  <img src="./images/project-navigator/image9.gif" width="45%">
+  <img src="./images/project-navigator/image8.gif" width="49%">
+  <img src="./images/project-navigator/image9.gif" width="49%">
 </p>
 💡 **Tip:** Click the image for the full-size version.
 
