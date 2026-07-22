@@ -292,8 +292,8 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 <h3>Account Recovery Reset Password & Change Password</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image13.gif" width="45%">
-  <img src="./images/project-navigator/image14.gif" width="45%">
+  <img src="./images/project-navigator/image13.gif" width="49%">
+  <img src="./images/project-navigator/image14.gif" width="49%">
 </p>
 
 
