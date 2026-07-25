@@ -11,7 +11,7 @@ Project Navigator is a full-stack teams web application designed to help organis
 
 The application demonstrates teams software development practices by combining secure authentication, role-based access control, and an intuitive user experience. It was built as a comprehensive portfolio project to showcase the design and implementation of a scalable business application using modern web technologies.
 
-Whether managing multiple project directories, or administering users, Enterprise Project Navigator provides a structured and extensible platform that reflects many of the features found in real-world enterprise systems.
+Whether managing multiple project directories, or administering users, Project Navigator provides a structured and extensible platform that reflects many of the features found in real-world teams systems.
 
 ## At a Glance
 
