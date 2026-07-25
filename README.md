@@ -22,7 +22,7 @@ Whether managing multiple project directories, or administering users, Enterpris
 ✔ Comprehensive documentation
 
 ##  Lightweight Project Navigator for Teams | Find Project Directories in 1 Second
-<i>Enterprise project directory management platform enabling engineering teams to locate thousands of historical and active project directories in seconds.</i>
+<i>project directory management platform enabling engineering teams to locate thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
 </p>
@@ -47,7 +47,7 @@ Whether managing multiple project directories, or administering users, Enterpris
 [Back to top](#enterprise-project)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
-The Enterprise Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
+The Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
 
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
@@ -379,7 +379,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Enterprise Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
+The Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
 
