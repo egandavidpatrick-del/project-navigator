@@ -22,7 +22,7 @@ Whether managing multiple project directories, or administering users, Enterpris
 ✔ Comprehensive documentation
 
 ##  Lightweight Project Navigator for Teams | Find Project Directories in 1 Second
-<i>project directory management platform enabling engineering teams to locate thousands of historical and active project directories in seconds.</i>
+<i>Project Navigator directory management platform enabling engineering teams to locate thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
 </p>
