@@ -22,7 +22,7 @@ Whether managing multiple project directories, collaborating with team members, 
 ✔ Comprehensive documentation
 
 #  Lightweight Project Navigator for Teams Built for SMEs | Find Project Directories in 1 Second | No Migration Needed
-<i>Project Navigator directory management platform enabling AEC teams to locate thousands of historical and active project directories in seconds.</i>
+<i>Project Navigator directory management platform enabling AEC teams to traverse thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
 </p>
