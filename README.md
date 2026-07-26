@@ -22,7 +22,7 @@ Whether managing multiple project directories, collaborating with team members, 
 ✔ Comprehensive documentation
 
 #  Lightweight Project Navigator for Teams Built for SMEs | Find Project Directories in 1 Second | No Migration Needed
-<i>Project Navigator directory management platform enabling construction teams to locate thousands of historical and active project directories in seconds.</i>
+<i>Project Navigator directory management platform enabling AEC teams to locate thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
 </p>
@@ -79,9 +79,9 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```
 
 
-As construction organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
+As AEC organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
-The Navigator platform centralises both historical and current project directories into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling construction teams to locate project directories and associated information in seconds rather than manually navigating complex directory trees.
+The Navigator platform centralises both historical and current project directories into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling AEC teams to locate project directories and associated information in seconds rather than manually navigating complex directory trees.
 
 The system provides:
 
