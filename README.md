@@ -79,9 +79,9 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```
 
 
-As engineering organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
+As construction organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
-The Navigator platform centralises both historical and current project directories into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling engineering teams to locate project directories and associated information in seconds rather than manually navigating complex directory trees.
+The Navigator platform centralises both historical and current project directories into a structured, searchable catalogue. This catalogue can be adapted to point directly to cloud storage locations such as OneDrive or enterprise file servers, enabling construction teams to locate project directories and associated information in seconds rather than manually navigating complex directory trees.
 
 The system provides:
 
