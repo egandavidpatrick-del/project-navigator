@@ -253,7 +253,7 @@ Asynchronous background server responsible for:
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
   
-Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over. When the computer boots up the Enola Hidden Service by default it the Primary Unlocker.
+Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Visible Client holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Hidden Service automatically takes over. When the file server boots up the Enola Hidden Service by default it the Primary Unlocker.
 
 ---
 ## Enola: Self-Healing Stale Locks Automatic Recovery — No Human Intervention Required
@@ -378,9 +378,9 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to engineering knowledge.
+The Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
 
-The platform provides a shared catalogue of project information across the organisation, enabling engineering teams to:
+The platform provides a shared catalogue of project information across the organisation, enabling AEC teams to:
 
 - Quickly retrieve historical and current project records
 - Access project information through a structured search environment
@@ -389,7 +389,7 @@ The platform provides a shared catalogue of project information across the organ
 - Reduce time spent locating engineering documentation and project assets
 - Bookmark and quickly access frequently used projects
 
-By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for engineering decision-making.
+By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
 
 
 ---
@@ -417,7 +417,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 
 Instead of relying on disconnected directories, emails, spreadsheets, and local copies, the platform provides a centralised network-accessible project catalogue where all users operate from the same shared directory structure and project data.
 
-This reduces time spent searching for project directories, improves coordination across teams, and ensures engineering information remains:
+This reduces time spent searching for project directories, improves coordination across teams, and ensures construction information remains:
 
 - Accessible
 - Structured
