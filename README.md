@@ -378,7 +378,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator centralises historical and active engineering project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
+The Project Navigator centralises historical and active construction project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling AEC teams to:
 
