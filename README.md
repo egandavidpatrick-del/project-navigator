@@ -51,7 +51,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
-## 📁 Typical Engineering Project Directory Structure
+## 📁 Typical AEC Project Directory Structure
 
 ```text
 2026 Projects
