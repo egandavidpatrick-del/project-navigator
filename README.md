@@ -159,7 +159,6 @@ This repository includes:
 - Bootstrap
 - jQuery
 - Vue -> Enola Record Unlock Viewer
-- Click Once -> Excel & Email Integration
 - JavaScript
 - AJAX
 - HTML5
@@ -167,7 +166,6 @@ This repository includes:
   
 <h4>Backend</h4>
 
-- Microsoft.Office.Interop.Excel -> Excel Integration
 - PHP
 
 <h4>Servers Client & Sevice Background</h4>
