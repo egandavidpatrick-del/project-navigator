@@ -495,6 +495,6 @@ The hardware specification presented below reflects the development machine used
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Project Navigator for Teams Platform
+Sole Software Developer, Systems Designer, and Solutions Architect for the Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/project-navigator)
