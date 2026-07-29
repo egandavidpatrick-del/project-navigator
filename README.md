@@ -35,7 +35,7 @@ Whether managing multiple project directories, collaborating with team members, 
 ---
 
 <a id="enterprise-project"></a>
-<center>
+
 ## 🧭 Table of Contents
 
 | 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
@@ -46,7 +46,7 @@ Whether managing multiple project directories, collaborating with team members, 
 | 👥 [Who Is It For](#who-is-it-for) | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows) | | | |
 
-</center>
+
 ---
 [Back to top](#enterprise-project)
 <a id="platform-overview"></a>
