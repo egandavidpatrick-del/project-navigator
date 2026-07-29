@@ -20,7 +20,7 @@ Whether managing multiple project directories, collaborating with team members, 
 ✔ Role-based access control
 ✔ Comprehensive documentation
 
-# Project Navigator
+# 🚀 Project Navigator
 <h3>Find Project Directories in 1 Second</h3> 
 
 ---
