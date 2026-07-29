@@ -4,7 +4,10 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-<div style="background-color:#C3C3C3;">
+
+body {
+  background-color: #C3C3C3;
+}
 ##  Overview
 
 Project Navigator is a full-stack web application designed to help organisations manage their project directories through a modern, intuitive interface.
@@ -498,4 +501,4 @@ David Egan
 Sole Software Developer, Systems Designer, and Solutions Architect for the Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/project-navigator)
-</div>
+
