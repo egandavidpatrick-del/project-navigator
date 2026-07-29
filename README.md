@@ -4,10 +4,6 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-
-body {
-  background-color: #C3C3C3;
-}
 ##  Overview
 
 Project Navigator is a full-stack web application designed to help organisations manage their project directories through a modern, intuitive interface.
