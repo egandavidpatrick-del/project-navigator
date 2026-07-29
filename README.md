@@ -36,7 +36,7 @@ Whether managing multiple project directories, collaborating with team members, 
 
 <a id="enterprise-project"></a>
 
-## 🧭 Table of Contents
+## 📑 Table of Contents
 
 | 📖 Overview | 🛠️ Technical | 📚 Resources | 📈 About |
 |:-----------:|:------------:|:------------:|:----------:|
