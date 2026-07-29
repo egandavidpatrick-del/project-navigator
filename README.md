@@ -1,4 +1,4 @@
-
+<div style="background-color:#f0f0f0;">
 ![GitHub Stars](https://img.shields.io/github/stars/egandavidpatrick-del/saubon-synogen?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/egandavidpatrick-del/saubon-synogen)
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
@@ -498,3 +498,4 @@ David Egan
 Sole Software Developer, Systems Designer, and Solutions Architect for the Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> • [GitHub](https://github.com/egandavidpatrick-del/project-navigator)
+</div>
