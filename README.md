@@ -20,7 +20,8 @@ Whether managing multiple project directories, collaborating with team members, 
 ✔ Role-based access control
 ✔ Comprehensive documentation
 
-# Project Navigator | <H3>Find Project Directories in 1 Second</H3> 
+# Project Navigator
+<h3>Find Project Directories in 1 Second</h3> 
 <i>Project Navigator directory management platform enabling AEC teams to traverse thousands of historical and active project directories in seconds.</i>
 <p align="left">
 <img src="./images/project-navigator/image1.png" width=100%">
