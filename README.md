@@ -170,7 +170,7 @@ This repository includes:
   
 <h4>Backend</h4>
 
-- Email Delivery -> PhpMailer
+- Email Delivery -> PHPMailer
 
 - PHP
 
