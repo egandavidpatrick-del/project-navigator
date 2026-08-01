@@ -170,6 +170,56 @@ P:\2026 Projects
         └── 04_ThirdPartyInfo
 ```
 
+## 📁 00_README.txt
+```text
+                    ISO 19650 PROJECT FOLDER STRUCTURE
+
+
+FOLDER BREAKDOWN
+
+
+01_WIP                    = WORK IN PROGRESS
+                          Internal use only. Incomplete, unchecked information.
+                          Path: 01_WIP/01_ByOriginator/ 01_WIP/02_ByOthers/
+
+02_SHARED                 = SHARED FOR COORDINATION 
+                          Ready for other disciplines to use. Clash checked.
+                          Path: 02_SHARED/01_ByOriginator/  02_SHARED/02_ByOthers/
+
+03_PUBLISHED              = PUBLISHED FOR CLIENT/ISSUE
+                          Formal issue. Read only. Transmitted externally.
+                          Path: 03_PUBLISHED/01_ByOriginator/ 03_PUBLISHED/02_ByOthers/
+
+04_ARCHIVE                = ARCHIVE
+                          Superseded and withdrawn information. Do not use.
+
+05_RESOURCES              = PROJECT RESOURCES
+                          Company standards, templates, registers, BEP.
+                          Path: 05_RESOURCES/01_Standards/KEY FILE: Document_Issue_Register.xlsx lives here  
+						  05_RESOURCES/02_Templates/  05_RESOURCES/03_CAD_Blocks/  05_RESOURCES/04_Familes/  
+						  05_RESOURCES/05_Scripts/
+                          
+
+06_INCOMING               = INCOMING INFORMATION
+                          Information received from Client and Third Parties.
+                          Path: 06_INCOMING/01_Client_Briefs/ 06_INCOMING/02_Surveys/  
+						  06_INCOMING/03_Geotech/  06_INCOMING/04_ThirdPartyInfo/
+
+KEY RULES
+
+1.  WIP → SHARED → PUBLISHED → ARCHIVE. Information only moves forward.
+2.  01_ByOriginator = Navigator.  02_ByOthers = Consultants/Contractors.
+3.  Never edit files in PUBLISHED or ARCHIVE.
+4.  All deliverables must follow the File Naming Convention.
+5.  The Document Issue Register is the single source of truth for issue status.
+
+CONTACTS
+
+Project Manager:
+BIM Manager: 
+Date Started:
+```
+
 
 As AEC organisations grow, these directory structures often expand into thousands of project directories distributed across shared network environments, making historical and active project retrieval increasingly difficult, time-consuming, and operationally inefficient.
 
