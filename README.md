@@ -73,9 +73,9 @@ P:\2026 Projects
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 26L003 The Third Project
-├── 26L010 The Tenth Project
-└── 26L100 The Hundredth Project
+  ├── 26L003 The Third Project
+  ├── 26L010 The Tenth Project
+  └── 26L100 The Hundredth Project
 ```
 ```text
 P:\2022 Projects
@@ -93,9 +93,9 @@ P:\2022 Projects
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 22L003 The Third Project
-├── 22L010 The Tenth Project
-└── 22L100 The Hundredth Project
+  ├── 22L003 The Third Project
+  ├── 22L010 The Tenth Project
+  └── 22L100 The Hundredth Project
 ```
 ```text
 P:\2020 Projects
@@ -113,9 +113,9 @@ P:\2020 Projects
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 20L003 The Third Project
-├── 20L010 The Tenth Project
-└── 20L100 The Hundredth Project
+  ├── 20L003 The Third Project
+  ├── 20L010 The Tenth Project
+  └── 20L100 The Hundredth Project
 ```
 ## 📁 BIM ISO 19650 Directory Structure & Sub Directories
 ```text
