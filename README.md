@@ -58,7 +58,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ## 📁 Navigator Supports the BIM ISO 19650 Directory Structure below
 
 ```text
-2026 Projects
+P:\2026 Projects
 ├── 26G001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
@@ -78,7 +78,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 └── 26G100 The Hundredth Project
 ```
 ```text
-2022 Projects
+P:\2022 Projects
 ├── 22ME001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
@@ -98,7 +98,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 └── 22ME100 The Hundredth Project
 ```
 ```text
-2020 Projects
+P:\2020 Projects
 ├── 20L001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
