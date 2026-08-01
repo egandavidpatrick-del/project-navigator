@@ -55,12 +55,24 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
-## 📁 Project Directory Structure
+## 📁 BIM ISO 19650 Directory Structure
 
 ```text
 2026 Projects
 ├── 26G001 The First Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 26G002 The Second Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 26G003 The Third Project
 ├── 26G010 The Tenth Project
 └── 26G100 The Hundredth Project
@@ -68,7 +80,19 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```text
 2022 Projects
 ├── 22ME001 The First Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 22ME002 The Second Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 22ME003 The Third Project
 ├── 22ME010 The Tenth Project
 └── 22ME100 The Hundredth Project
@@ -76,7 +100,19 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```text
 2020 Projects
 ├── 20L001 The First Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 20L002 The Second Project
+  ├─── 01_WIP
+  ├─── 02_SHARED
+  ├─── 03_PUBLISHED
+  ├─── 04_ARCHIVE
+  ├─── 05_RESOURCES
+  ├─── 06_INCOMING
 ├── 20L003 The Third Project
 ├── 20L010 The Tenth Project
 └── 20L100 The Hundredth Project
