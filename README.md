@@ -59,14 +59,14 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 
 ```text
 P:\2026 Projects
-├── 26L001 The First Project
+  ├── 26L001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 26L002 The Second Project
+  ├── 26L002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
@@ -79,14 +79,14 @@ P:\2026 Projects
 ```
 ```text
 P:\2022 Projects
-├── 22L001 The First Project
+  ├── 22L001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 22L002 The Second Project
+  ├── 22L002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
@@ -99,14 +99,14 @@ P:\2022 Projects
 ```
 ```text
 P:\2020 Projects
-├── 20L001 The First Project
+  ├── 20L001 The First Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
   └──  06_INCOMING
-├── 20L002 The Second Project
+  ├── 20L002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
