@@ -65,14 +65,14 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 26G002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 26G003 The Third Project
 ├── 26G010 The Tenth Project
 └── 26G100 The Hundredth Project
@@ -85,14 +85,14 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 22ME002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 22ME003 The Third Project
 ├── 22ME010 The Tenth Project
 └── 22ME100 The Hundredth Project
