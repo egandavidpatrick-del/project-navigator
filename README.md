@@ -119,49 +119,49 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```
 ## 📁 BIM ISO 19650 Directory Structure & Sub Directories
 ```text
-D:\2026 Projects\
-└── [26L001 PROJECT NAME]\
+P:\2026 Projects
+└── [26L001 PROJECT NAME]
     ├── 00_README.txt
-    ├── 01_WIP\
-    │   ├── 01_ByOriginator\
-    │   │   ├── 00_ProjectAdmin\
-    │   │   ├── ARCH\
-    │   │   ├── STRUC\
-    │   │   ├── MEP\
-    │   │   ├── CIVIL\
-    │   │   ├── LAND\
-    │   │   └── TECO\
-    │   └── 02_ByOthers\
-    │       ├── ARCH\
-    │       ├── STRUC\
-    │       └── MEP\
-    ├── 02_SHARED\
-    │   ├── 01_ByOriginator\
-    │   │   ├── ARCH\
-    │   │   ├── STRUC\
-    │   │   └── MEP\
-    │   └── 02_ByOthers\
-    │       ├── ARCH\
-    │       ├── STRUC\
-    │       └── MEP\
-    ├── 03_PUBLISHED\
-    │   ├── 01_ByOriginator\
-    │   └── 02_ByOthers\
-    ├── 04_ARCHIVE\
-    ├── 05_RESOURCES\
-    │   ├── 01_Standards\
+    ├── 01_WIP
+    │   ├── 01_ByOriginator
+    │   │   ├── 00_ProjectAdmin
+    │   │   ├── ARCH
+    │   │   ├── STRUC
+    │   │   ├── MEP
+    │   │   ├── CIVIL
+    │   │   ├── LAND
+    │   │   └── TECO
+    │   └── 02_ByOthers
+    │       ├── ARCH
+    │       ├── STRUC
+    │       └── MEP
+    ├── 02_SHARED
+    │   ├── 01_ByOriginator
+    │   │   ├── ARCH
+    │   │   ├── STRUC
+    │   │   └── MEP
+    │   └── 02_ByOthers
+    │       ├── ARCH
+    │       ├── STRUC
+    │       └── MEP
+    ├── 03_PUBLISHED
+    │   ├── 01_ByOriginator
+    │   └── 02_ByOthers
+    ├── 04_ARCHIVE
+    ├── 05_RESOURCES
+    │   ├── 01_Standards
     │   │   └── Document_Issue_Register.xlsx
-    │   ├── 02_Templates\
+    │   ├── 02_Templates
     │   │   ├── Drawing_Template.dwg
     │   │   └── Sheet_Template.rvt
-    │   ├── 03_CAD_Blocks\
-    │   ├── 04_Families\
-    │   └── 05_Scripts\
-    └── 06_INCOMING\
-        ├── 01_Client_Briefs\
-        ├── 02_Surveys\
-        ├── 03_Geotech\
-        └── 04_ThirdPartyInfo\
+    │   ├── 03_CAD_Blocks
+    │   ├── 04_Families
+    │   └── 05_Scripts
+    └── 06_INCOMING
+        ├── 01_Client_Briefs
+        ├── 02_Surveys
+        ├── 03_Geotech
+        └── 04_ThirdPartyInfo
 ```
 
 
