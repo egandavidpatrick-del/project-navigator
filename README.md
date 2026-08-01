@@ -126,24 +126,24 @@ P:\2026 Projects
     │   ├── 01_ByOriginator
     │   │   ├── 00_ProjectAdmin
     │   │   ├── ARCH
-    │   │   ├── STRUC
-    │   │   ├── MEP
     │   │   ├── CIVIL
     │   │   ├── LAND
+    │   │   ├── MEP
+    │   │   ├── STRU
     │   │   └── TECO
     │   └── 02_ByOthers
     │       ├── ARCH
-    │       ├── STRUC
-    │       └── MEP
+    │       ├── MEP
+    │       └── STRUC
     ├── 02_SHARED
     │   ├── 01_ByOriginator
     │   │   ├── ARCH
-    │   │   ├── STRUC
-    │   │   └── MEP
+    │   │   ├── MEP
+    │   │   └── STRUC
     │   └── 02_ByOthers
     │       ├── ARCH
-    │       ├── STRUC
-    │       └── MEP
+    │       ├── MEP
+    │       └── STRUC
     ├── 03_PUBLISHED
     │   ├── 01_ByOriginator
     │   └── 02_ByOthers
