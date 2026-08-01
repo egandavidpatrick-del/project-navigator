@@ -609,7 +609,7 @@ The hardware specification presented below reflects the development machine used
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
-[Project Navigator Search all Projects Demo](https://youtu.be/crx4kofT_w0)
+[Project Navigator Search all Projects Demo](https://youtu.be/G5R1H1D6mgU)
 
 [Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/zlRKcuggKOM)
 
