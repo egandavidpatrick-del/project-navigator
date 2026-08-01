@@ -172,7 +172,7 @@ P:\2026 Projects
 
 ## 📁 00_README.txt
 ```text
-                    ISO 19650 PROJECT FOLDER STRUCTURE
+                    ISO 19650 PROJECT DIRECTORY STRUCTURE
 
 
 FOLDER BREAKDOWN
