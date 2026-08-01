@@ -105,14 +105,14 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 20L002 The Second Project
   ├─── 01_WIP
   ├─── 02_SHARED
   ├─── 03_PUBLISHED
   ├─── 04_ARCHIVE
   ├─── 05_RESOURCES
-  ├─── 06_INCOMING
+  └──  06_INCOMING
 ├── 20L003 The Third Project
 ├── 20L010 The Tenth Project
 └── 20L100 The Hundredth Project
