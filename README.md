@@ -123,8 +123,7 @@ P:\2020 Projects
   ├── 20L010 The Tenth Project
   └── 20L100 The Hundredth Project
 ```
-## 📁 David Egan's ISO 19650 CDE Directory Structure
-## 📁 Base Standard: ISO 19650-1:2018 | Extensions: 05_RESOURCES, 06_INCOMING
+## 📁 David Egan's ISO 19650 CDE Directory Structure Base Standard: ISO 19650-1:2018 | Extensions: 05_RESOURCES, 06_INCOMING
 
 ```text
 P:\2026 Projects
