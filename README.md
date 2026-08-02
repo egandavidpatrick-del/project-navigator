@@ -55,7 +55,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
-## 📁 Project Navigator Supports the BIM ISO 19650 Directory Structure below
+## 📁 Project Navigator Supports David Egan's Extensions to the current BIM ISO 19650 standard the Revised BIM ISO 19650 Directory Structure below
 
 ```text
 P:\2026 Projects
@@ -124,7 +124,7 @@ P:\2020 Projects
   └── 20L100 The Hundredth Project
 ```
 ## 📁 David Egan's ISO 19650 CDE Directory Structure
-## Base Standard: ISO 19650-1:2018 | Extensions: 05_RESOURCES, 06_INCOMING
+## 📁 Base Standard: ISO 19650-1:2018 | Extensions: 05_RESOURCES, 06_INCOMING
 
 ```text
 P:\2026 Projects
