@@ -123,7 +123,8 @@ P:\2020 Projects
   ├── 20L010 The Tenth Project
   └── 20L100 The Hundredth Project
 ```
-## 📁 BIM ISO 19650 Directory Structure & Sub Directories
+## 📁 David Egan's ISO 19650 CDE Directory Structure
+Base Standard: ISO 19650-1:2018 | Extensions: 05_RESOURCES, 06_INCOMING
 ```text
 P:\2026 Projects
 └── [26L001 PROJECT NAME]
@@ -205,7 +206,10 @@ DIRECTORY BREAKDOWN
                           Path: 06_INCOMING/01_Client_Briefs/ 06_INCOMING/02_Surveys/  
 						  06_INCOMING/03_Geotech/  06_INCOMING/04_ThirdPartyInfo/
 
-Note: 05 and 06 are support folders for metadata and control, not states.
+NOTE: This implementation includes 2 additional support folders:
+David Egan introduced sections 05/06 to compliment the current ISO 19650
+standard 05_RESOURCES and 06_INCOMING. These are NOT defined CDE states in ISO 19650-1:2018.
+They are added to support metadata management and controlled information flow.
 
 KEY RULES
 
