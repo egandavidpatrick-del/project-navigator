@@ -205,7 +205,7 @@ DIRECTORY BREAKDOWN
                           Path: 06_INCOMING/01_Client_Briefs/ 06_INCOMING/02_Surveys/  
 						  06_INCOMING/03_Geotech/  06_INCOMING/04_ThirdPartyInfo/
 
-Note: 06 and 06 are support folders for metadata and control, not states.
+Note: 05 and 06 are support folders for metadata and control, not states.
 
 KEY RULES
 
