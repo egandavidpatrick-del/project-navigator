@@ -21,7 +21,7 @@ Whether managing multiple project directories, collaborating with team members, 
 ✔ Comprehensive documentation
 
 # 🧭 Multi-User Project Navigator
-<h3>Find Project Directories in 1 Second</h3> 
+<h3>Find Project Directories in Seconds</h3> 
 
 ---
 
