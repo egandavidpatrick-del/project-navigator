@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-##  Overview
+##  Is this a pain point for you or your team?
 
 Does your team ever waste valuable time searching through thousands of project directories to find the one they need?
 
