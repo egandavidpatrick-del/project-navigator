@@ -10,7 +10,7 @@ Does your team ever waste valuable time searching through thousands of project d
 
 It may seem like a small inconvenience, but across an entire team, those minutes add up quickly.
 
-Project Navigator is built to eliminate that wasted time.
+<b>Project Navigator is built to eliminate that wasted time.</b>
 
 With two built-in search engines, Project Navigator can locate any project directory in seconds. Once you’ve found the project you’re looking for, simply click Open Directory to launch it directly in File Explorer.
 
@@ -18,7 +18,7 @@ No more guessing. No more digging through endless folders. No more wasted time.
 
 And Project Navigator is built to scale. Whether you have hundreds or thousands of project directories, it makes finding the right one quick and effortless.
 
-The more project directories your team manages, the more valuable Project Navigator becomes.
+<b>The more project directories your team manages, the more valuable Project Navigator becomes.</b>
 
 ## At a Glance
 
