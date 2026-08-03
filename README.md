@@ -6,11 +6,19 @@
 
 ##  Overview
 
-Project Navigator is a full-stack web application designed to help organisations manage their project directories through a modern, intuitive interface.
+Does your team ever waste valuable time searching through thousands of project directories to find the one they need?
 
-The application demonstrates professional software development practices by combining secure authentication, role-based access control, and a user-friendly experience. It was developed as a comprehensive portfolio project to showcase the design and implementation of a scalable business application using modern web technologies.
+It may seem like a small inconvenience, but across an entire team, those minutes add up quickly.
 
-Whether managing multiple project directories, collaborating with team members, or administering users, Project Navigator provides a structured and extensible platform that reflects the functionality and architecture of real-world enterprise systems.
+Project Navigator is built to eliminate that wasted time.
+
+With two built-in search engines, Project Navigator can locate any project directory in seconds. Once you’ve found the project you’re looking for, simply click Open Directory to launch it directly in File Explorer.
+
+No more guessing. No more digging through endless folders. No more wasted time.
+
+And Project Navigator is built to scale. Whether you have hundreds or thousands of project directories, it makes finding the right one quick and effortless.
+
+The more project directories your team manages, the more valuable Project Navigator becomes.
 
 ## At a Glance
 
