@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-##  Is Finding Project Directories a Pain Point for Your Team?
+##  Wasting Time Searching for Project Directories?
 
 Does your team ever waste valuable time searching through thousands of project directories to find the one they need?
 
