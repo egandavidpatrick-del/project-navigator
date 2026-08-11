@@ -605,7 +605,7 @@ The hardware specification presented below reflects the development machine used
 
 -	Operating System: Windows 11 Pro
 -	Installed RAM 8 GB
--	Display 1366×768 resolution
+-	Display 1440×900 resolution
 -	Storage 50 MB free space
 -	System type 64-bit operating system, x64-based processor
 
