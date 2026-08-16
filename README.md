@@ -12,7 +12,7 @@ It may seem like a small inconvenience, but across an entire team, those minutes
 
 <b>Project Navigator is built to eliminate that wasted time.</b>
 
-With two built-in search engines, Project Navigator can locate any project directory in seconds. Once you’ve found the project you’re looking for, simply click Open Directory to launch it directly in File Explorer.
+With two built-in search engines, Project Navigator can locate any project directory in seconds. Once you’ve found the project you’re looking for, simply click Open Directory button to launch it directly in File Explorer.
 
 No more guessing. No more digging through endless folders. No more wasted time.
 
