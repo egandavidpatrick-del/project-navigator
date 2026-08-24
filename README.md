@@ -429,6 +429,9 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
   For a full breakdown of Enola and associated visible/hidden log files and PID naming check the Enola User Guide in the /guides/user-guides folder in this repository.
 
+**Observation: Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.**
+
+
 <h3>Enola Record Unlock Viewer</h3>
 
 **The log file as created in the video as seen in the Enola Record Unlock Viewer**
