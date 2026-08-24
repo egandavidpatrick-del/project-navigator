@@ -431,6 +431,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Observation: Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.**
 
+**Record lock logic lineage: Flur Daniel's, London 1989 - when software engineers were real. I lived through all that :-)**
 
 <h3>Enola Record Unlock Viewer</h3>
 
