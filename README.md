@@ -393,7 +393,7 @@ Once deployed, the Project Navigator system operates autonomously.
 
 The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
 
-<h3>Enola Client (Visible)</h3>
+<h3>Enola Visible Client App</h3>
 Asynchronous user-facing server instance responsible for:
 
 - Monitoring: Real-time status and user activity
@@ -401,7 +401,7 @@ Asynchronous user-facing server instance responsible for:
 - Operational logging: User-level events and errors
 - Automated health monitoring: Client-side diagnostics
   
-<h3>Enola Service (Hidden)</h3>
+<h3>Enola Hidden Service App</h3>
 Asynchronous background server responsible for:
 
 - Background monitoring: Continuous system checks when client is closed or stopping the client server
