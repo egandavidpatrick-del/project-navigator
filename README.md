@@ -429,9 +429,9 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
   For a full breakdown of Enola and associated visible/hidden log files and PID naming check the Enola User Guide in the /guides/user-guides folder in this repository.
 
-**Observation: Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.**
+**Observation:** Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.
 
-**Record lock logic lineage: Flur Daniel's, London 1989 - when software engineers were real. I was learning the ropes back in those days :-)**
+**Record lock logic lineage:** Flur Daniel's, London 1989 - when software engineers were real. I was learning the ropes back in those days, AutoLISP and my AutoLISP Russian compiler :-)
 
 <h3>Enola Record Unlock Viewer</h3>
 
