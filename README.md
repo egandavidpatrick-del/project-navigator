@@ -391,7 +391,7 @@ Once deployed, the Project Navigator system operates autonomously.
 ## 🏗️ Enola Architecture 
 <h3>Enola Asynchronous Servers: Two Hearts, Two Heart Beats, One Pulse - Fire and Forget</h3>
 
-The system uses a dual-mode Enola backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
+The system uses a dual-mode Enola client & service backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
 
 <h3>Enola Visible Client App</h3>
 Asynchronous user-facing server instance responsible for:
