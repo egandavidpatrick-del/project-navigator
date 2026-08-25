@@ -410,7 +410,7 @@ Asynchronous background server responsible for:
 - Operational logging: Service-level events and errors
 - Automated health monitoring: Backend diagnostics
   
-Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Enola Visible Client App holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Enola Hidden Service App automatically takes over. When the file server boots up the Enola Hidden Service by default it the Primary Unlocker.
+Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Enola Visible Client App holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Enola Hidden Service App automatically takes over. When the file server boots up the Enola Hidden Service App by default it the Primary Unlocker.
 
 ---
 ## Enola: Self-Healing Stale Locks Automatic Recovery — No Human Intervention Required
