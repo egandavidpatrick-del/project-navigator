@@ -433,7 +433,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Record lock logic lineage:** Flur Daniel's, London 1989 - when software engineers were real. I was learning the ropes back in those days :-)
 
-**Roots:** , AutoLISP 1986 XLISP LISPHEAP/LISPSTACK Manual tuning - Russian FAS compiler 1989.
+**Roots:** , AutoLISP 1986 XLISP LISPHEAP/LISPSTACK Manual Tuning - Russian FAS compiler 1989.
 
 <h3>Enola Record Unlock Viewer</h3>
 
