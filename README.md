@@ -431,9 +431,9 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 **Observation:** Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.
 
-**Record lock logic lineage:** Flur Daniel's, London 1989 - when software engineers were real. I was learning the ropes back in those days :-)
+**Record lock logic lineage:** Flur Daniel's, London 1989 Nantucket Clipper Database (DOS) - when software engineers were real. I was learning the ropes back in those days :-)
 
-**Roots:** AutoLISP 1986 XLISP LISPHEAP/LISPSTACK Manual Tuning - Russian FAS compiler 1989.
+**Roots:** AutoCAD R10 (DOS) AutoLISP 1986 XLISP LISPHEAP/LISPSTACK Manual Tuning - Russian FAS compiler 1989.
 
 <h3>Enola Record Unlock Viewer</h3>
 
