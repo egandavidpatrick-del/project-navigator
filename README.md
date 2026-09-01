@@ -45,6 +45,10 @@ Navigator uses optimistic record locking to prevent conflicting edits. Because b
 - Uses a primary/backup unlocker model
 - Continues operating when the visible client is stopped
 
+<h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
+
+<img src="./images/enola-server/image7.png" width="100%">
+
 <a id="enterprise-project"></a>
 
 ## 📑 Table of Contents
@@ -506,10 +510,6 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 💡 **Tip:** Click the image for the full-size version.
 
 ---
-
-<h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
-
-<img src="./images/enola-server/image7.png" width="100%">
 
 <h3>Enola :- Server is running & Enola :- Server is stopped</h3>
 
