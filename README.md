@@ -32,18 +32,18 @@ Built with PHP, MariaDB, JavaScript and C#, Navigator provides centralised proje
 
 ---
 
-The interesting part: Enola
+## The interesting part: Enola
 
 Navigator uses optimistic record locking to prevent conflicting edits. Because browser sessions can terminate unexpectedly, locks can become orphaned.
 
 Enola is a C# background service designed to recover those locks automatically.
 
-Continuously monitors locked records
-Detects stale locks
-Automatically releases locks after the configured timeout
-Maintains audit/logging information
-Uses a primary/backup unlocker model
-Continues operating when the visible client is stopped
+- Continuously monitors locked records
+- Detects stale locks
+- Automatically releases locks after the configured timeout
+- Maintains audit/logging information
+- Uses a primary/backup unlocker model
+- Continues operating when the visible client is stopped
 
 <a id="enterprise-project"></a>
 
