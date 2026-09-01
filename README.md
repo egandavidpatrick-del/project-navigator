@@ -320,6 +320,21 @@ This repository includes:
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
+| Component          | Technology                        | Responsibility                                     |
+| ------------------ | --------------------------------- | -------------------------------------------------- |
+| Web UI             | PHP / HTML / CSS / Bootstrap / JS | User interface                                     |
+| Web application    | PHP                               | Authentication, project management, administration |
+| Database           | MariaDB                           | Shared application state                           |
+| Background service | C#                                | Lock monitoring/recovery                           |
+| Operator client    | C# WinForms                       | Service visibility & diagnostics                   |
+| Email              | PHPMailer                         | Account recovery                                   |
+| Web server         | Apache                            | Application hosting                                |
+| Runtime            | XAMPP                             | On-prem deployment                                 |
+
+
+
+
+
 <h4>Frontend</h4>
 
 - Bootstrap
