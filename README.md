@@ -432,24 +432,9 @@ The Navigator platform was developed and tested on a workstation running Windows
 
 The hardware specification presented below reflects the development machine used throughout the project lifecycle. These specifications should not be interpreted as minimum system requirements; the platform is not resource-intensive and is expected to operate effectively on systems with lower hardware specifications than those listed.
 
-**Development Environment**
-- Operating System: Windows 11 Pro
-- Operating System Version: 25H2
-- Processor	13th Gen Intel(R) Core(TM) i9-13900 (2.00 GHz)
-- Installed RAM	32.0 GB (31.6 GB usable)
-- Graphics card	Intel(R) UHD Graphics 770 (128 MB)
-- Storage	1TB SSD
-- Display 2560 × 1440 resolution
-- System type	64-bit operating system, x64-based processor
+**Development environment
 
-**Minimum Requirements**
-
--	Operating System: Windows 11 Pro
--	Installed RAM 8 GB
--	Display 1440×900 resolution
--	Storage 50 MB free space
--	System type 64-bit operating system, x64-based processor
-
+Developed and tested on Windows 11 Pro using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
 
 **Software Requirements**
 - XAMPP
