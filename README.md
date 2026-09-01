@@ -263,13 +263,6 @@ Lock automatically released
 Record available again
 ```
 
-### Test: Dual Browsers Crash Recovery
-**Scenario:** A user edits records in two browser sessions. Both browser processes are forcefully terminated via Task Manager.
-
-**Failure Condition Without Recovery:** Records remain locked indefinitely, requiring administrator intervention.
-
-**Enola Result:** All stale locks were automatically released exactly within 5 minutes. No support tickets or manual admin actions were required.
-
 **Demo:** [Enola Self-Healing Stale Locks Automatic Recovery Demo](https://youtu.be/qkdAsdhoOlA)
 
 - The stale locks are gone. The Enola service removed them automatically with no human intervention.
