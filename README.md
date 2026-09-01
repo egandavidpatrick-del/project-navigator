@@ -237,7 +237,7 @@ Primary Unlocker mechanism: Only one instance holds unlock rights for projects a
 
 ---
 ## Enola: Self-Healing Stale Locks Automatic Recovery — No Human Intervention Required
-
+```text
 FAILURE RECOVERY TEST
 
 Browser A ──┐
@@ -261,7 +261,7 @@ Lock automatically released
       │
       ▼
 Record available again
-
+```
 
 ### Test: Dual Browsers Crash Recovery
 **Scenario:** A user edits records in two browser sessions. Both browser processes are forcefully terminated via Task Manager.
