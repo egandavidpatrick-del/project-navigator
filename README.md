@@ -432,9 +432,9 @@ The Navigator platform was developed and tested on a workstation running Windows
 
 The hardware specification presented below reflects the development machine used throughout the project lifecycle. These specifications should not be interpreted as minimum system requirements; the platform is not resource-intensive and is expected to operate effectively on systems with lower hardware specifications than those listed.
 
-**Development environment
+**Development environment**
 
-Developed and tested on Windows 11 Pro using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
+- Developed and tested on Windows 11 Pro using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
 
 **Software Requirements**
 - XAMPP
