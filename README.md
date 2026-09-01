@@ -302,15 +302,18 @@ This repository includes:
 <a id="key-features"></a>
 ## ✨Key Features
 
-- Centralised engineering project directory catalogue
-- Fast historical and current project retrieval
-- Structured searchable project environment
-- Multi-user access and administration
-- Shared project visibility
-- Project bookmarking and quick access
-- Controlled project lifecycle management (CRUD)
-- Reduced dependency on fragmented directory structures
-- Automated system health monitoring
+- Project Search — Quickly find projects by structured metadata.
+- Project Management — Create, edit, and manage project records.
+- Directory Navigation — Open project locations directly from Navigator.
+- Multi-User Access — Multiple users can work concurrently.
+- Record Locking — Prevents conflicting edits or deletes.
+- Automatic Lock Recovery — Enola releases abandoned/stale locks.
+- Primary/Backup Failover — Enola maintains lock-recovery availability.
+- Authentication & Authorisation — Account and role-based access control.
+- Administration Portal — Manage users, permissions and system data.
+- Account Recovery — Email-assisted password recovery.
+- Audit/Operational Logging — Records important system/service activity.
+- On-Premises Deployment — Runs within the organisation's existing infrastructure.
 
 ---
 [Back to top](#enterprise-project)
