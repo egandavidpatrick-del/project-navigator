@@ -645,7 +645,7 @@ The hardware specification presented below reflects the development machine used
 * Email recovery
 * Background monitoring service
 * Automated stale record unlocking
-* Production-ready architecture
+* Deployed as an on-premises multi-user application
 
 [Back to top](#enterprise-project)
 <a id="project-status"></a>
