@@ -71,7 +71,7 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
 
-## BIM 19650 Directory Structure
+## BIM ISO 19650 Directory Structure
 ```text
 P:\2026 Projects
 └── [26L001 PROJECT NAME]
