@@ -154,7 +154,7 @@ This repository includes:
 | Web application    | PHP                               | Authentication, project management, administration |
 | Database           | MariaDB                           | Shared application state                           |
 | Background service | C#                                | Lock monitoring/recovery                           |
-| Operator client    | C# WinForms                       | Service visibility & diagnostics                   |
+| Operator client    | C# WinForms                       | Enola Client application                           |
 | Email              | PHPMailer                         | Account recovery                                   |
 | Web server         | Apache                            | Application hosting                                |
 | Runtime            | XAMPP                             | On-prem deployment                                 |
