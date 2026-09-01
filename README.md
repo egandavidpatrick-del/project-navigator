@@ -4,21 +4,11 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-##  Wasting Time Searching for Project Directories?
+##  Project Navigator
 
-Does your team ever waste valuable time searching through thousands of project directories to find the one they need?
+<b>A multi-user on-premises project directory management platform for AEC organisations.</b>
 
-It may seem like a small inconvenience, but across an entire team, those minutes add up quickly.
-
-<b>Project Navigator is built to eliminate that wasted time.</b>
-
-With two built-in search engines, Project Navigator can locate any project directory in seconds. Once you’ve found the project you’re looking for, simply click Open Directory button to launch it directly in File Explorer.
-
-No more guessing. No more digging through endless folders. No more wasted time.
-
-And Project Navigator is built to scale. Whether you have hundreds or thousands of project directories, it makes finding the right one quick and effortless.
-
-<b>The more project directories your team manages, the more valuable Project Navigator becomes.</b>
+Built with PHP, MariaDB, JavaScript and C#, Navigator provides centralised project discovery, role-based access control and concurrent record management. A companion Windows service, Enola, provides autonomous stale-lock recovery and primary/backup failover.
 
 ## At a Glance
 
