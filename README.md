@@ -332,30 +332,6 @@ This repository includes:
 | Runtime            | XAMPP                             | On-prem deployment                                 |
 
 
-
-
-
-<h4>Frontend</h4>
-
-- Bootstrap
-- jQuery
-- Vue -> Enola Record Unlock Viewer
-- JavaScript
-- AJAX
-- HTML5
-- CSS3
-  
-<h4>Backend</h4>
-
-- Email Delivery -> PHPMailer
-
-- PHP
-
-<h4>Servers Client & Sevice Background</h4>
-
-- Enola Client Server C# Winforms
-- Enola Service Server C#
-
 <h4>Integrated Development Environment</h4>
 
 - Microsoft Visual Studio 2022
