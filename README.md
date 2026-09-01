@@ -173,12 +173,6 @@ If your company’s directory structure aligns with the sample directory structu
 
 --- 
 
-## The Origins of Enola
-
-My association with the name Enola has no connection to the software industry or computing field. My familiarity with the name comes from the Navajo people of Arizona, where I understood Enola to be a name given to a baby girl, carrying the meaning “Magnolia.” Any reference I make to Enola relates to that cultural and personal context, not to any technology company, software product, or computing-related subject.
-
---- 
-
 ## Project Navigator and Enola Deployment Architecture
 
 The Navigator system consists of approximately 62 PHP scripts that collectively define the Navigator web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
