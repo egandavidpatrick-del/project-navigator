@@ -99,6 +99,7 @@ Navigator is designed around structured AEC project directories inspired by ISO 
 /guides/user-guides
   Project Navigator User guides (PDF)
   Enola client server User guide (PDF)
+  iso-19650-directory-model
 
 /images/project-navigator
   Project Navigator screenshots
