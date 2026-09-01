@@ -71,13 +71,17 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
 
-Project
-├── 01_WIP
-├── 02_SHARED
-├── 03_PUBLISHED
-├── 04_ARCHIVE
-├── 05_RESOURCES
-└── 06_INCOMING
+## BIM 19650 Directory Structure
+
+P:\2026 Projects
+└── [26L001 PROJECT NAME]
+    ├── 00_README.txt
+    ├── 01_WIP
+    ├── 02_SHARED
+    ├── 03_PUBLISHED
+    ├── 04_ARCHIVE
+    ├── 05_RESOURCES
+    └── 06_INCOMING
 
 Navigator is designed around structured AEC project directories inspired by ISO 19650 workflows. See the [directory model guide] for the full structure.
 
