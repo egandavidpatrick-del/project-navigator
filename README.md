@@ -657,6 +657,6 @@ The hardware specification presented below reflects the development machine used
 
 David Egan
 
-Senior Precision Applied Consulting Software Engineer. 42 years building this year 2026, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
+Sole Software Developer, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
