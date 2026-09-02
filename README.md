@@ -14,8 +14,6 @@ Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authent
 
 Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
 
-<b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
-
 **Repository note**
 
 The production application source code is private because Project Navigator was developed for an internal company environment. This repository intentionally contains the public technical documentation, architecture, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
