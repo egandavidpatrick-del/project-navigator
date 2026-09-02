@@ -16,6 +16,14 @@ Its companion <b>Enola</b> service provides autonomous stale-record recovery and
 
 <b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
 
+## At a Glance
+
+✔ Full-stack enterprise web application
+✔ Secure authentication and authorisation
+✔ Modern user interface
+✔ Role-based access control
+✔ Comprehensive documentation
+
 # The problem
 
 AEC organisations can accumulate thousands of project directories across shared network storage.
@@ -26,13 +34,9 @@ P:\2026 Projects
  └── [26L001 PROJECT NAME]
      └── WIP / Shared / Published / Archive / Resources / Incoming
 ```
-## At a Glance
+**Repository note**
 
-✔ Full-stack enterprise web application
-✔ Secure authentication and authorisation
-✔ Modern user interface
-✔ Role-based access control
-✔ Comprehensive documentation
+The production application source code is private because Project Navigator was developed for an internal company environment. This repository intentionally contains the public technical documentation, architecture, screenshots, demonstrations and deployment guidance rather than the proprietary application source.
 
 # 🧭 Multi-User Project Navigator
 <h3>Find Project Directories in Seconds</h3> 
