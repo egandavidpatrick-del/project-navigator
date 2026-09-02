@@ -58,7 +58,7 @@ P:\2022 Projects
 
 ## The interesting part: Enola
 
-Navigator uses optimistic record locking to prevent conflicting edits. Because browser sessions can terminate unexpectedly, locks can become orphaned.
+Navigator uses optimistic record locking to prevent conflicting edits or deletes. Because browser sessions can terminate unexpectedly, locks can become orphaned.
 
 <b>Enola is a C# Windows client paired with a hidden Windows Service designed to recover those locks automatically.</b>
 
