@@ -107,7 +107,7 @@ P:\2026 Projects
     ├── 05_RESOURCES
     └── 06_INCOMING
 ```
-Navigator is designed around structured AEC project directories inspired by ISO 19650 workflows. See the [ /guides/user-guides] for the full structure.
+Navigator is designed around structured AEC project directories inspired by ISO 19650 workflows. See the [ /guides/user-guides/iso-19650-directory-model.md] for the full structure.
 
 ---
 [Back to top](#enterprise-project)
