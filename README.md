@@ -16,7 +16,7 @@ Its companion <b>Enola</b> service provides autonomous stale-record recovery and
 
 **Repository note**
 
-The production application source code is private because Project Navigator was developed for an internal company environment. This repository intentionally contains the public technical documentation, architecture, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
+> The production application source code is private because Project Navigator was developed for an internal company environment. This repository intentionally contains the public technical documentation, architecture, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
 
 ## At a Glance
 
