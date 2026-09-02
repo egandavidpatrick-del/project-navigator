@@ -24,7 +24,7 @@ Finding a historical project can mean navigating:
 ```text
 P:\2026 Projects
  └── [26L001 PROJECT NAME]
-     └── WIP / Shared / Published / Archive
+     └── WIP / Shared / Published / Archive / Resources / Incoming
 ```
 ## At a Glance
 
