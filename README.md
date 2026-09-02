@@ -6,9 +6,15 @@
 
 ##  Project Navigator
 
-<b>A multi-user on-premises project directory management platform for AEC organisations.</b>
+<b>On-premises multi-user project directory management for AEC organisations</b>
 
-Built with PHP, MariaDB, JavaScript and C#, Navigator provides centralised project discovery, role-based access control and concurrent record management. A companion Windows service, Enola, provides autonomous stale-lock recovery and primary/backup failover.
+Project Navigator provides a centralised, searchable catalogue of thousands of engineering and construction project directories.
+
+Built with PHP, MariaDB, JavaScript and C#, the platform provides authentication, role-based access, project management and concurrent multi-user access.
+
+Its companion Enola service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
+
+Source code is private because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
 
 ## At a Glance
 
