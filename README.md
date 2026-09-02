@@ -450,13 +450,13 @@ This reduces time spent searching for project directories, improves coordination
 <a id="results"></a>
 ## 📊 Results
 
-* Supports concurrent users
-* Full administrator portal
-* Secure authentication
-* Email recovery
-* Background monitoring service
-* Automated stale record unlocking
-* Deployed as an on-premises multi-user application
+- Eliminated manual searching through large project directory structures.
+- Centralised project discovery into a searchable multi-user platform.
+- Reduced the risk of conflicting edits through record locking.
+- Automatically recovers abandoned locks without administrator intervention.
+- Maintains lock-recovery availability through primary/backup failover.
+- Provides controlled access through authentication and role-based administration.
+- Keeps project data and infrastructure within the organisation's on-premises environment.
 
 [Back to top](#enterprise-project)
 <a id="project-status"></a>
