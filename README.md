@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-##  Project Navigator
+#  Multi-User Project Navigator
 
 <b>On-premises multi-user project directory management for AEC organisations</b>
 
@@ -12,7 +12,7 @@ Project Navigator provides a centralised, searchable catalogue of thousands of e
 
 Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authentication, role-based access, project management and concurrent multi-user access.
 
-Its companion Enola service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
+Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
 
 <b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
 
