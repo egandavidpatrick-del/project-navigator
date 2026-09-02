@@ -14,7 +14,7 @@ Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authent
 
 Its companion Enola service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
 
-<b>Source codeis private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
+<b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
 
 ## At a Glance
 
