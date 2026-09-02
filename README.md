@@ -16,6 +16,18 @@ Its companion <b>Enola</b> service provides autonomous stale-record recovery and
 
 <b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
 
+The problem
+
+AEC organisations can accumulate thousands of project directories across shared network storage.
+
+Finding a historical project can mean navigating:
+```text
+Projects
+ └── Year
+     └── Project Number
+         └── Project
+             └── WIP / Shared / Published / Archive
+```
 ## At a Glance
 
 ✔ Full-stack enterprise web application
