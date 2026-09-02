@@ -36,6 +36,11 @@ P:\2026 Projects
  └── [26L001 PROJECT NAME]
      └── WIP / Shared / Published / Archive / Resources / Incoming
 ```
+```text
+P:\2022 Projects
+ └── [22L200 PROJECT NAME]
+     └── WIP / Shared / Published / Archive / Resources / Incoming
+```
 
 # 🧭 Multi-User Project Navigator
 <h3>Find Project Directories in Seconds</h3> 
