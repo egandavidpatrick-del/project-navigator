@@ -398,18 +398,22 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator centralises historical and active construction project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
+The Project Navigator solves directory chaos by deploying an on-premises web and desktop hybrid platform that indexes legacy file shares into a centralized database. 
+
+It pairs a PHP/Apache web interface for instant user query retrieval with an autonomous C# background worker (Enola) to ensure real-time concurrency and lock recovery.
+
+This centralised environment allows project records to be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling AEC teams to:
 
-- Quickly retrieve historical and current project records
-- Access project information through a structured search environment
-- Improve visibility of engineering projects across departments
-- Increase accessibility to organisational knowledge and technical records
-- Reduce time spent locating engineering documentation and project assets
-- Bookmark and quickly access frequently used projects
+- Quickly retrieve historical and current project records.
+- Access project information through a structured search environment.
+- Improve visibility of engineering projects across departments.
+- Increase accessibility to organisational knowledge and technical records.
+- Reduce time spent locating engineering documentation and project assets.
+- Bookmark and quickly access frequently used projects.
 
-By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
+  By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
 
 
 ---
