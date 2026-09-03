@@ -398,20 +398,20 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator solves directory chaos by deploying an on-premises web and desktop hybrid platform that indexes legacy file shares into a centralized database. 
+The Project Navigator solves directory chaos by deploying an <b>on-premises web and desktop hybrid</b> platform that indexes legacy file shares into a centralised database. 
 
-It pairs a PHP/Apache web interface for instant user query retrieval with an autonomous C# background worker (Enola) to ensure real-time concurrency and lock recovery.
+It pairs a <b>PHP/Apache web interface</b> for instant user query retrieval with an autonomous <b>C# background worker (Enola)</b> to ensure real-time concurrency and lock recovery.
 
 This centralised environment allows project records to be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
 
 The platform provides a shared catalogue of project information across the organisation, enabling AEC teams to:
 
-- Quickly retrieve historical and current project records.
-- Access project information through a structured search environment.
-- Improve visibility of engineering projects across departments.
-- Increase accessibility to organisational knowledge and technical records.
-- Reduce time spent locating engineering documentation and project assets.
-- Bookmark and quickly access frequently used projects.
+- <b>Quickly retrieve</b> historical and current project records.
+- <b>Access project information</b> through a structured search environment.
+- <b>Improve visibility</b> of engineering projects across departments.
+- <b>Increase accessibility</b> to organisational knowledge and technical records.
+- <b>Reduce time spent</b> locating engineering documentation and project assets.
+- <b>Bookmark</b> and quickly access frequently used projects.
 
   By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
 
