@@ -148,6 +148,7 @@ This repository includes:
 * Operational Considerations
 * Application Screenshots
 * Execution Logs
+* BIM ISO 19650 Directory Structure
 
 ---
 [Back to top](#enterprise-project)
