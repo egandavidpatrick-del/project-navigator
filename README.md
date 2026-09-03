@@ -477,7 +477,7 @@ This reduces time spent searching for project directories, improves coordination
 
 - Eliminated manual searching through large project directory structures.
 - Centralised project discovery into a searchable multi-user platform.
-- Reduced the risk of conflicting edits through record locking.
+- Reduced the risk of conflicting edits or deletes through record locking.
 - Automatically recovers abandoned locks without administrator intervention.
 - Maintains lock-recovery availability through primary/backup failover.
 - Provides controlled access through authentication and role-based administration.
