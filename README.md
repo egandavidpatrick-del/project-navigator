@@ -6,13 +6,15 @@
 
 #  Multi-User Project Navigator
 
+## Go to the table of contents below and click the Live Demo Link for demo videos.
+
 <b>On-premises multi-user project directory management for AEC organisations</b>
 
 Project Navigator provides a centralised, searchable catalogue of thousands of engineering and construction project directories.
 
 Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authentication, role-based access, project management and concurrent multi-user access.
 
-Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked. Go to the table of contents below and click the Live Demo Link for demo videos.
+Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked. 
 
 ### Repository Scope
 
