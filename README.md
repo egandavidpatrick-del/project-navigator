@@ -7,6 +7,7 @@
 #  Multi-User Project Navigator
 
 ## Go to the table of contents below and click the Live Demo Link for demo videos.
+## Go to the table of contents below and click the Enola Architecture Link for stale locks demo video.
 
 <b>On-premises multi-user project directory management for AEC organisations</b>
 
