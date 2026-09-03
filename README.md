@@ -12,7 +12,7 @@ Project Navigator provides a centralised, searchable catalogue of thousands of e
 
 Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authentication, role-based access, project management and concurrent multi-user access.
 
-Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
+Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.Go to the table of contents and click the Live Demo Link for demo videos.
 
 ### Repository Scope
 
