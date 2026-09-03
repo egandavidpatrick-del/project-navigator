@@ -398,7 +398,7 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator solves directory chaos by deploying an <b>on-premises web and desktop hybrid</b> platform that indexes legacy file shares into a centralised database. 
+The Project Navigator solves directory chaos by deploying an <b>on-premises web and desktop hybrid</b> platform that legacy file shares into a centralised database. 
 
 It pairs a <b>PHP/Apache web interface</b> for instant user query retrieval with an autonomous <b>C# background worker (Enola)</b> to ensure real-time concurrency and lock recovery.
 
