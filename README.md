@@ -441,11 +441,11 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 
 Traditional AEC workflows rely on engineers manually clicking through nested, labyrinthine folder structures on local network drives (e.g., P:\2026 Projects\...) to find historical drawings or project data. This process is slow, isolated, prone to human error, and creates systemic collaboration bottlenecks.
 
-Project Navigator replaces this manual browsing model with an instant, database-backed directory catalog. Instead of relying on disconnected paths, emails, and local spreadsheets, all stakeholders operate from a unified, indexed platform that retains structural consistency without altering the physical files on disk.
+<b>Project Navigator replaces this manual browsing model with an instant, database-backed directory catalog.</b> Instead of relying on disconnected paths, emails, and local spreadsheets, all stakeholders operate from a unified, indexed platform that retains structural consistency without altering the physical files on disk.
 
 Compared to traditional manual workflows, this system provides distinct advantages:
 
-- <b>Instant Discovery vs. Manual Deep-Browsing:</b> Users query a central, indexed catalogue via a responsive web UI to locate project records across thousands of directories in seconds, completely eliminating manual path traversal.
+- <b>Instant Discovery vs. Manual Deep-Browsing:</b> Users query a central, catalogue via a responsive web UI to locate project records across thousands of directories in seconds, completely eliminating manual path traversal.
 - <b>Automated Concurrency Handling vs. Disconnected Work:</b> Traditional file browsing lacks record-level governance. The platform implements optimistic record locking to prevent conflicting multi-user edits, keeping data safe during high-concurrency operations.
 - <b>Self-Healing Infrastructure vs. IT Support Dependence:</b> If a traditional network file is left locked by an abandoned user session, it requires manual IT intervention. Navigator’s autonomous background service (Enola) evaluates and automatically flushes out stale locks after 5 minutes, ensuring 24/7 uptime without administrative overhead.
 - <b>Local Data Sovereignty vs. Cloud Security Risks:</b> Many construction firms handle sensitive infrastructure data restricted by legal local compliance. This solution delivers modern, web-based search functionality completely on-premises within the company’s internal network, preventing external cloud exposure.
