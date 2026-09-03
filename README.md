@@ -301,8 +301,6 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 
 **Observation:** Hidden unlocks at exactly 5:00, Visible at 5:02 due to notification console display.
 
-**Enola Record lock logic lineage:** Flur Daniel's, London 1989 Nantucket Clipper Database (DOS) - when software engineers were real. I was learning the ropes back in those days :-)
-
 <h3>Enola Record Unlock Viewer</h3>
 
 **The log file as created in the video as seen in the Enola Record Unlock Viewer**
