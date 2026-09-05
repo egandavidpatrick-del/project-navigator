@@ -75,7 +75,7 @@ Navigator uses optimistic record locking to prevent conflicting edits or deletes
 <h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
 
 <img src="./images/enola-server/image7.png" width="100%">
-
+---
 <a id="enterprise-project"></a>
 
 ## 📑 Table of Contents
@@ -98,8 +98,8 @@ BLKEXPORT is built like the structures I trust — with reinforced concrete and 
 Predictable: It does exactly what you expect, every single time you run it.
 Dependable: Zero "calls home." No hidden telemetry, no internet required, and no random updates breaking your pipeline.
 Built to Last: Engineered for real CAD production environments, not flash demos or software trends.
-I build software the way it was 20 years ago: solve the actual problem, then get out of your way. Like a good bridge, it should work flawlessly on day 1 and day 1,001. Same result. No surprises. That’s the standard I hold myself to. That’s BLKEXPORT.
 
+I build software the way it was 20 years ago: solve the actual problem, then get out of your way. Like a good bridge, it should work flawlessly on day 1 and day 1,001. Same result. No surprises. That’s the standard I hold myself to. That’s BLKEXPORT.
 
 ---
 [Back to top](#enterprise-project)
