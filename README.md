@@ -75,7 +75,9 @@ Navigator uses optimistic record locking to prevent conflicting edits or deletes
 <h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
 
 <img src="./images/enola-server/image7.png" width="100%">
+
 ---
+
 <a id="enterprise-project"></a>
 
 ## 📑 Table of Contents
