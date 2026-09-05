@@ -93,7 +93,7 @@ Navigator uses optimistic record locking to prevent conflicting edits or deletes
 ---
 
 🏗 Software Design Philosophy
-No AI. No fluff. Just engineering.
+## No AI. No fluff. Just engineering.
 
 Project Navigator & Enola are built like the structures I trust — with reinforced concrete and steel. What that means for your company's workflow:
 
