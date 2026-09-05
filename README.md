@@ -100,7 +100,7 @@ Project Navigator & Enola are built like the structures I trust — with reinfor
 
 Predictable: It does exactly what you expect, every single time you run it.
 Dependable: Zero "calls home." No hidden telemetry, no internet required, and no random updates breaking your pipeline.
-Built to Last: Engineered for real CAD production environments, not flash demos or software trends.
+Built to Last: Engineered for real AEC production environments, not flash demos or software trends.
 
 I build software the way it was 20 years ago: solve the actual problem, then get out of your way. Like a good bridge, it should work flawlessly on day 1 and day 1,001. Same result. No surprises. That’s the standard I hold myself to. That’s Project Navigator & Enola.
 
