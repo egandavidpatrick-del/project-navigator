@@ -322,7 +322,7 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
 **The log file as created in the video as seen in the Enola Record Unlock Viewer**
 
 <p align="left">
-<img src="./images/enola-server/image8.png" width="100%">
+<img src="./images/enola-server/image8.png" width="99%">
 </p>
 💡 **Tip:** Click the image for the full-size version.
 
