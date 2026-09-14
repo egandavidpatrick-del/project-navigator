@@ -456,7 +456,7 @@ Designed for AEC organisations managing multi-user engineering workflows involvi
 <a id="why-is-it-better-than-traditional-workflows"></a>
 ## 🚀 Why Is It Better Than Traditional Workflows?
 
-Traditional AEC workflows rely on engineers manually clicking through nested, labyrinthine folder structures on local network drives (e.g., P:\2026 Projects\...) to find historical drawings or project data. This process is slow, isolated, prone to human error, and creates systemic collaboration bottlenecks.
+Traditional AEC workflows rely on engineers manually clicking through nested, labyrinthine directory structures on local network drives (e.g., P:\2026 Projects\...) to find historical drawings or project data. This process is slow, isolated, prone to human error, and creates systemic collaboration bottlenecks.
 
 <b>Project Navigator replaces this manual browsing model with an instant, database-backed directory catalog.</b> Instead of relying on disconnected paths, emails, and local spreadsheets, all stakeholders operate from a unified, platform that retains structural consistency without altering the physical files on disk.
 
