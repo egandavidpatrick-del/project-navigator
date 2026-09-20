@@ -11,6 +11,8 @@
 * [04. Project Navigator: Administrators Users Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ADMINISTRATORS%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [05. Project Navigator: Enola Record Unlock Viewer User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/e0e66b09c79507038122054208ddd4528b61d55e/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20RECORD%20UNLOCK%20VIEWER%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [06. Enola Backend Background Sentinel Guide](link-to-pdf-4)
+* [06. Enola Backend Background Sentinel Guide](link-to-pdf-4)
+* [06. Enola Backend Background Sentinel Guide](link-to-pdf-4)
 
 #  Multi-User Project Navigator
 
