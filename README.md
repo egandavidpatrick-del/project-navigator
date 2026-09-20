@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
 ## Enola & Project Navigator User Guides
-* [01. System Overview & Architecture Diagram](link-to-pdf-1)
+* [01. Architectural Diagram - Primary Unlocker Model](link-to-pdf-1)
 * [02. Concurrency & Database Row-Locking Protocol](link-to-pdf-2)
 * [03. The 4.5-Minute Client-Side Sync Manual](link-to-pdf-3)
 * [04. Enola Backend Background Sentinel Guide](link-to-pdf-4)
