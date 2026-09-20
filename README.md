@@ -12,7 +12,7 @@
 * [05. Project Navigator: Enola Record Unlock Viewer User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/e0e66b09c79507038122054208ddd4528b61d55e/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20RECORD%20UNLOCK%20VIEWER%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [06. Project Navigator: Login User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3b4b172b731013113db2c4bfb39fa2fb644d57b1/guides/user-guides/PROJECT%20NAVIGATOR%20LOGIN%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [06. Project Navigator: Messages User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3b4b172b731013113db2c4bfb39fa2fb644d57b1/guides/user-guides/PROJECT%20NAVIGATOR%20MESSAGES%20USER%20GUIDE%20VERSION%204.0.pdf)
-* [06. Project Navigator: MyProfile Users Guide](link-to-pdf-4)
+* [06. Project Navigator: MyProfile Users Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3948cb021b144d4e2b33dab7215a1033936281f1/guides/user-guides/PROJECT%20NAVIGATOR%20MYPROFILE%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [06. Enola Backend Background Sentinel Guide](link-to-pdf-4)
 * [06. Enola Backend Background Sentinel Guide](link-to-pdf-4)
 
