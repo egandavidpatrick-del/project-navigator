@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
+## Enola & Project Navigator User Guides
+* [01. System Overview & Architecture Diagram](link-to-pdf-1)
+* [02. Concurrency & Database Row-Locking Protocol](link-to-pdf-2)
+* [03. The 4.5-Minute Client-Side Sync Manual](link-to-pdf-3)
+* [04. Enola Backend Background Sentinel Guide](link-to-pdf-4)
+
 #  Multi-User Project Navigator
 
 ## Go to the table of contents below and click the Live Demo Link for demo videos.
