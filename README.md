@@ -502,7 +502,7 @@ Compared to traditional manual workflows, this system provides distinct advantag
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
-[Project Navigator Search all Projects Demo](https://youtu.be/Vg66_TL9fbM)
+[Project Navigator Search all Projects Demo](https://youtu.be/WzBOvGLDSlY)
 
 [Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/aePvmlm38h4)
 
