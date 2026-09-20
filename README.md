@@ -6,7 +6,7 @@
 
 ## Enola & Project Navigator User Guides
 * [01. Architectural Diagram - Primary Unlocker Model](https://github.com/egandavidpatrick-del/project-navigator/blob/6010d873bdf3f57fd7822c83fdbd5dce8768ca95/images/enola-server/image7.png)
-* [02. Enola Backend MariaDB Monitor User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/bfe0fc3d64af844da344860157755948fb9f19bf/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20USER%20GUIDE%20VERSION%201.0.pdf)
+* [02. Enola Backend MariaDB Database Monitor User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/bfe0fc3d64af844da344860157755948fb9f19bf/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [03. The 4.5-Minute Client-Side Sync Manual](link-to-pdf-3)
 * [04. Enola Backend Background Sentinel Guide](link-to-pdf-4)
 
