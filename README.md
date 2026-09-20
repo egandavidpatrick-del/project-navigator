@@ -8,14 +8,14 @@
 * [01. Architectural Diagram - Primary Unlocker Model](https://github.com/egandavidpatrick-del/project-navigator/blob/6010d873bdf3f57fd7822c83fdbd5dce8768ca95/images/enola-server/image7.png)
 * [02. Enola Backend MariaDB Database Monitor User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/bfe0fc3d64af844da344860157755948fb9f19bf/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [03. Project Navigator: Account Recovery User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ACCOUNT%20RECOVERY%20USER%20GUIDE%20VERSION%204.0.pdf)
-* [04. Project Navigator: Administrators Users Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ADMINISTRATORS%20USER%20GUIDE%20VERSION%204.0.pdf)
+* [04. Project Navigator: Administrators User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ADMINISTRATORS%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [05. Project Navigator: Enola Record Unlock Viewer User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/e0e66b09c79507038122054208ddd4528b61d55e/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20RECORD%20UNLOCK%20VIEWER%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [06. Project Navigator: Login User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3b4b172b731013113db2c4bfb39fa2fb644d57b1/guides/user-guides/PROJECT%20NAVIGATOR%20LOGIN%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [07. Project Navigator: Messages User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3b4b172b731013113db2c4bfb39fa2fb644d57b1/guides/user-guides/PROJECT%20NAVIGATOR%20MESSAGES%20USER%20GUIDE%20VERSION%204.0.pdf)
-* [08. Project Navigator: MyProfile Users Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3948cb021b144d4e2b33dab7215a1033936281f1/guides/user-guides/PROJECT%20NAVIGATOR%20MYPROFILE%20USER%20GUIDE%20VERSION%204.0.pdf)
+* [08. Project Navigator: MyProfile User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3948cb021b144d4e2b33dab7215a1033936281f1/guides/user-guides/PROJECT%20NAVIGATOR%20MYPROFILE%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [09. Project Navigator: New User Registration User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/3948cb021b144d4e2b33dab7215a1033936281f1/guides/user-guides/PROJECT%20NAVIGATOR%20NEW%20USER%20REGISTRATION%20GUIDE%20VERSION%204.0.pdf)
 * [10. Project Navigator: Operational User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/28af12ddd262b685e9c60cf05234570d4af6b809/guides/user-guides/PROJECT%20NAVIGATOR%20OPERATIONAL%20USER%20GUIDE%20VERSION%204.0.pdf)
-* [11. Enola Backend Background Sentinel Guide](link-to-pdf-4)
+* [11. Project Navigator: Record Locking User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/28af12ddd262b685e9c60cf05234570d4af6b809/guides/user-guides/PROJECT%20NAVIGATOR%20RECORD%20LOCKING%20USER%20GUIDE%20VERSION%204.0.pdf)
 
 #  Multi-User Project Navigator
 
