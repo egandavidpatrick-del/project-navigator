@@ -205,16 +205,16 @@ This repository includes:
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
-| Component          | Technology                         | Responsibility                                                                              |
-| ------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------- |
-| Web UI             | AJAX / HTML / CSS / Bootstrap / JS | Client-side presentation and asynchronous data fetching                                     |
-| Web application    | PHP                                | Server-side business logic, API endpoints, and session management                           |
-| Database           | MariaDB                            | Relational data storage, data persistence, and transactional integrity                      |
-| Background service | C#                                 | Continuous daemon execution, system health monitoring, and automated concurrency management |
-| Operator client    | C# WinForms                        | Enola Client application                                                                    |
-| Email              | PHPMailer                          | Account recovery                                                                            |
-| Web server         | Apache                             | Application hosting                                                                         |
-| Runtime            | XAMPP                              | On-prem deployment                                                                          |
+| Component          | Technology                                  | Responsibility                                                                              |
+| ------------------ | ------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Web UI             | AJAX / HTML / CSS / Bootstrap / JS / jQuery | Client-side presentation and asynchronous data fetching                                     |
+| Web application    | PHP                                         | Server-side business logic, API endpoints, and session management                           |
+| Database           | MariaDB                                     | Relational data storage, data persistence, and transactional integrity                      |
+| Background service | C#                                          | Continuous daemon execution, system health monitoring, and automated concurrency management |
+| Operator client    | C# WinForms                                 | Enola Client application                                                                    |
+| Email              | PHPMailer                                   | Account recovery                                                                            |
+| Web server         | Apache                                      | Application hosting                                                                         |
+| Runtime            | XAMPP                                       | On-prem deployment                                                                          |
 
 
 <h4>Integrated Development Environment</h4>
