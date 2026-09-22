@@ -133,13 +133,13 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 ```text
 P:\2026 Projects                
 └── [26L001 PROJECT NAME]
-├   ├── 00_README.txt
-├   ├── 01_WIP
-├   ├── 02_SHARED
-├   ├── 03_PUBLISHED
-├   ├── 04_ARCHIVE
-├   ├── 05_RESOURCES
-├   └── 06_INCOMING
+|   ├── 00_README.txt
+|   ├── 01_WIP
+|   ├── 02_SHARED
+|   ├── 03_PUBLISHED
+|   ├── 04_ARCHIVE
+|   ├── 05_RESOURCES
+|   └── 06_INCOMING
 └── [26L002 PROJECT NAME]
     ├── 00_README.txt
     ├── 01_WIP
@@ -151,13 +151,13 @@ P:\2026 Projects
 
 P:\2025 Projects
 └── [25L100 PROJECT NAME]
-├   ├── 00_README.txt
-├   ├── 01_WIP
-├   ├── 02_SHARED
-├   ├── 03_PUBLISHED
-├   ├── 04_ARCHIVE
-├   ├── 05_RESOURCES
-├   └── 06_INCOMING
+|   ├── 00_README.txt
+|   ├── 01_WIP
+|   ├── 02_SHARED
+|   ├── 03_PUBLISHED
+|  ├── 04_ARCHIVE
+|   ├── 05_RESOURCES
+|   └── 06_INCOMING
 └── [25L101 PROJECT NAME]
     ├── 00_README.txt
     ├── 01_WIP
