@@ -135,7 +135,6 @@ P:\2026 Projects
 └── [26L001 PROJECT NAME]
 ├   ├── 00_README.txt
 ├   ├── 01_WIP
-├   ├── 01_WIP
 ├   ├── 02_SHARED
 ├   ├── 03_PUBLISHED
 ├   ├── 04_ARCHIVE
@@ -153,7 +152,6 @@ P:\2026 Projects
 P:\2025 Projects
 └── [25L100 PROJECT NAME]
 ├   ├── 00_README.txt
-├   ├── 01_WIP
 ├   ├── 01_WIP
 ├   ├── 02_SHARED
 ├   ├── 03_PUBLISHED
