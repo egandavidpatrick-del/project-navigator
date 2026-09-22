@@ -255,7 +255,7 @@ This repository includes:
 --- 
 ## Does your workflow fit the Project Navigator way of working?
 
-If your company’s directory structure aligns with the sample directory structures defined above, the Project Navigator web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
+If your company’s directory structure aligns with the sample BIM ISO 19650 directory structures defined above, the Project Navigator web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
 
 --- 
 
