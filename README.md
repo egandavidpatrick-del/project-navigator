@@ -155,7 +155,7 @@ P:\2025 Projects
 |   ├── 01_WIP
 |   ├── 02_SHARED
 |   ├── 03_PUBLISHED
-|  ├── 04_ARCHIVE
+|   ├── 04_ARCHIVE
 |   ├── 05_RESOURCES
 |   └── 06_INCOMING
 └── [25L101 PROJECT NAME]
