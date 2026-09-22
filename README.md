@@ -6,7 +6,7 @@
 
 ## Project Navigator & Enola User Guides
 * [01. Architectural Diagram - Primary Unlocker Model](images/enola-server/image7.png)
-* [02. Enola Backend MariaDB Database Monitor User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/bfe0fc3d64af844da344860157755948fb9f19bf/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20USER%20GUIDE%20VERSION%201.0.pdf)
+* [02. Enola Backend MariaDB Database Monitor User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20USER%20GUIDE%20VERSION%201.0.pdf)
 * [03. Project Navigator: Account Recovery User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ACCOUNT%20RECOVERY%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [04. Project Navigator: Administrators User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/77947d43aff531b590bcd233c95f41533dbfff5d/guides/user-guides/PROJECT%20NAVIGATOR%20ADMINISTRATORS%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [05. Project Navigator: Enola Record Unlock Viewer User Guide](https://github.com/egandavidpatrick-del/project-navigator/blob/e0e66b09c79507038122054208ddd4528b61d55e/guides/user-guides/PROJECT%20NAVIGATOR%20ENOLA%20RECORD%20UNLOCK%20VIEWER%20USER%20GUIDE%20VERSION%201.0.pdf)
