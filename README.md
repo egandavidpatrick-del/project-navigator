@@ -16,6 +16,8 @@
 * [09. Project Navigator: New User Registration User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20NEW%20USER%20REGISTRATION%20GUIDE%20VERSION%204.0.pdf)
 * [10. Project Navigator: Operational User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20OPERATIONAL%20USER%20GUIDE%20VERSION%204.0.pdf)
 * [11. Project Navigator: Record Locking User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20RECORD%20LOCKING%20USER%20GUIDE%20VERSION%204.0.pdf)
+* [12. Project Navigator: installation & deployment User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20RECORD%20LOCKING%20USER%20GUIDE%20VERSION%204.0.pdf)
+* [13. Project Navigator: remote working User Guide](guides/user-guides/PROJECT%20NAVIGATOR%20RECORD%20LOCKING%20USER%20GUIDE%20VERSION%204.0.pdf)
 
 #  Multi-User Project Navigator
 
