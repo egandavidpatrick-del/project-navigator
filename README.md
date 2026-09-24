@@ -131,6 +131,9 @@ The Project Navigator Platform was originally developed for the AEC (Architectur
 <a id="typical-engineering-project-directory-structure"></a>
 
 ## BIM ISO 19650 Directory Structure
+
+The project and directory shown below are fictitious. No client data is displayed.
+
 ```text
 P:\2017 Projects
   ├── [17L441 Lakeview Housing Estate Water Mains]
