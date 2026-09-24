@@ -175,7 +175,7 @@ P:\2019 Projects
   └── 19L100 The Hundredth Project
 
 ```
-Navigator is designed around structured AEC project directories inspired by ISO 19650 workflows. See the [ /guides/user-guides/iso-19650-directory-model.md] in this repository for the full structure.
+Navigator is designed around structured AEC project directories inspired by BIM ISO 19650 workflows. See the [ /guides/user-guides/iso-19650-directory-model.md] in this repository for the full structure.
 
 ---
 [Back to top](#enterprise-project)
