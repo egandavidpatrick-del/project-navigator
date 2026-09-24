@@ -141,7 +141,7 @@ P:\2017 Projects
   |   ├─── 04_ARCHIVE
   |   ├─── 05_RESOURCES
   |   └──  06_INCOMING
-  ├── [17L094 Cathedral Quarter LED Lighting Retrofit]
+  ├── [17L094 PROJECT NAME]
   |   ├─── 00_README.txt
   |   ├─── 01_WIP
   |   ├─── 02_SHARED
@@ -154,7 +154,7 @@ P:\2017 Projects
   └── 17L100 The Hundredth Project
 
 P:\2019 Projects
-  ├──  [19L233 Oaklands School Fire Alarm Installation]
+  ├──  [19L233 PROJECT NAME]
   |   ├─── 00_README.txt
   |   ├─── 01_WIP
   |   ├─── 02_SHARED
@@ -162,7 +162,7 @@ P:\2019 Projects
   |   ├─── 04_ARCHIVE
   |   ├─── 05_RESOURCES
   |   └──  06_INCOMING
-  ├── [19L156 Milltown Wastewater Treatment Expansion]
+  ├── [19L156 PROJECT NAME]
   |   ├─── 00_README.txt
   |   ├─── 01_WIP
   |   ├─── 02_SHARED
