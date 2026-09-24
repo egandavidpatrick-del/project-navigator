@@ -523,7 +523,7 @@ Compared to traditional manual workflows, this system provides distinct advantag
 
 **Development and Test Environment**
 
-- Developed and tested on Windows 11 Pro using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
+- Developed and tested on Windows 11 Pro x64-bit using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
 
 **Software Requirements**
 - XAMPP
