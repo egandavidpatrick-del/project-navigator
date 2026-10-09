@@ -415,10 +415,11 @@ For a full breakdown of Enola and associated visible/hidden log files and PID na
   <img src="./images/project-navigator/image3.gif" width="49%">
 </p>
 
-<h3>Edit MyProfile</h3>
+<h3>Edit MyProfile or Create a New Entry</h3>
 
 <p align="left">
-<img src="./images/project-navigator/image4.gif" width="99%">
+<img src="./images/project-navigator/image4.gif" width="49%">
+<img src="./images/project-navigator/image5.gif" width="49%">
 </p>
 
 <h3>Search Users to Modify Access Privileges & Grant/Revoke User Privileges</h3>
