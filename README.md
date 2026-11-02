@@ -534,9 +534,6 @@ Compared to traditional manual workflows, this system provides distinct advantag
 - Apache 
 - MariaDB Database
   
-**Network Requirements**
-- Internet connection
-
 ---
 [Back to top](#enterprise-project)
 <a id="live-demo"></a>
