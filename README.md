@@ -535,7 +535,7 @@ Compared to traditional manual workflows, this system provides distinct advantag
 - MariaDB Database
 
 **Internet Connection**
-- No internet connection requires entirely on-premise
+- No internet connection required entirely on-premise
 
 ---
 [Back to top](#enterprise-project)
